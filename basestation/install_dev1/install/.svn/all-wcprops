@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pr2debs/!svn/ver/121/trunk/installers/basestation/install_dev1/install
+END
+vmlinuz
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pr2debs/!svn/ver/114/trunk/installers/basestation/install_dev1/install/vmlinuz
+END
+initrd.gz
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pr2debs/!svn/ver/121/trunk/installers/basestation/install_dev1/install/initrd.gz
+END

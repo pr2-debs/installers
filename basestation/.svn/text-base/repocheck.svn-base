@@ -1,0 +1,160 @@
+#! /usr/bin/env python
+
+"""
+usage: %prog command [--path PATH_TO_REPO] REV_FILE
+"""
+
+import os, sys, string
+from optparse import OptionParser
+import subprocess
+import yaml
+import re
+
+def expdep(dstr):
+  multid = dstr.split('|')
+  deps = []
+  for d in multid:
+    m = re.search('(.+)\s\((.*)\s(.*)\)',d)
+    if m:
+      deps.append((m.group(1).strip(), m.group(2), m.group(3)))
+    else:
+      deps.append((d.strip(), '*', '*'))
+  return deps
+  
+class Package(object):
+    def __init__(self, pstr):
+      self.name,self.ver,self.md5,depstr,provstr = pstr.split('\0',4)
+
+      self.deps = []
+      if len(depstr) > 0:
+        self.deps = [expdep(d) for d in depstr.split(',')]
+
+      self.provs = [self.name]
+      if len(provstr) > 0:
+        self.provs += [p.strip() for p in provstr.split(',')]
+
+      self.subdeps = False
+
+    def satisfies(self,dep):
+      if dep[1] == '*':
+        return True
+      else:
+        dpkgcmd = ['dpkg', '--compare-versions', self.ver, dep[1], dep[2]]
+        return (subprocess.call(dpkgcmd) == 0)
+
+    def IsProv(self):
+      return False
+
+def main(argv, stdout, environ):
+
+  parser = OptionParser(__doc__.strip())
+  parser.add_option("--path",action="store",type="string", dest="path",default=".")
+  parser.add_option("--gen",action="store", type="string", dest="version", default=None)
+
+  (options, args) = parser.parse_args()
+
+  if (len(args) < 1):
+    parser.error("Needs a command")
+
+  cmd = args[0]
+
+  repo_pkgs = {}
+  repo_provs = {}
+  filename = args[1]
+  reprepro_cmd = ['reprepro', '-b', options.path, """--list-format=${package}\\0${version}\\0${MD5Sum}\\0${depends}\\0${provides}\n""", 'list', 'lucid']
+  (o,e) = subprocess.Popen(reprepro_cmd, stdout=subprocess.PIPE).communicate()
+  for l in o.splitlines():
+    p = Package(l)
+    repo_pkgs[p.name] = p
+    for prov in p.provs:
+      if prov in repo_provs:
+        prov_list = repo_provs[prov]
+      else:
+        prov_list = []
+        repo_provs[prov] = prov_list
+      prov_list.append(p)
+
+  if cmd == "release":
+    if options.version:
+      pkg_vers = {}
+      for _,pkg in repo_pkgs.iteritems():
+        pkg_vers[pkg.name] = {'version':pkg.ver, 'md5':pkg.md5}
+      y={'version':options.version, 'pkgs':pkg_vers}
+      output = yaml.dump(y,default_flow_style=False)
+      f = open(filename,'w')
+      f.write(output)
+      f.close()
+    else:
+      y = yaml.load(open(filename,'r'))
+      try: 
+        ver = y['version']
+        pkgs = y['pkgs']
+        missing = False
+        for (p,d) in pkgs.iteritems():
+          v = d['version']
+          m = d['md5']
+          if p not in repo_pkgs:
+            print 'Release file needs package %s (%s)'%(p,v)
+            missing = True
+            continue
+          if v != repo_pkgs[p].ver:
+            print 'Release file wants package %s (%s) but repo has (%s)'%(p, v, repo_pkgs[p].ver)
+            missing = True
+          if m != repo_pkgs[p].md5:
+            print 'Release file wants package %s (md5: %s) but repo has (md5: %s)'%(p, m, repo_pkgs[p].md5)
+            missing = True
+        if missing:
+          sys.exit(1)
+        else:
+          print "All packages accounted for from release file."
+          sys.exit(0)
+            
+      except KeyError, e:
+        print e
+        parser.error("Release file is missing key.")
+         
+  elif cmd == "packages":
+    pkglist = open(filename,'r').read().splitlines()
+    missing = 0
+    for p in pkglist:
+      missing += check_deps(repo_pkgs, repo_provs, p)
+
+    if missing > 0:
+      sys.exit(1)
+    else:
+      sys.exit(0)
+
+  else:
+    parser.error("Invalid argument")
+
+def check_deps(repo_pkgs, repo_provs, pkgname):
+  if pkgname not in repo_pkgs:
+    print >> sys.stderr, "Missing Package: %s"%pkgname
+    return 1
+
+  if repo_pkgs[pkgname].subdeps == True:
+    return 0
+
+  # We can set subdeps to True assuming we will finish if we've started
+  # This keeps us from recursing
+  repo_pkgs[pkgname].subdeps = True
+
+  missing = 0
+
+  for deplist in repo_pkgs[pkgname].deps:
+    found = False
+    for d in deplist:
+      if d[0] in repo_provs:
+        for p in repo_provs[d[0]]:
+          if p.satisfies(d):
+            found = True
+            missing += check_deps(repo_pkgs, repo_provs, p.name)
+            break
+    if not found:
+      print >> sys.stderr, "Missing Dep: %s For Package: %s"%(deplist, pkgname)
+      missing += 1
+
+  return missing
+
+if __name__ == "__main__":
+  main(sys.argv, sys.stdout, os.environ)

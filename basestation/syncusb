@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rsync -crv --exclude '.svn' --delete --delete-excluded install_dev1/* $1
+chmod -R a+rX $1

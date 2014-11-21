@@ -1,0 +1,40 @@
+#! /usr/bin/env python
+
+"""
+usage: %prog [args]
+"""
+
+import os, sys, string
+from optparse import OptionParser
+import subprocess
+import yaml
+
+def main(argv, stdout, environ):
+
+  parser = OptionParser(__doc__.strip())
+  parser.add_option("-t","--test",action="store_true", dest="test",default=False,
+                    help="A testing flag")
+
+  (options, args) = parser.parse_args()
+
+  ret = 0
+  ret |= subprocess.call(['./repocheck', '--path', 'install_dev1/pr2-packages', 'release', 'basestation-release.yaml'])
+  ret |= subprocess.call(['./repocheck', '--path', 'install_dev1/pr2-packages', 'packages', 'install_dev1/pkglist'])
+#  ret |= subprocess.call(['./repocheck', '--path', 'install_dev1/pr2-packages', 'packages', 'install_dev1/pr2pkglist'])
+
+  y = yaml.load(open('basestation-release.yaml','r'))
+  try: 
+    release_ver = y['version'].strip()
+  except KeyError:
+    print >> sys.stderr, "Release file is missing version key."
+
+
+  if ret == 0:
+    print "Installer is ready at %s."%release_ver
+  else:
+    print >> sys.stderr, "Installer is not ready."
+
+  sys.exit(ret)
+
+if __name__ == "__main__":
+  main(sys.argv, sys.stdout, os.environ)

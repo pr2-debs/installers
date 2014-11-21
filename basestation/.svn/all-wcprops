@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/pr2debs/!svn/ver/966/trunk/installers/basestation
+END
+createusb.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/pr2debs/!svn/ver/966/trunk/installers/basestation/createusb.py
+END
+createiso.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/pr2debs/!svn/ver/838/trunk/installers/basestation/createiso.py
+END
+syncusb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pr2debs/!svn/ver/111/trunk/installers/basestation/syncusb
+END
+fetch
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/pr2debs/!svn/ver/838/trunk/installers/basestation/fetch
+END
+basestation-release.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pr2debs/!svn/ver/965/trunk/installers/basestation/basestation-release.yaml
+END
+verifyinstaller
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pr2debs/!svn/ver/121/trunk/installers/basestation/verifyinstaller
+END
+repocheck
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/pr2debs/!svn/ver/113/trunk/installers/basestation/repocheck
+END

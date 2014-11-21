@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pr2debs/!svn/ver/966/trunk/installers/basestation/install_dev1/isolinux
+END
+isolinux.bin
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pr2debs/!svn/ver/966/trunk/installers/basestation/install_dev1/isolinux/isolinux.bin
+END
+gfxboot.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pr2debs/!svn/ver/111/trunk/installers/basestation/install_dev1/isolinux/gfxboot.cfg
+END
+isolinux.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pr2debs/!svn/ver/121/trunk/installers/basestation/install_dev1/isolinux/isolinux.cfg
+END
+boot.cat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pr2debs/!svn/ver/111/trunk/installers/basestation/install_dev1/isolinux/boot.cat
+END

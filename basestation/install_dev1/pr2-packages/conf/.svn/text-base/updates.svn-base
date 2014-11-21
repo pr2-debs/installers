@@ -1,0 +1,7 @@
+Name: pr2-release
+Method: http://packages.ros.org/pr2-releases/pr2-0.5.8/ubuntu
+Components: main pr2 basestation multiverse restricted universe partner
+Architectures: amd64
+DownloadListsAs: .gz
+VerifyRelease: blindtrust
+

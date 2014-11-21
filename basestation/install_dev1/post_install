@@ -1,0 +1,30 @@
+#!/bin/sh
+
+cp /hd-media/usbpkgs.list /etc/apt/sources.list
+apt-get update
+
+## install the basestation packages
+apt-get remove -y apparmor
+apt-get install -y -o APT::Immediate-Configure=False `cat /hd-media/pkglist`
+apt-get dist-upgrade -y -o APT::Immediate-Configure=False
+apt-get -f install -o APT::Immediate-Configure=False
+nvidia-xconfig
+
+cp /hd-media/sources.list /etc/apt/sources.list
+
+# Copy our packages
+#cp -a /hd-media/pr2-packages /var/www/pr2-packages
+# Make sure they're not executable or else the webserver complains
+#find /var/www/pr2-packages -type f | xargs chmod a-x
+mv /var/www/pr2-packages/conf/updates /var/www/pr2-packages/conf/updates.bak
+echo """
+Name: pr2-release
+Method: file:/hd-media/pr2-packages
+Components: main pr2 basestation multiverse restricted universe partner
+Architectures: amd64
+DownloadListsAs: .gz
+""" > /var/www/pr2-packages/conf/updates
+reprepro -V -b /var/www/pr2-packages --noskipold update
+mv /var/www/pr2-packages/conf/updates.bak /var/www/pr2-packages/conf/updates
+
+echo "basestation" > /etc/hostname

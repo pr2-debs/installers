@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/pr2debs/!svn/ver/966/trunk/installers/basestation/install_dev1
+END
+usbpkgs.list
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pr2debs/!svn/ver/585/trunk/installers/basestation/install_dev1/usbpkgs.list
+END
+post_install
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pr2debs/!svn/ver/579/trunk/installers/basestation/install_dev1/post_install
+END
+basestation_lucid64.preseed
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pr2debs/!svn/ver/609/trunk/installers/basestation/install_dev1/basestation_lucid64.preseed
+END
+syslinux.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pr2debs/!svn/ver/124/trunk/installers/basestation/install_dev1/syslinux.cfg
+END
+pkglist
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pr2debs/!svn/ver/351/trunk/installers/basestation/install_dev1/pkglist
+END
+sources.list
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pr2debs/!svn/ver/366/trunk/installers/basestation/install_dev1/sources.list
+END
+pr2pkglist
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pr2debs/!svn/ver/238/trunk/installers/basestation/install_dev1/pr2pkglist
+END

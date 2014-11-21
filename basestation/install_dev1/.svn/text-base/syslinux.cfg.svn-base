@@ -1,0 +1,7 @@
+TIMEOUT 1
+
+default install/vmlinuz
+	append initrd=install/initrd.gz ramdisk_size=16417 root=/dev/ram  debian-installer/locale=en_US console-setup/layoutcode=us debconf/priority=critical debian-installer/framebuffer=false preseed/file=/hd-media/basestation_lucid64.preseed iso-scan/filename=ubuntu-10.04.1-alternate-amd64.iso iso-scan/device=/dev/sdb1 iso-scan/ask_second_pass=true netcfg/choose_interface=eth0  rw 
+
+label manual
+	localboot 0

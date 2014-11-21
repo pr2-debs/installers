@@ -1,0 +1,5786 @@
+pkgs:
+  acl:
+    md5: 903d9bdfcfe96f93babc93a127364ba4
+    version: 2.2.49-2
+  acpid:
+    md5: 811171544e181845814323481491e788
+    version: 1.0.10-5ubuntu2.5
+  adduser:
+    md5: 8527d20c0b6f3113b8ed5f40ecc6fd6e
+    version: 3.112ubuntu1
+  adium-theme-ubuntu:
+    md5: 7d37d3c227fc6533a309c3450a1b3479
+    version: 0.1-0ubuntu1
+  alacarte:
+    md5: 21080b38ff43556223ac41502502496d
+    version: 0.13.1-0ubuntu1
+  alsa-base:
+    md5: 15425595eb8d7ea1cd331c5a1c5edcfe
+    version: 1.0.22.1+dfsg-0ubuntu3
+  alsa-utils:
+    md5: a2dc8a86c0a05ee441cc045b8bf461cf
+    version: 1.0.22-0ubuntu5
+  anna:
+    md5: d66c64649a53509eabb069d07bba5ce1
+    version: 1.34ubuntu2
+  ant1.8:
+    md5: 1bfafc58711a1545821edfc64e990b22
+    version: 1.8.0-4ubuntu1
+  antlr:
+    md5: 267ce9ce4563df73df139fe57e9dac90
+    version: 2.7.7-15ubuntu1
+  apache2:
+    md5: 7cd5b73ca63f8208f19178628c9bee00
+    version: 2.2.14-5ubuntu8.9
+  apache2-mpm-prefork:
+    md5: 1e018aefb3eac615e695c424956b0305
+    version: 2.2.14-5ubuntu8.9
+  apache2-utils:
+    md5: 32ad0e4ce021160cfc491386a0d7d6db
+    version: 2.2.14-5ubuntu8.9
+  apache2.2-bin:
+    md5: 02d7be230dd3bff9e2a1195717e767fa
+    version: 2.2.14-5ubuntu8.9
+  apache2.2-common:
+    md5: 0d411be0f26607cddc22430cc9b9e1dd
+    version: 2.2.14-5ubuntu8.9
+  app-install-data:
+    md5: 0cf4fd5abf54c3b176ea52c753685222
+    version: 0.10.04.7
+  apparmor:
+    md5: 4ad6069f54c95f36110d1a650f9dad6f
+    version: 2.5.1-0ubuntu0.10.04.4
+  apparmor-utils:
+    md5: a9d4ea3d9cf30d2cb53e923a7a3b460b
+    version: 2.5.1-0ubuntu0.10.04.4
+  apt:
+    md5: 44651f44f0868654578c430222f87d61
+    version: 0.7.25.3ubuntu9.14
+  apt-cdrom-setup:
+    md5: 75e45d6ddf1a654407ac2c5056cc180b
+    version: 1:0.42ubuntu3
+  apt-mirror-setup:
+    md5: d378aefdacad7f3fe92b7536fb82e3c1
+    version: 1:0.42ubuntu3
+  apt-setup-udeb:
+    md5: aaaf569799618aeeb89baae1be23a49d
+    version: 1:0.42ubuntu3
+  apt-transport-https:
+    md5: dc65715b7231fc9b590e92a9c08f6c99
+    version: 0.7.25.3ubuntu9.14
+  apt-utils:
+    md5: 3e4e9dcedf1481ae3661bd0e7631f550
+    version: 0.7.25.3ubuntu9.14
+  apt-xapian-index:
+    md5: d804f58ee2a8e02d123c098aaad182a4
+    version: 0.25ubuntu2
+  aptdaemon:
+    md5: 4eeb2c52e3f6fc903d2ab54adbde5d8f
+    version: 0.11+bzr345-0ubuntu4.1
+  aptitude:
+    md5: ecbbc775d98a95e6a25d36c548cb0db8
+    version: 0.4.11.11-1ubuntu10lucid1
+  archdetect:
+    md5: f52cef429b9a16bc7f2f0c828607454b
+    version: 1.73ubuntu4
+  aspell:
+    md5: c6c5fc3c638a5fd34f79564d7c0f7daa
+    version: 0.60.6-3ubuntu1
+  aspell-en:
+    md5: 7e6cb8f04d029df2a31465d9a12c7668
+    version: 6.0-0-5.1ubuntu3
+  assimp-dev:
+    md5: dae9647dfea7659eb985031b68f2f252
+    version: 2.0.0.6-ubuntu1~lucid1
+  at:
+    md5: 599928fcf4a475b7aaa62019ca1f68cf
+    version: 3.1.11-1ubuntu5.1
+  atftpd:
+    md5: 98f143a43a03a91e7ad42bba131c4d50
+    version: 0.7.dfsg-8
+  autoconf:
+    md5: d4a62fe51fd122d04cde2ab25bb0fe93
+    version: 2.65-3ubuntu1
+  autofs5:
+    md5: 4572b649402e0372e099581a1e68e8b5
+    version: 5.0.4-3.1ubuntu5.1
+  automake:
+    md5: e25df4acce50fcd5a8ef5d942f00db6c
+    version: 1:1.11.1-1
+  autotools-dev:
+    md5: 323b19a32d226c54114c70bc301d7c87
+    version: '20090611.1'
+  avahi-daemon:
+    md5: 9d3449a755bb55700464eb0db478df5a
+    version: 0.6.25-1ubuntu6.2
+  avr-libc:
+    md5: ad6b7093b466c809d0ad82000a9954bb
+    version: 1:1.6.7-1ubuntu2
+  base-files:
+    md5: 4d0059ce5a597098fc0a699e1632430d
+    version: 5.0.0ubuntu20.10.04.5
+  base-installer:
+    md5: 85f6f0c52796fd29e42d553e8ebb7a3a
+    version: 1.103ubuntu7
+  base-passwd:
+    md5: abdc6ac48c90a840cb88dc43076b4def
+    version: 3.5.22
+  basestation-core-fuerte:
+    md5: 1160d8639598a02491822be8a7e4b27e
+    version: 0.1.1
+  bash:
+    md5: cf5ded2f1c5b175a6c7bb5fc6e5b61b7
+    version: 4.1-2ubuntu3
+  bash-completion:
+    md5: e02136c81f25e34feb419a1b60ecfd45
+    version: 1:1.1-3ubuntu2
+  beep:
+    md5: 0c648d63244f09e2acc77982f34f0be6
+    version: 1.2.2-24
+  beep-udeb:
+    md5: 3207cf5028a69413eedfa203773e1190
+    version: 1.2.2-24
+  bind9-host:
+    md5: 5b98d208678c25fdfea986b0c640cbbc
+    version: 1:9.7.0.dfsg.P1-1ubuntu0.7
+  binutils:
+    md5: 7e45da0bdde77a05ec0f3adc4cdf868a
+    version: 2.20.1-3ubuntu7.1
+  binutils-avr:
+    md5: 7718a21c0fdd259f63cda0df72c856ce
+    version: 2.20-2
+  binutils-static:
+    md5: a029c0257a8247892010402022adca87
+    version: 2.20.1-3ubuntu7.1
+  binutils-static-udeb:
+    md5: f06e4e0772a4aad5d09f8e1a58684a94
+    version: 2.20.1-3ubuntu5
+  bison:
+    md5: 9a7b018fa8c6c4442bfbb1e545c3372f
+    version: 1:2.4.1.dfsg-3
+  block-modules-2.6.32-21-generic-di:
+    md5: ea57a8fef96ebe4ef82ae932a67888ca
+    version: 2.6.32-21.32
+  blt:
+    md5: 9d9847732d67f1d4e14516a767f4d08d
+    version: 2.4z-4.2
+  bluez:
+    md5: 0633b695e6aee2e75d34f77d192e6e11
+    version: 4.60-0ubuntu8
+  bluez-hcidump:
+    md5: 5fa485ca0694f5de515f95c0bc8f30ef
+    version: 1.42-1build1
+  bogl-bterm-udeb:
+    md5: b1af784347f45815c9907776433f3616
+    version: 0.1.18-3ubuntu4
+  bootstrap-base:
+    md5: 144c19d8ca35b9fda6d721f297cec4fe
+    version: 1.103ubuntu7
+  brltty-udeb:
+    md5: 4f764a4011858bd55b9aa00f84e4a9f9
+    version: 4.1-2ubuntu6
+  bsdmainutils:
+    md5: a131e2c550446adcd423dc5656a26f67
+    version: 8.0.1ubuntu1
+  bsdutils:
+    md5: 86d66ba85255ec9f1a9dd48ae556f0b4
+    version: 1:2.17.2-0ubuntu1.10.04.2
+  bterm-unifont:
+    md5: 85364b0c753a2f4db3a23a38e34864f1
+    version: 1.1build1
+  build-essential:
+    md5: 2491c6ee12d77faed11b5b7123a13c95
+    version: 11.4build1
+  busybox-initramfs:
+    md5: 3a34e8f10ea11ec4a15cdca0e78153a7
+    version: 1:1.13.3-1ubuntu11
+  busybox-static:
+    md5: c6c29d9a6c9b9554f353c3d5fa84edab
+    version: 1:1.13.3-1ubuntu11
+  busybox-udeb:
+    md5: 1f6da7cc93ac26e9a127de6a4f8212c8
+    version: 1:1.13.3-1ubuntu11
+  bzip2:
+    md5: 0282dd30e0b9fc62691e214e26b7a400
+    version: 1.0.5-4ubuntu0.2
+  bzr:
+    md5: f44f218a9902d75dbdca4bd9afbccd96
+    version: 2.1.4-0ubuntu1
+  ca-certificates:
+    md5: b303c1afbf2820d1b8debb1fdd89d2ea
+    version: 20090814ubuntu0.10.04.1
+  ca-certificates-java:
+    md5: e885bb5e52550f3f28baaa9c0a5fdf06
+    version: 20100406ubuntu1.1
+  capplets-data:
+    md5: 53efa82181b418c0f4414d7c7de83b26
+    version: 1:2.30.1-0ubuntu2
+  cdbs:
+    md5: 8c2437905c17656af5bbf9552199a7b5
+    version: 0.4.62+nmu1ubuntu9
+  cdebconf-gtk-entropy:
+    md5: e900c4906fb88270df782c129a86590c
+    version: '0.13'
+  cdebconf-gtk-terminal:
+    md5: bf39162d962fc6acc29e3ae781da8f61
+    version: '0.6'
+  cdebconf-gtk-udeb:
+    md5: 99fc2ea640d3e8f7ae817865c3d60157
+    version: '0.147'
+  cdebconf-newt-detect-keys:
+    md5: 09b0a39933c295206b03d82fbd90bb3c
+    version: '0.10'
+  cdebconf-newt-entropy:
+    md5: 2f80ae47ba9d28f45dc7d7a8504e1794
+    version: '0.13'
+  cdebconf-newt-terminal:
+    md5: a6af3a4aee533e973b8e38e60b575ccd
+    version: '0.6'
+  cdebconf-newt-udeb:
+    md5: e22ad8352e4cf034b330ed856709a06b
+    version: '0.147'
+  cdebconf-priority:
+    md5: c664bfc38eb135b11412a4b3547c71f5
+    version: '0.147'
+  cdebconf-text-entropy:
+    md5: 6d3e48e3a5e5bb8eb9e9c7f35ded11f1
+    version: '0.13'
+  cdebconf-text-udeb:
+    md5: e24de6561e24139d0ca1e7b19bb7eeea
+    version: '0.147'
+  cdebconf-udeb:
+    md5: f63f488593aef268157274521487290a
+    version: '0.147'
+  cdrom-checker:
+    md5: ded00a075e676ba714711d709993ab36
+    version: 1.16ubuntu2
+  cdrom-detect:
+    md5: daeeba704df48d5bd3533d363ad9f9ad
+    version: 1.32ubuntu3
+  cdrom-retriever:
+    md5: d2e6bd63ab33e449e0ca04c26622d980
+    version: '1.19'
+  char-modules-2.6.32-21-generic-di:
+    md5: f3f8f2093f4aec63094396ed359477f7
+    version: 2.6.32-21.32
+  choose-mirror:
+    md5: 063b5764073f3c1c95790c6542b1ee12
+    version: 2.29ubuntu3
+  choose-mirror-bin:
+    md5: 7ed1c405c9a292786ea30779e4b5f285
+    version: 2.29ubuntu3
+  chrony:
+    md5: b1ad801ec9da1655e6b8e304901e0ee2
+    version: 1.23-7
+  ckermit:
+    md5: 2570b21f40839550f6b0dcd042e3c8f3
+    version: 211-13
+  cl-asdf:
+    md5: e54051239bbff9d1c9c0e56350705289
+    version: 1:20091221-1
+  clock-setup:
+    md5: b6fa95bdc1cd24167ccf5c29f961e5d0
+    version: 0.102ubuntu1
+  cmake:
+    md5: 58bb34e4a09ea543d6ee0033366445fe
+    version: 2.8.0-5ubuntu1
+  cmake-data:
+    md5: 34f2fbc367c17b1b54df3c850873ef0b
+    version: 2.8.0-5ubuntu1
+  comerr-dev:
+    md5: f431855a45f64f9f133e11ce9ef82b1f
+    version: 2.1-1.41.11-1ubuntu2.1
+  command-not-found:
+    md5: 40d0c4752bb9afc6e26ef20672b67c84
+    version: 0.2.40ubuntu5
+  command-not-found-data:
+    md5: 5f8fee12062ad443f474c4ce3fa77d32
+    version: 0.2.40ubuntu5
+  common-lisp-controller:
+    md5: 5e587bc03b0b812af82a005cb6cff340
+    version: '6.18'
+  config-package-dev:
+    md5: ab21685868b6e7bbb886febd39935390
+    version: '4.11'
+  console-setup:
+    md5: a7d07a00b831d89f6343ef4839aa8e14
+    version: 1.34ubuntu15
+  console-setup-fonts-udeb:
+    md5: fd433eca9b3c83d4bcc8f1116c0ad425
+    version: 1.34ubuntu15
+  console-setup-pc-ekmap:
+    md5: 44ca4f6f1b53647ca447b2c40efe1810
+    version: 1.34ubuntu15
+  console-setup-sun4-ekmap:
+    md5: dd00d93937e423f03103225a46d2dd11
+    version: 1.34ubuntu15
+  console-setup-sun5-ekmap:
+    md5: fd623299414f4cc17726b0807fd7d0a9
+    version: 1.34ubuntu15
+  console-setup-udeb:
+    md5: fb8544cf7db9d30469c996163280001e
+    version: 1.34ubuntu15
+  console-terminus:
+    md5: e23c9c4f8fc356639a7fae29e6b2bc9d
+    version: 4.30-2
+  consolekit:
+    md5: d6c586c0c3eb4dc2b3bf21ac0d3ac364
+    version: 0.4.1-3ubuntu3
+  coreutils:
+    md5: 3b195f89cce3d6f1dae529c9f63350b2
+    version: 7.4-2ubuntu3
+  couchdb:
+    md5: ebb94e2822e271a8295033e4448652a4
+    version: 0.10.0-1ubuntu2
+  couchdb-bin:
+    md5: c7acfaf1736216ab88ea5357e4a5410e
+    version: 0.10.0-1ubuntu2
+  cpio:
+    md5: de67d7d82de45b02fd1c78719fe1146b
+    version: 2.10-1ubuntu2
+  cpp:
+    md5: f63433bac13f529320f417a0ea41f334
+    version: 4:4.4.3-1ubuntu1
+  cpp-4.1:
+    md5: 2aa2eb4d9377f100e20b0e65725fb2a1
+    version: 4.1.2-27ubuntu1
+  cpp-4.3:
+    md5: 769cf9a38d7102fadbf36aec225262f9
+    version: 4.3.4-10ubuntu1
+  cpp-4.4:
+    md5: 30581157499e345728929c1f6795d2cf
+    version: 4.4.3-4ubuntu5.1
+  cpufreqd:
+    md5: ad061ae415a7f2f825e3ca65113eea0f
+    version: 2.3.3-4ubuntu1
+  cron:
+    md5: e1e1eab2f21eed954af4874ae531dc93
+    version: 3.0pl1-106ubuntu7
+  crypto-modules-2.6.32-21-generic-di:
+    md5: 0b96d036b218cc4c18d84c093a3e63b4
+    version: 2.6.32-21.32
+  cryptsetup-udeb:
+    md5: fb1b1c2ef9cf87ce301583c4f1e388b2
+    version: 2:1.1.0~rc2-1ubuntu13
+  curl:
+    md5: afff9cf0f726994dac3f281cb1164f66
+    version: 7.19.7-1ubuntu1.1
+  cvs:
+    md5: 2092be9febb18938c686cb54bd15740e
+    version: 1:1.12.13-12ubuntu1.10.04.1
+  daemontools:
+    md5: 38f0e462f4bffb42e0bc802325be2830
+    version: 1:0.76-3ubuntu2
+  dash:
+    md5: 4518c5f8ee90fed8e277ce859a7972a6
+    version: 0.5.5.1-3ubuntu2
+  dbus:
+    md5: c04b443ec10a2fc94115a9b5ca202015
+    version: 1.2.16-2ubuntu4.5
+  dbus-x11:
+    md5: 5d19b4d0331bec36dd24a2a25517e70b
+    version: 1.2.16-2ubuntu4.5
+  debconf:
+    md5: 8ef986d733ef015cdb149689efac57e6
+    version: 1.5.28ubuntu4
+  debconf-i18n:
+    md5: b612ecd7e5873e836ae528f1c0215c2f
+    version: 1.5.28ubuntu4
+  debconf-utils:
+    md5: c8b3e356ae1062ae25ea95d7072578b4
+    version: 1.5.28ubuntu4
+  debhelper:
+    md5: 61f9a9b7a50b7ffac3f6da10ab04cd05
+    version: 7.4.15ubuntu1
+  debianutils:
+    md5: 5a78f8fe68acceb72d954d096803e5e6
+    version: 3.2.2
+  debootstrap-udeb:
+    md5: ecea1966ed72b10077a91dd5d8c7ea4e
+    version: 1.0.20ubuntu1
+  default-jdk:
+    md5: a86134d04f3f01a9abf3c883952d0374
+    version: 1.6-34
+  default-jre:
+    md5: 74cf01db3a4a11be0f967edc66c303b6
+    version: 1.6-34
+  default-jre-headless:
+    md5: bf659a7dcdab164784311731b4fb39f5
+    version: 1.6-34
+  defoma:
+    md5: 5327470da7750aab3b38a07277af60be
+    version: 0.11.10-4ubuntu1
+  desktop-file-utils:
+    md5: 84dd74bd3c8e1b310ea2036530a3e2c8
+    version: 0.16-0ubuntu2
+  devio-udeb:
+    md5: 89c9bbb84fd8a06642222363293d8207
+    version: 1.2-1build1
+  dhcp3-client:
+    md5: 21053f24b059e72fd22745364b512795
+    version: 3.1.3-2ubuntu3.4
+  dhcp3-client-udeb:
+    md5: 1ac48b56dfebfbb7c5f15a24caf48080
+    version: 3.1.3-2ubuntu3
+  dhcp3-common:
+    md5: 96bea0b95798ebff4136a57ac88fd77c
+    version: 3.1.3-2ubuntu3.4
+  di-utils:
+    md5: 5aa567102cbac0ba7f5e930f646c169e
+    version: 1.72ubuntu5
+  di-utils-mapdevfs:
+    md5: e535802af59c726cf5ad006c57177ed1
+    version: 1.72ubuntu5
+  di-utils-reboot:
+    md5: 69616bddffc5309aea579e67d1ceac15
+    version: 1.72ubuntu5
+  di-utils-shell:
+    md5: 0b461a3ee89a5a7777dcc3dbfbf67363
+    version: 1.72ubuntu5
+  di-utils-terminfo:
+    md5: 207b5d38b2384c06be156e1a82815f00
+    version: 1.72ubuntu5
+  dictionaries-common:
+    md5: 221b907776d5f6d21e4c809ce58ec526
+    version: 1.4.0ubuntu2
+  diff:
+    md5: ecce80a93453debcd3d70a3f9ee5f3bf
+    version: 1:2.8.1-18
+  diffutils:
+    md5: 3da974b447442f53700a4ae500c3b1c0
+    version: 1:2.8.1-18
+  disk-detect:
+    md5: e403cfbc2de44f1fcb11c5e4004b7529
+    version: 1.73ubuntu4
+  distcc:
+    md5: 10be569ae8976f82f739447e37dd6141
+    version: 3.1-2
+  dkms:
+    md5: c809e894fa2768cc5bbd062f37f9d4c3
+    version: 2.1.1.2-2ubuntu1
+  dmidecode:
+    md5: 700118b06e3434c2c3471442cbcd92a7
+    version: 2.9-1.2
+  dmraid-udeb:
+    md5: e4ce44b37fea3ae0ad5135335499c0e3
+    version: 1.0.0.rc16-3ubuntu2
+  dmsetup:
+    md5: 06a326ed5e05187804efa0a07e01eee8
+    version: 2:1.02.39-1ubuntu4.1
+  dmsetup-udeb:
+    md5: 46b39fc30b5dc1e656b96b2c63e0f78a
+    version: 2:1.02.39-1ubuntu4
+  dmz-cursor-theme:
+    md5: 83e5f820b6ca2652ca22161eb834217d
+    version: 0.4.1
+  dnsmasq:
+    md5: 00407aa78a65b3f46f1012fbef63b1bd
+    version: 2.52-1ubuntu0.1
+  dnsmasq-base:
+    md5: 4062a02746cf746a66fab3374d415ebf
+    version: 2.52-1ubuntu0.1
+  dnsutils:
+    md5: cee2aeca3bc5c59377a6966fabb05dc0
+    version: 1:9.7.0.dfsg.P1-1ubuntu0.7
+  doc-base:
+    md5: 9298e06ddefb4626a44319404343f3f5
+    version: 0.9.5
+  docbook-xml:
+    md5: f8e01e70415b498d1fe4f18eec016f97
+    version: 4.5-7
+  dosfstools:
+    md5: fe7f9390a05e6578cf5dd53c79928e87
+    version: 3.0.7-1
+  download-installer:
+    md5: 435fa4f9d81c4c0ffc194b47bd8c4717
+    version: 1.24ubuntu2
+  doxygen:
+    md5: cfe8949db5864549462fb44c7988145f
+    version: 1.6.3-1
+  dpkg:
+    md5: e662587acc88a2855fb0c348fe06d8dc
+    version: 1.15.5.6ubuntu4.6
+  dpkg-dev:
+    md5: 7db8b3b2bc43caf9993c80c4617d596e
+    version: 1.15.5.6ubuntu4.6
+  dvd+rw-tools:
+    md5: 5d3d7298fc25945bdeb7e78cc2208fb6
+    version: 7.1-6
+  e2fslibs:
+    md5: e49a118c36eb6433b2f5cff966d28c67
+    version: 1.41.11-1ubuntu2.1
+  e2fsprogs:
+    md5: f7c02701a993c9f25d66f6535d3a4d92
+    version: 1.41.11-1ubuntu2.1
+  e2fsprogs-udeb:
+    md5: ad1d2a5902927f4fe70896f3642d2bf5
+    version: 1.41.11-1ubuntu2
+  ed:
+    md5: b2175ba6b96b30f25be5a64854d868a0
+    version: 1.4-1build1
+  eject:
+    md5: 46f5dda53d5a32b5a497e717140416ba
+    version: 2.1.5+deb1+cvs20081104-7
+  eject-udeb:
+    md5: 1a6fdbb5bf396269ffdb342190c9371a
+    version: 2.1.5+deb1+cvs20081104-7
+  emacs:
+    md5: 3205884192aad36693d985bf7c8c7e16
+    version: 23.1+1-4ubuntu7.3
+  emacs22-bin-common:
+    md5: cb962b6c83f0f60642879dfe86d23af1
+    version: 22.2-0ubuntu9
+  emacs22-common:
+    md5: b496835764239806f30d97bb69280cf1
+    version: 22.2-0ubuntu9
+  emacs22-gtk:
+    md5: c6c76a28289171769ec560be20b003e6
+    version: 22.2-0ubuntu9
+  emacs23:
+    md5: 408fb3914ab3fe9d0f36e89982513976
+    version: 23.1+1-4ubuntu7.3
+  emacs23-bin-common:
+    md5: 15560816074ba42b492bcde612226fe6
+    version: 23.1+1-4ubuntu7.3
+  emacs23-common:
+    md5: 079055db7ca2f24e2f40fa144d5081b3
+    version: 23.1+1-4ubuntu7.3
+  emacsen-common:
+    md5: 86ba3c572e87c98bedc7dea365e9442a
+    version: 1.4.19ubuntu1
+  env-preseed:
+    md5: 2686c1905c3bb85b66ec513071de5852
+    version: '1.43'
+  erlang-base:
+    md5: 7200e592bdfbce149cc7b7b18e410bdf
+    version: 1:13.b.3-dfsg-2ubuntu2.1
+  erlang-crypto:
+    md5: 88bc9a9bb6ad675fbc5e005c6b4a95af
+    version: 1:13.b.3-dfsg-2ubuntu2.1
+  erlang-inets:
+    md5: 34b970e74a7aa0d98aeeb7375de2f3d4
+    version: 1:13.b.3-dfsg-2ubuntu2.1
+  erlang-mnesia:
+    md5: 592741e2d39d421df4b5c9236421603b
+    version: 1:13.b.3-dfsg-2ubuntu2.1
+  erlang-public-key:
+    md5: 68a40d4ab7b86588159d13adf9609321
+    version: 1:13.b.3-dfsg-2ubuntu2.1
+  erlang-runtime-tools:
+    md5: e06638495810d5e93092051730f52538
+    version: 1:13.b.3-dfsg-2ubuntu2.1
+  erlang-ssl:
+    md5: fd3e37094b53100ad7316797f873d41a
+    version: 1:13.b.3-dfsg-2ubuntu2.1
+  erlang-xmerl:
+    md5: f72a3ebc47d0a5295501c9c8b52a8552
+    version: 1:13.b.3-dfsg-2ubuntu2.1
+  esound-clients:
+    md5: 13953254263838eeee9faee2fa92fe21
+    version: 0.2.41-6ubuntu1
+  esound-common:
+    md5: 53b1d0eb9afa50a496755647ac34c77c
+    version: 0.2.41-6ubuntu1
+  ethdetect:
+    md5: a21a8f71e7c54484ed0f46f339fc8c59
+    version: 1.73ubuntu4
+  eucalyptus-udeb:
+    md5: 1c7d8806c4c9815f0c3b11cec76761d8
+    version: 1.6.2-0ubuntu30
+  evolution-data-server:
+    md5: e5d3e4eed722ad0e34cd5ce994e90df0
+    version: 2.28.3.1-0ubuntu6.1
+  evolution-data-server-common:
+    md5: c6dae6899320cc52c5168da0683ebe0d
+    version: 2.28.3.1-0ubuntu6.1
+  executable-selector:
+    md5: 8a5609c4ec90ec6b3a30cf283ebfcfed
+    version: 0.0.2
+  fakeroot:
+    md5: 9147e814b9f5767794d643ad9bba8718
+    version: 1.14.4-1ubuntu1
+  fat-modules-2.6.32-21-generic-di:
+    md5: aea2a8dbe2ca8a2864a91a939d544dbd
+    version: 2.6.32-21.32
+  fb-modules-2.6.32-21-generic-di:
+    md5: 93cebc726f9fa006b7b8047560f95326
+    version: 2.6.32-21.32
+  fbset-udeb:
+    md5: 8377e549cda8fef3624a9c9eaa8b4213
+    version: 2.1-24
+  fdisk-udeb:
+    md5: f1f57cb7841135df43c3f3f204c31a3c
+    version: 2.17.2-0ubuntu1
+  fdupes:
+    md5: 84ad2550f9de10ca0f2a29d99883adcb
+    version: 1.50-PR2-2build1
+  festival:
+    md5: 78803f10bb293c57f0dbee17fc2ba886
+    version: 1.96~beta-10ubuntu1
+  festlex-cmu:
+    md5: 253e1c1e26ba6c76030b684418f25301
+    version: 1.4.0-6
+  festlex-poslex:
+    md5: 2e8d0c7372af4303323cec544f54500f
+    version: 1.4.0-5
+  festvox-kallpc16k:
+    md5: fb458d7783c6aa473ca568839a4dd7f5
+    version: 1.4.0-5
+  file:
+    md5: 007ddd9c9616ec9655ae0266d0aaa161
+    version: 5.03-5ubuntu1
+  file-preseed:
+    md5: b681ac3baaebb9b33444c197c189d627
+    version: '1.43'
+  findutils:
+    md5: 8c6e8e53f1f2d03e6f19d7b4bdcd5546
+    version: 4.4.2-1ubuntu1
+  finish-install:
+    md5: 62a5b9c25a48831d40db03bf7d38c002
+    version: 2.24ubuntu1
+  firefox:
+    md5: e8d3e11cf14f450c42aff9e7500080a6
+    version: 15.0.1+build1-0ubuntu0.10.04.1
+  firefox-3.0:
+    md5: 12be67d8ca79592ad62ede5186f4e904
+    version: 15.0.1+build1-0ubuntu0.10.04.1
+  firefox-branding:
+    md5: e1ec07c1f77ae700ee2c534f12785bc0
+    version: 15.0.1+build1-0ubuntu0.10.04.1
+  firewire-core-modules-2.6.32-21-generic-di:
+    md5: b91321730ea33a083cfec4feac5f093a
+    version: 2.6.32-21.32
+  flex:
+    md5: b90d7514950f98834eb7d56bea928ac1
+    version: 2.5.35-9
+  floppy-modules-2.6.32-21-generic-di:
+    md5: ae56963cffec5d019839995082076a27
+    version: 2.6.32-21.32
+  fontconfig:
+    md5: 8bcf2c799369fc65741302f539fcb2ba
+    version: 2.8.0-2ubuntu1
+  fontconfig-config:
+    md5: 3b5bb9583ca00ae8ccab3777ff57815f
+    version: 2.8.0-2ubuntu1
+  fontconfig-udeb:
+    md5: b50e2bbfece69360b7668dd356d46521
+    version: 2.8.0-2ubuntu1
+  freeglut3:
+    md5: 42d082f59fea93a304d385dcd19c3dc0
+    version: 2.6.0-0ubuntu2
+  freeglut3-dev:
+    md5: 04fb57c3e0e198e555eaec51e2f10eef
+    version: 2.6.0-0ubuntu2
+  friendly-recovery:
+    md5: 6250018f6636e7db17b0c28ebe1823b5
+    version: 0.2.10
+  fs-core-modules-2.6.32-21-generic-di:
+    md5: 909de1632e07a2afad962e65e42c181a
+    version: 2.6.32-21.32
+  fs-secondary-modules-2.6.32-21-generic-di:
+    md5: 7a7385dc6fc845793d75ae2ff1216b89
+    version: 2.6.32-21.32
+  fstab.d:
+    md5: acf7b6cd9deedbdd97ed2b683e44ebf3
+    version: 0.0.6
+  ftgl-dev:
+    md5: 915322414270ded1fbfc521e8dde272c
+    version: 2.1.3~rc5-3
+  ftp:
+    md5: 7aa4e0bcf7f7e70874942518e02912f9
+    version: 0.17-19build1
+  fuse-utils:
+    md5: 283f2ac7b381e11c9af5a871e96570df
+    version: 2.8.1-1.1ubuntu3.1
+  fuse-utils-udeb:
+    md5: e652d9df0cc5dccaa2d3f21dcc87b9d2
+    version: 2.8.1-1.1ubuntu2
+  g++:
+    md5: dbd7268ab07062c1e4b124fbdd3c0c71
+    version: 4:4.4.3-1ubuntu1
+  g++-4.1:
+    md5: cbef2fc14e52eb986cb3db67e57a52e2
+    version: 4.1.2-27ubuntu1
+  g++-4.3:
+    md5: c27da748ff92e630fb6063bbae94cefc
+    version: 4.3.4-10ubuntu1
+  g++-4.4:
+    md5: 288aa5154e9ef5630931d1bd2d199369
+    version: 4.4.3-4ubuntu5.1
+  gamin:
+    md5: 0a6fe416c518c9925abec1f4647c86e4
+    version: 0.1.10-1ubuntu3
+  gawk:
+    md5: a9b7ca53798fa13709e9dc9633fd527e
+    version: 1:3.1.6.dfsg-4build1
+  gcc:
+    md5: b027e5fcc6ca184e35acd2de53bb9efe
+    version: 4:4.4.3-1ubuntu1
+  gcc-4.1:
+    md5: b6c3e47007104c264c5799b6b720b5a6
+    version: 4.1.2-27ubuntu1
+  gcc-4.1-base:
+    md5: 39086e66a528cdef7904ab07f8cf81e6
+    version: 4.1.2-27ubuntu1
+  gcc-4.3:
+    md5: 59a5e8239cb9753853602c010dc251a9
+    version: 4.3.4-10ubuntu1
+  gcc-4.3-base:
+    md5: a75815cb1b78755e1e27ba2f9d5c1420
+    version: 4.3.4-10ubuntu1
+  gcc-4.4:
+    md5: 74a184b61ccc56f9b35d37587bc16bda
+    version: 4.4.3-4ubuntu5.1
+  gcc-4.4-base:
+    md5: 77598a0055cf5968e738d142f7f7b028
+    version: 4.4.3-4ubuntu5.1
+  gcc-avr:
+    md5: 2ce25bf5bd9a77adf39b2c1aafa79cb2
+    version: 1:4.3.4-1
+  gccxml:
+    md5: 7d50a59e08b847a75845ab1c1b294569
+    version: 0.9.0+cvs20090916-1
+  gconf2:
+    md5: d80150a6d883c180a9ae1c52772bce5c
+    version: 2.28.1-0ubuntu1
+  gconf2-common:
+    md5: e2faceb34cd89101e7d1cb47610b5eb8
+    version: 2.28.1-0ubuntu1
+  gdb:
+    md5: 415e347537bdd274efa3d363ba0997d3
+    version: 7.1-1ubuntu2
+  gdm:
+    md5: 6ed57889bc0ad6fa696ee86422cf67e8
+    version: 2.30.2.is.2.30.0-0ubuntu5.2
+  genisoimage:
+    md5: 39c1ea05b0e53e3b48f77d5e805a1522
+    version: 9:1.1.10-1ubuntu1
+  gettext:
+    md5: 1b98a92adafbde2674ade0000d67f7da
+    version: 0.17-8ubuntu3
+  gettext-base:
+    md5: 67ea112cee3d54c78bfbc9197f9316e6
+    version: 0.17-8ubuntu3
+  gforth:
+    md5: 7f713ccfcbfa94c1f08a779d569f64e2
+    version: 0.7.0+ds1-5
+  gforth-common:
+    md5: 2b0b8ade2278aee779baebcf8443ee72
+    version: 0.7.0+ds1-5
+  gfortran:
+    md5: 776d59249d5b5ee15f0c1ac5e5b7059e
+    version: 4:4.4.3-1ubuntu1
+  gfortran-4.3:
+    md5: 0843450ddc02fb6d799334fca1bb0e01
+    version: 4.3.4-10ubuntu1
+  gfortran-4.4:
+    md5: adc3fc855e9a17b2626dfb5e15e15a0b
+    version: 4.4.3-4ubuntu5.1
+  ghostscript:
+    md5: ef57ecea70a891c65bbc322240467021
+    version: 8.71.dfsg.1-0ubuntu5.5
+  gimp-help-common:
+    md5: 8c6b8f3e817fa07b7e86026f077bf688
+    version: 2.4.1-2
+  gimp-help-en:
+    md5: 4ee226c597cd604af039f8e4d6e734c8
+    version: 2.4.1-2
+  git-core:
+    md5: 67299238ba617fcc1d942880beb2410e
+    version: 1:1.7.0.4-1ubuntu0.2
+  gksu:
+    md5: cafaf43aeca1cbd3bc998de4b857b2b7
+    version: 2.0.2-2ubuntu2
+  gnome-about:
+    md5: d8f92e8ce5f133c519d807789a6b449b
+    version: 1:2.30.2-0ubuntu1
+  gnome-app-install:
+    md5: f8af5d2b69d1fa8eb81fc03d949babb5
+    version: 2.0.7
+  gnome-applets:
+    md5: 5aba702c47a26ca1111dead88aa387d1
+    version: 2.30.0-0ubuntu2
+  gnome-applets-data:
+    md5: 086f4eb82e94e72efba75daaf2498a34
+    version: 2.30.0-0ubuntu2
+  gnome-control-center:
+    md5: 5531b88872ed3c4dce8ddbb09c89aa5d
+    version: 1:2.30.1-0ubuntu2
+  gnome-desktop-data:
+    md5: b31080cb87ea81dcde39aea62a42d351
+    version: 1:2.30.2-0ubuntu1
+  gnome-doc-utils:
+    md5: 0c0625b77f801ba8b7f72751f2214585
+    version: 0.20.0-0ubuntu2
+  gnome-icon-theme:
+    md5: 5524186b5f3c51d99f24f8b234adc975
+    version: 2.28.0-1ubuntu1
+  gnome-keyring:
+    md5: d17765b94e59c8ca4ba0357a28acdb87
+    version: 2.92.92.is.2.30.3-0ubuntu1.1
+  gnome-media:
+    md5: 64d3f65707e4641c033a94e436bb80e3
+    version: 2.30.0-0ubuntu1
+  gnome-media-common:
+    md5: aaddf967ed609c1271c12de66d98cd23
+    version: 2.30.0-0ubuntu1
+  gnome-menus:
+    md5: c5821b46d785b2a170dac917c2350b65
+    version: 2.30.0-0ubuntu4
+  gnome-mime-data:
+    md5: aec0e04401d4aaea789cbc1b7686a008
+    version: 2.18.0-1
+  gnome-panel:
+    md5: 590f83e74b9fabde816b0a4d52f2ab15
+    version: 1:2.30.2-0ubuntu0.2
+  gnome-panel-data:
+    md5: 372de91b5f08e14db5cd010a133714ee
+    version: 1:2.30.2-0ubuntu0.2
+  gnome-session:
+    md5: f37f9708ee1374e01dbb2f1a9273e3f7
+    version: 2.30.0-0ubuntu1
+  gnome-session-bin:
+    md5: 1893e4f5de8aa6496733db2edbb548d9
+    version: 2.30.0-0ubuntu1
+  gnome-settings-daemon:
+    md5: d5dac26e6f105ee11100e5c3353986f6
+    version: 2.30.1-0ubuntu1.1
+  gnome-system-monitor:
+    md5: a4971489242bfb4d5ce7256c93450744
+    version: 2.28.0-1ubuntu2
+  gnome-system-tools:
+    md5: 420849ad2ed0ed56b80f36df8ee3ba3e
+    version: 2.30.0-0ubuntu3
+  gnome-terminal:
+    md5: b5fa7b298111b7769b8ac2e3af802a2e
+    version: 2.30.2-0ubuntu1
+  gnome-terminal-data:
+    md5: 50345a8545a5358bd593f2241bd61317
+    version: 2.30.2-0ubuntu1
+  gnome-user-guide:
+    md5: e3975546991732f51b03b41a080d12a4
+    version: 2.30.0+git20100403ubuntu3
+  gnupg:
+    md5: 0a6297b940f3cab10a900e390182ab03
+    version: 1.4.10-2ubuntu1.1
+  gnuplot-nox:
+    md5: 409e457507d988f1245950dc8e3c8e60
+    version: 4.2.6-1
+  gnuplot-x11:
+    md5: 9d8a291075729e77fd80622e7f8a0fad
+    version: 4.2.6-1
+  gpgv:
+    md5: 258185c15372e0f601de52ca48048361
+    version: 1.4.10-2ubuntu1.1
+  gpgv-udeb:
+    md5: 1f5d1fd5886e1b86a234da649dda1d26
+    version: 1.4.10-2ubuntu1
+  gpsd:
+    md5: b909d8cbb503fcb3d8ef7baa7515987d
+    version: 2.92-4
+  gptsync-udeb:
+    md5: 0c01e32cf74dd372d0fd824c435c0832
+    version: 0.13-3ubuntu2
+  graphviz:
+    md5: 48894e9d4d0da48ecf12b4544e08459a
+    version: 2.20.2-8ubuntu3
+  grep:
+    md5: 152139d04c544c280a462989d6f1f3f7
+    version: 2.5.4-4build1
+  groff-base:
+    md5: acfd071c76f34c1d36aae00447758b71
+    version: 1.20.1-7
+  groovy:
+    md5: 7d5a6dee5e93ec708534732fff2e939e
+    version: 1.6.4-4ubuntu2
+  grub:
+    md5: ffdfdf15a04adb02fa5c8215f4e03038
+    version: 0.97-29ubuntu60.10.04.2
+  grub-common:
+    md5: 5366549c8235b295138ba0f0b730720c
+    version: 1.98-1ubuntu13
+  grub-installer:
+    md5: d3b7f4b9d5f061bd5de64ac2a10b56c5
+    version: 1.49ubuntu11
+  grub-pc:
+    md5: 9763794d70064effcbfc64872c8fc0d6
+    version: 1.98-1ubuntu13
+  gsfonts:
+    md5: 4d6d42c94b43c34d405e42e5ac3c1560
+    version: 1:8.11+urwcyr1.0.7~pre44-4
+  gsfonts-x11:
+    md5: cfdd70d87039169bfec3ec92b00d24a6
+    version: '0.21'
+  gstreamer0.10-alsa:
+    md5: 686c476c59d8b907781049a18b1cd20e
+    version: 0.10.28-1
+  gstreamer0.10-plugins-base:
+    md5: eb1cdb2ae0be739522ce92d2fb54a19b
+    version: 0.10.28-1
+  gstreamer0.10-plugins-good:
+    md5: 15ab9b5213cca395dadb42143f585d86
+    version: 0.10.21-1ubuntu3
+  gstreamer0.10-plugins-ugly-multiverse:
+    md5: 56718a27c69e6b7564a003be5a0fc7ee
+    version: 0.10.14-0ubuntu2
+  gstreamer0.10-x:
+    md5: 398fcbc4ff1bf1c6547d801020a0ff06
+    version: 0.10.28-1
+  gtk2-engines-murrine:
+    md5: 01d3e2229cb48d143dd35dc6171932f3
+    version: 0.90.3+git20100323-0ubuntu3
+  gtk2-engines-udeb:
+    md5: 092597226ceeebe6bc12a269bb55c235
+    version: 1:2.20.0-0ubuntu1
+  gvfs:
+    md5: 1e5e1c612b8d2dd4e4c84cf04b829863
+    version: 1.6.1-0ubuntu1build1
+  gvfs-backends:
+    md5: fbe088c9d2737404ff8d19ac4ed48023
+    version: 1.6.1-0ubuntu1build1
+  gzip:
+    md5: 0bd8f0142af87c72c18f9c8f5b5ef2c7
+    version: 1.3.12-9ubuntu1.1
+  hal:
+    md5: 523b57f2673e1d638a19380c64236cc2
+    version: 0.5.14-0ubuntu6
+  hal-info:
+    md5: b38b16e49c4b5146e9b1b4f6baebc027
+    version: 20091130-1
+  hddtemp:
+    md5: 9a6bf2eb8d427f196e2119f9bc15a68b
+    version: 0.3-beta15-45
+  hdparm:
+    md5: f49d27070a54d0acdfc0fd90d2afddfe
+    version: 9.15-1ubuntu9
+  hdparm-udeb:
+    md5: d7a9c5b6711103614df30838e7294136
+    version: 9.15-1ubuntu9
+  hicolor-icon-theme:
+    md5: d10e1949050e6026cbc945daeb121c47
+    version: 0.11-1
+  hostapd:
+    md5: 7857317df0009e7076af760869a3c6ed
+    version: 1:0.6.9-3
+  hostname:
+    md5: e9e9b8019c663fedf6e487f2f2a3e9ec
+    version: 3.03ubuntu1
+  html2text:
+    md5: c1c27eb19698e76080025f6e89c1d0e9
+    version: 1.3.2a-14build1
+  human-icon-theme:
+    md5: 8b691297beb552a48d211c94d02dbacc
+    version: '0.36'
+  human-theme:
+    md5: 3c1c0b401f839d26ca3932b75967f390
+    version: '0.39'
+  humanity-icon-theme:
+    md5: d58a8587f10fd37958519d66cc7df56a
+    version: 0.5.2.1
+  hunspell-en-ca:
+    md5: c31b4c2902b870562a757805c5010612
+    version: 1:3.2.0-3ubuntu3.1
+  hunspell-en-us:
+    md5: e29f504f8ea05d60d6999ca09df338ba
+    version: 20070829-4ubuntu1
+  hw-detect:
+    md5: 37245adac07e3563ffbaac3eba1624b0
+    version: 1.73ubuntu4
+  ia32-libs:
+    md5: 87bfbeee4f17df36317f5bb49ed76993
+    version: 2.7ubuntu26.1
+  ia32-sun-java6-bin:
+    md5: f5be5eff93e8426eb31077c159846fa4
+    version: 6.24-1build0.10.04.1
+  ifplugd:
+    md5: 2004ecc8975b5a7a1931a53bcb2d6f0e
+    version: 0.28-15ubuntu1
+  ifupdown:
+    md5: d6e022712e01ccc0bb4a879de345e093
+    version: 0.6.8ubuntu29.2
+  indicator-applet:
+    md5: aadd368289bcb2fa219a3191c06c9804
+    version: 0.3.7-0ubuntu1
+  indicator-applet-session:
+    md5: 0e9df59e964f6dbc6d6b9b25a87cd7e2
+    version: 0.3.7-0ubuntu1
+  indicator-messages:
+    md5: c032b3d7f8b7838c3c16b27ab292f933
+    version: 0.3.6-0ubuntu2
+  info:
+    md5: 4a6773122bcd77673c53d38db6397af4
+    version: 4.13a.dfsg.1-5ubuntu1
+  initramfs-tools:
+    md5: 205af55d3cae0f9092ff114db71b7ddd
+    version: 0.92bubuntu78
+  initramfs-tools-bin:
+    md5: caf430ed84df643044cbe45e87ea811b
+    version: 0.92bubuntu78
+  initrd-kickseed:
+    md5: cb608ab0c608f2dfdf151f13218054fc
+    version: 0.54ubuntu1
+  initrd-preseed:
+    md5: b058831309c7f9b0ed461c36e99f751b
+    version: '1.43'
+  initscripts:
+    md5: 8008d6f8af06e369c3959c219cc5482e
+    version: 2.87dsf-4ubuntu17.5
+  input-modules-2.6.32-21-generic-di:
+    md5: 7d86ec9fa7f237073abd6b286d803704
+    version: 2.6.32-21.32
+  inputattach:
+    md5: 3326e14e9acb1bf43747358f392f5f65
+    version: 20051019-9
+  insserv:
+    md5: 32ab117055faa1349881d5acb33584c7
+    version: 1.12.0-14ubuntu0.2
+  install-info:
+    md5: 3d587365f84113ab8bd445b1c437d7a6
+    version: 4.13a.dfsg.1-5ubuntu1
+  installation-locale:
+    md5: 360200c6f3419dc9ae376e4f430a7f75
+    version: 1.3build1
+  installation-report:
+    md5: dadfb60dfbf7ac17b8dcfd70aa0ecb1b
+    version: 2.39ubuntu4
+  intltool:
+    md5: 9a30a6c3112412b0b3ae09003183caee
+    version: 0.41.0-0ubuntu1
+  intltool-debian:
+    md5: f44cdcbab68d6dba3bc89ff4df61c64e
+    version: 0.35.0+20060710.1
+  ipmitool:
+    md5: f9df7dcaa8d7d9b8ba1a72027efedb73
+    version: 1.8.11-1ubuntu1
+  iproute:
+    md5: f886465c56b31f4b8f441747a401a660
+    version: 20091226-1
+  iptables:
+    md5: 64c9288ac33e048965b35cc639cb4250
+    version: 1.4.4-2ubuntu2
+  iputils-arping:
+    md5: ee22194405e307b974d8b7974ac15216
+    version: 3:20071127-2ubuntu1
+  iputils-ping:
+    md5: 9d85005cfe4a6bc499526a2b974a0ed3
+    version: 3:20071127-2ubuntu1
+  iputils-tracepath:
+    md5: 6aa6c5f9d78d40c2dfa4cb39c6a0ab9d
+    version: 3:20071127-2ubuntu1
+  ipython:
+    md5: 62f6cf2b4411fd4e82c6a01264490e37
+    version: 0.10-1ubuntu1
+  irb1.8:
+    md5: 47ef2db690906a591d76508afc25c0d9
+    version: 1.8.7.249-2ubuntu0.1
+  irda-modules-2.6.32-21-generic-di:
+    md5: 0ea10d12fffe436b0cf6fe4afff329b1
+    version: 2.6.32-21.32
+  iso-codes:
+    md5: b48f143bf9efa9bdb8eda995ff4ba46e
+    version: 3.12.1-1
+  iso-scan:
+    md5: 15c7307b067627250eedeafc9fbad210
+    version: 1.28ubuntu2
+  ivy:
+    md5: 367163147329c0caf9bf7aa857c81f4d
+    version: 2.1.0~rc2-3ubuntu1
+  iw:
+    md5: 39b17ee219e7f1033c772aa264db62b4
+    version: 0.9.19~ubuntu1
+  java-common:
+    md5: 4040b13602a679b0e6df850c43b8dd48
+    version: '0.34'
+  jfsutils-udeb:
+    md5: 2a1c8bc97acde866f221f7ff5a999a98
+    version: 1.1.12-2.1
+  joystick:
+    md5: b84f3617fff4b573cfb15d8d6c150e93
+    version: 20051019-9
+  junit4:
+    md5: 48bc91633bb4221c529cc105cb33ec7b
+    version: 4.8.1-3
+  kbd:
+    md5: c06efae756208925c823b5a9a41a542e
+    version: 1.15-1ubuntu3
+  kbd-udeb:
+    md5: 952661bdb1fb6c432f606c11db3f525c
+    version: 1.15-1ubuntu3
+  kernel-image-2.6.32-21-generic-di:
+    md5: 0d7d95886fbe2c345e9cdd648c73df8d
+    version: 2.6.32-21.32
+  kickseed-common:
+    md5: 721744fbbc23e2c2d00c048ab381342b
+    version: 0.54ubuntu1
+  klibc-utils:
+    md5: 640b36f8916010ec90e6c3fdbf94fc07
+    version: 1.5.17-4ubuntu1
+  klibc-utils-floppy-udeb:
+    md5: 084d5755a1356983ddd95664a0c0d410
+    version: 1.5.17-4ubuntu1
+  klogd:
+    md5: b38b398430c4fc433cd95486b7cfe3d8
+    version: 1.5-5ubuntu4
+  krb5-multidev:
+    md5: 6126bc9c74e7c9e78297bdf040107b80
+    version: 1.8.1+dfsg-2ubuntu0.11
+  language-pack-en:
+    md5: be70e880c6609d3481dafd7424cc8a9a
+    version: 1:10.04+20110931
+  language-pack-en-base:
+    md5: e35d9ea8234128a2948abe6f280f8b8c
+    version: 1:10.04+20110931
+  language-pack-gnome-en:
+    md5: 5a9c6ad9b5695c1bcb7700f49524689b
+    version: 1:10.04+20110931
+  language-pack-gnome-en-base:
+    md5: 8a84ec1f8b746a89e18d0b50ce3a5314
+    version: 1:10.04+20110931
+  language-selector-common:
+    md5: 8f9bad03591d0aab4c81682b5926985f
+    version: 0.5.8
+  language-support-en:
+    md5: a2f885a67e28ff05eafc6502461c1b3f
+    version: 1:9.10+20090909
+  language-support-writing-en:
+    md5: cfe3b95b0b984f1959433605abd38538
+    version: 1:10.04+20100311
+  laptop-detect:
+    md5: 0762eb1ae14076638ace46baf061990b
+    version: 0.13.7ubuntu2
+  launchpad-integration:
+    md5: 6eb69c3853e16b6b64f044f55f121629
+    version: 0.1.35
+  less:
+    md5: f2f75bb89d3ea6e4eaeae47c95eacd72
+    version: 436-1
+  lib32asound2:
+    md5: 6ce526ad88e3c36747399c784dc8864b
+    version: 1.0.22-0ubuntu7
+  lib32bz2-1.0:
+    md5: b8d3189c6feab1d0cf22401261c2c04f
+    version: 1.0.5-4ubuntu0.2
+  lib32gcc1:
+    md5: 1039a2d94538a0c002b72dabea172469
+    version: 1:4.4.3-4ubuntu5.1
+  lib32ncurses5:
+    md5: 04b77bec9d30d72f8bf3e4eea3773579
+    version: 5.7+20090803-2ubuntu3
+  lib32nss-mdns:
+    md5: 6c1b7d1d8a760aa42b4f2688d5c177c7
+    version: 0.10-3ubuntu4
+  lib32stdc++6:
+    md5: 485ac69b1cdd7ef72e3d7ad3c4aac429
+    version: 4.4.3-4ubuntu5.1
+  lib32v4l-0:
+    md5: 6f92b270af9465d6c1556703711928d8
+    version: 0.6.4-1ubuntu1
+  lib32z1:
+    md5: a0a7eeeada8782a1a86c05c99f046130
+    version: 1:1.2.3.3.dfsg-15ubuntu1
+  libaa1:
+    md5: b9e3d1453796fbbe36eb0912446f0f5f
+    version: 1.4p5-38build1
+  libaa1-dev:
+    md5: 49c53691fcc71760df7343f3c0a29c86
+    version: 1.4p5-38build1
+  libaccess-bridge-java:
+    md5: 773885b6d41443aa4d7bc1af3ae236db
+    version: 1.26.2-3
+  libaccess-bridge-java-jni:
+    md5: bd943f34d850249feb28903dc4220e30
+    version: 1.26.2-3
+  libacl1:
+    md5: f00b07c73056d5a0493efe378b944008
+    version: 2.2.49-2
+  libaio1-udeb:
+    md5: 2341ee858dd48ca126b51f12d3eae48b
+    version: 0.3.107-3ubuntu2
+  libamd2.2.0:
+    md5: 5f1ccce07fcc1ef0e499c02d2a10325e
+    version: 1:3.4.0-1ubuntu3
+  libann-dev:
+    md5: 297eb6e2425be5ca0f9ba4f86c5429a3
+    version: 1.1.1+doc-2.1
+  libann0:
+    md5: 4f8cffbf9a9285f7e9a11f02700c3949
+    version: 1.1.1+doc-2.1
+  libanthy0:
+    md5: dc486dcdcb0473b9075814a1bd3c99fa
+    version: 9100h-0ubuntu2
+  libantlr-dev:
+    md5: e69bb842c3a4e76a01b6aa394bcc035e
+    version: 2.7.7-15ubuntu1
+  libantlr-java:
+    md5: c7e9ca9c76495fca4750d158d48cfec3
+    version: 2.7.7-15ubuntu1
+  libapache2-mod-fastcgi:
+    md5: 38f23963823ec748df36b3e9879e7ff6
+    version: 2.4.6-1
+  libapache2-mod-python:
+    md5: e468b7990dee6bdc0c477cd118979491
+    version: 3.3.1-8ubuntu2
+  libapm1:
+    md5: 07d3a019d81aa29125be184adc11b101
+    version: 3.2.2-14
+  libapparmor-perl:
+    md5: 592928d8b6389c0729d3ddb911181cb3
+    version: 2.5.1-0ubuntu0.10.04.4
+  libapparmor1:
+    md5: d2cba05f989f8c09efe5b0b028af2e3b
+    version: 2.5.1-0ubuntu0.10.04.4
+  libappindicator0:
+    md5: 0fc5ef8b1085e78a70083792e3a9a8f2
+    version: 0.0.19-0ubuntu4
+  libapr1:
+    md5: bfd41c269c8b50bacea6d48a620ff52e
+    version: 1.3.8-1ubuntu0.3
+  libapr1-dev:
+    md5: 7242c1d6d1831b572433d476b845d1f3
+    version: 1.3.8-1ubuntu0.3
+  libaprutil1:
+    md5: f2fa882580882b287410de4bae19b89c
+    version: 1.3.9+dfsg-3ubuntu0.10.04.1
+  libaprutil1-dbd-sqlite3:
+    md5: ed4252144e7b89af3dfc36d0a997de1d
+    version: 1.3.9+dfsg-3ubuntu0.10.04.1
+  libaprutil1-dev:
+    md5: 92b22ffeb0b5dbfb1265a59f7fd30589
+    version: 1.3.9+dfsg-3ubuntu0.10.04.1
+  libaprutil1-ldap:
+    md5: cd8752a07fd81e375124d838e0bbefd1
+    version: 1.3.9+dfsg-3ubuntu0.10.04.1
+  libarchive1:
+    md5: d41f79d01928ce3407c7ad68c3204e89
+    version: 2.8.0-2ubuntu0.1
+  libart-2.0-2:
+    md5: 3fb36fb4848fe2299def7556d9dd054a
+    version: 2.3.20-2build1
+  libasm2-java:
+    md5: a110ac946dc847eb779a69943ee640b3
+    version: 2.2.3-4
+  libasound2:
+    md5: 6ac5f171fe197c22a737b8914ffa9bd2
+    version: 1.0.22-0ubuntu7
+  libasound2-dev:
+    md5: 0b683aeb1daf2d40df53d45cd943d02b
+    version: 1.0.22-0ubuntu7
+  libaspell15:
+    md5: 5a21425f83776a904cab0e239fbe646a
+    version: 0.60.6-3ubuntu1
+  libassimp2:
+    md5: cc34b241b31bebefecf09b8600e99a14
+    version: 2.0.0.6-ubuntu1~lucid1
+  libatasmart4:
+    md5: 65ff6f2537c58f522c6c8e0aa52ea00b
+    version: 0.17+git20100219-1git2
+  libatk1.0-0:
+    md5: a8bb0757617c24020065e4c6c18a31db
+    version: 1.30.0-0ubuntu2.1
+  libatk1.0-data:
+    md5: d7a3528440e653bda48b71993b674a7e
+    version: 1.30.0-0ubuntu2.1
+  libatk1.0-dev:
+    md5: e7bf441c1f0ba52d26a45a5dc05ce3bc
+    version: 1.30.0-0ubuntu2.1
+  libatk1.0-udeb:
+    md5: 804f892e9aaf3b0aeb3c9d294b686a9d
+    version: 1.30.0-0ubuntu2
+  libatlas3gf-base:
+    md5: a10c481e866b9c6505aad0b5f78397ac
+    version: 3.6.0-24ubuntu1
+  libatm1:
+    md5: 2e9bd20940369d87df6e0728c6bf1ec4
+    version: 1:2.5.1-1.2
+  libatspi1.0-0:
+    md5: 14ce4b27ababd46cade32e79d0dd0834
+    version: 1.30.1-0ubuntu1
+  libattr1:
+    md5: 5a6f092d45577281c6921f40933ffa0c
+    version: 1:2.4.44-1
+  libaudio-dev:
+    md5: 00a751f295dbc1afc4c574bb0847c3b0
+    version: 1.9.2-3
+  libaudio2:
+    md5: 16f7bae0cedb46de4ec2e0e96a7887b2
+    version: 1.9.2-3
+  libaudiofile-dev:
+    md5: 7b404519994ccda61bc92628f20b5428
+    version: 0.2.6-8ubuntu1
+  libaudiofile0:
+    md5: 9c65cf803d567573d9d7fe76161e8d0e
+    version: 0.2.6-8ubuntu1
+  libavahi-client-dev:
+    md5: 93ea4184cff450b773d2901d046d88dc
+    version: 0.6.25-1ubuntu6.2
+  libavahi-client3:
+    md5: d97435c83f48796c8f245eab6f9ad866
+    version: 0.6.25-1ubuntu6.2
+  libavahi-common-data:
+    md5: cde54e0f963aefad9d301eff19cfa4b2
+    version: 0.6.25-1ubuntu6.2
+  libavahi-common-dev:
+    md5: b9bb48151015150ba02d9871a5520de2
+    version: 0.6.25-1ubuntu6.2
+  libavahi-common3:
+    md5: 9c0e149f9d6af4880772f193a75c683c
+    version: 0.6.25-1ubuntu6.2
+  libavahi-common3-udeb:
+    md5: c427fac6b87930dc18e03061fd3887f2
+    version: 0.6.25-1ubuntu6
+  libavahi-core-dev:
+    md5: f4757f104f223fe710f50b0c61c65184
+    version: 0.6.25-1ubuntu6.2
+  libavahi-core6:
+    md5: fd8117292e931adc960e13775a3faae1
+    version: 0.6.25-1ubuntu6.2
+  libavahi-core6-udeb:
+    md5: aad38ec70264d3650e2a9abc7af1441b
+    version: 0.6.25-1ubuntu6
+  libavahi-glib1:
+    md5: 4a0079df550ddee6191b689eabfd94ba
+    version: 0.6.25-1ubuntu6.2
+  libavc1394-0:
+    md5: bd66ef4f96c50d5ca4b15dda85f9593e
+    version: 0.5.3-1build4
+  libavcodec-dev:
+    md5: 8f53f75389cdc0bd407198ab4a24ff4b
+    version: 4:0.5.9-0ubuntu0.10.04.1
+  libavcodec52:
+    md5: 5b149b206d9a2ec8558737492518cf2d
+    version: 4:0.5.9-0ubuntu0.10.04.1
+  libavformat-dev:
+    md5: 33f086e9f15ffc29cadf254ae0734c65
+    version: 4:0.5.9-0ubuntu0.10.04.1
+  libavformat52:
+    md5: 1d9d3bddfabba2bafff0f37be5edbc28
+    version: 4:0.5.9-0ubuntu0.10.04.1
+  libavutil-dev:
+    md5: 0d12db874aaabccc972b082cb88a5e87
+    version: 4:0.5.9-0ubuntu0.10.04.1
+  libavutil49:
+    md5: 9a8a53ce1816a9ed4a281d199a913a7a
+    version: 4:0.5.9-0ubuntu0.10.04.1
+  libbind9-60:
+    md5: 739a979a986c5b617d1560b4a0534c41
+    version: 1:9.7.0.dfsg.P1-1ubuntu0.7
+  libblas-dev:
+    md5: 0c24d34b2b95889e8f2b7c10d78160d7
+    version: 1.2-2build1
+  libblas3gf:
+    md5: c19283c03e0f5645e02a923aabeec94b
+    version: 1.2-2build1
+  libblkid1:
+    md5: ba97579546329053fc128579cae6f646
+    version: 2.17.2-0ubuntu1.10.04.2
+  libblkid1-udeb:
+    md5: 8c062d7fbc2c1ba3a1ca16d5666a836a
+    version: 2.17.2-0ubuntu1
+  libbluetooth-dev:
+    md5: d60fff2d89427054b8357631660f0409
+    version: 4.60-0ubuntu8
+  libbluetooth3:
+    md5: 2104725a0d72e4ff6650ed4e6e258147
+    version: 4.60-0ubuntu8
+  libbonobo2-0:
+    md5: 81eaa91d5d5272d165cc019afd67fc51
+    version: 2.24.3-0ubuntu1
+  libbonobo2-common:
+    md5: 8e43bd883a4cb2dfe6d1f65718ca0b2f
+    version: 2.24.3-0ubuntu1
+  libbonoboui2-0:
+    md5: 58da98ee331d78c77d6ddedd2144e356
+    version: 2.24.3-0ubuntu1
+  libbonoboui2-common:
+    md5: 322599ff40a94a13185f8af2a4a31dfc
+    version: 2.24.3-0ubuntu1
+  libboost-all-dev:
+    md5: 60f2b6af2a1f7e294a2504f3e18dd980
+    version: 1.40.0.1
+  libboost-date-time1.40-dev:
+    md5: 855979fd158c6411bb70f4d7ec2c8189
+    version: 1.40.0-4ubuntu4
+  libboost-date-time1.40.0:
+    md5: 1e209c90cf3bb125c7683fc571c87149
+    version: 1.40.0-4ubuntu4
+  libboost-filesystem1.40-dev:
+    md5: 48bcb185ace8ffa4704570858852720e
+    version: 1.40.0-4ubuntu4
+  libboost-filesystem1.40.0:
+    md5: c970abf005641ad5667e30947e847644
+    version: 1.40.0-4ubuntu4
+  libboost-graph1.40-dev:
+    md5: fb3218e1e4808431d02dd0776a9e17eb
+    version: 1.40.0-4ubuntu4
+  libboost-iostreams1.40-dev:
+    md5: f2a1a69ee79a3d73e310c9a51189e7ef
+    version: 1.40.0-4ubuntu4
+  libboost-iostreams1.40.0:
+    md5: 0f621d6962934bbda9c046c61bd39cd1
+    version: 1.40.0-4ubuntu4
+  libboost-math1.40-dev:
+    md5: a43e2526e56c84ed0775b98113b2a8a1
+    version: 1.40.0-4ubuntu4
+  libboost-math1.40.0:
+    md5: af4cef3a8ff7f9b9e60832d0e1f9fc82
+    version: 1.40.0-4ubuntu4
+  libboost-program-options1.40-dev:
+    md5: 0fa93a32db6a2e16de95dd4ccde9a8f4
+    version: 1.40.0-4ubuntu4
+  libboost-program-options1.40.0:
+    md5: a4dae950de86c51ff9e9b2793a19c892
+    version: 1.40.0-4ubuntu4
+  libboost-python1.40-dev:
+    md5: c05c0487667051c808c3b9345877feb4
+    version: 1.40.0-4ubuntu4
+  libboost-python1.40.0:
+    md5: f27abdad815c8c5bd6e5f6a0f342dd0c
+    version: 1.40.0-4ubuntu4
+  libboost-regex1.40-dev:
+    md5: 98e0c4681ae6a1dc140fb2ca03b99d5c
+    version: 1.40.0-4ubuntu4
+  libboost-regex1.40.0:
+    md5: 2a34db7a50b523338af1d08902d801e8
+    version: 1.40.0-4ubuntu4
+  libboost-serialization1.40-dev:
+    md5: a86515d9eea2ec130f4c05077c6383f4
+    version: 1.40.0-4ubuntu4
+  libboost-serialization1.40.0:
+    md5: 456a72ad8e409640d8b82ca6e65ab24a
+    version: 1.40.0-4ubuntu4
+  libboost-signals1.40-dev:
+    md5: 09c42bdaef43673e59de34b9e5389b59
+    version: 1.40.0-4ubuntu4
+  libboost-signals1.40.0:
+    md5: a438f0cd3514991604cef0687e31c2b6
+    version: 1.40.0-4ubuntu4
+  libboost-system1.40-dev:
+    md5: bca25a2f96038ef8882867433ae19934
+    version: 1.40.0-4ubuntu4
+  libboost-system1.40.0:
+    md5: e27ca57a95df4cdaef74e345f0b22e3c
+    version: 1.40.0-4ubuntu4
+  libboost-test1.40-dev:
+    md5: 5cb70b299b2d31ba09fcf8c9b6628bc2
+    version: 1.40.0-4ubuntu4
+  libboost-test1.40.0:
+    md5: 7d291e10868c5534c792ed29da489c39
+    version: 1.40.0-4ubuntu4
+  libboost-thread1.40-dev:
+    md5: 9ab52193ca66cce2971f7df437b3c232
+    version: 1.40.0-4ubuntu4
+  libboost-thread1.40.0:
+    md5: 2c60abd96fd872e699ff9f7e65e0eca4
+    version: 1.40.0-4ubuntu4
+  libboost-wave1.40-dev:
+    md5: e9af78efb74e299c36d8ea9d6b2ee402
+    version: 1.40.0-4ubuntu4
+  libboost-wave1.40.0:
+    md5: d5ef9aba586e57776c2c195175cbcc70
+    version: 1.40.0-4ubuntu4
+  libboost1.40-all-dev:
+    md5: e754e3ecbe6f05ac4ee1143a4171bff2
+    version: 1.40.0-4ubuntu4
+  libboost1.40-dev:
+    md5: cf41b51758b2575f93865677c763c996
+    version: 1.40.0-4ubuntu4
+  libbsd0:
+    md5: 19cd1b9193b8b73d734b62037432c82b
+    version: 0.2.0-1
+  libbsd0-udeb:
+    md5: 4476daf9b169d8c27e36f8b5eac4ff5f
+    version: 0.2.0-1
+  libbsf-java:
+    md5: c26243615b158d704f23f3b3ffa498da
+    version: 1:2.4.0-3
+  libbtf1.1.0:
+    md5: 1cfcfa781cd5ecf2175a5c45efb2a771
+    version: 1:3.4.0-1ubuntu3
+  libbz2-1.0:
+    md5: 16a78b773dd6ca91cdf874df91da0426
+    version: 1.0.5-4ubuntu0.2
+  libbz2-dev:
+    md5: 262d57e16921b69b637a3a6985bcd4e3
+    version: 1.0.5-4ubuntu0.2
+  libc-bin:
+    md5: 5ec20c8f33bedb99e88aa6192c69d2a0
+    version: 2.11.1-0ubuntu7.11
+  libc-dev-bin:
+    md5: acaa3abac5770902052b2a3fd2d63945
+    version: 2.11.1-0ubuntu7.11
+  libc6:
+    md5: 3a565868bbfebf68c4d46bcef1b6d5e2
+    version: 2.11.1-0ubuntu7.11
+  libc6-dev:
+    md5: 5b6a0acd771f58a0ea38dba78bcbc2a9
+    version: 2.11.1-0ubuntu7.11
+  libc6-i386:
+    md5: c89fd636a31566f8acf5ae5b74969227
+    version: 2.11.1-0ubuntu7.11
+  libc6-udeb:
+    md5: cafd647510e2dc33a44f8f8e69494247
+    version: 2.11.1-0ubuntu7
+  libcaca-dev:
+    md5: 5ebd4b3b772f7fd2fc97450bc57b38e2
+    version: 0.99.beta16-3
+  libcaca0:
+    md5: 2574d5f4054bc3d1789db550f52593db
+    version: 0.99.beta16-3
+  libcairo-directfb2-udeb:
+    md5: 07316635273c42cafa0d7ac943241d4f
+    version: 1.8.10-2ubuntu1
+  libcairo-perl:
+    md5: 0d1de857f4c9a1ae7b5b15c6c482d310
+    version: 1.061-1build1
+  libcairo2:
+    md5: 08efa53d7d0c94d0aa021529170096a5
+    version: 1.8.10-2ubuntu1
+  libcairo2-dev:
+    md5: 909145471dd6eb87b72cb924c4fdc5d0
+    version: 1.8.10-2ubuntu1
+  libcairomm-1.0-1:
+    md5: d460104eccf8e0551256291f9217c9c4
+    version: 1.8.4-0ubuntu1
+  libcamd2.2.0:
+    md5: d32c6133af734679d5f50eaef1ba5c47
+    version: 1:3.4.0-1ubuntu3
+  libcamel1.2-14:
+    md5: 4e743287a5a6e99e1c2ed0f0b96abf08
+    version: 2.28.3.1-0ubuntu6.1
+  libcanberra-gtk-module:
+    md5: 2ee4ad9e76d958d95a58b97f4278f2d5
+    version: 0.22-1ubuntu2
+  libcanberra-gtk0:
+    md5: 3e3042e38dcc09a18fcb658bcc15cca2
+    version: 0.22-1ubuntu2
+  libcanberra0:
+    md5: fd2028588bad490467347df9da12c5e1
+    version: 0.22-1ubuntu2
+  libcap-dev:
+    md5: 791bb87c8ff3a3e3905dfc70f9ec6bff
+    version: 1:2.17-2ubuntu1
+  libcap2:
+    md5: 842103d603ef3f1c899c10598d914007
+    version: 1:2.17-2ubuntu1
+  libccolamd2.7.1:
+    md5: 5be3b330e17f780406807312730fdc36
+    version: 1:3.4.0-1ubuntu3
+  libcdio-cdda0:
+    md5: c23139f51285e6a222ff3d6bc88ef6f8
+    version: 0.81-4
+  libcdio-paranoia0:
+    md5: c4ff54a775ba6e8ccf7b036a75bd0365
+    version: 0.81-4
+  libcdio10:
+    md5: 6a058776c5ac06901329cd92cc3f89bd
+    version: 0.81-4
+  libcdparanoia0:
+    md5: ea8733caa6590a5e23e35f3e6c14f100
+    version: 3.10.2+debian-9
+  libcholmod1.7.1:
+    md5: 20765dff801ae2a042db81a22007badb
+    version: 1:3.4.0-1ubuntu3
+  libck-connector0:
+    md5: 34008354385ed22c65a97f8c2ed0397b
+    version: 0.4.1-3ubuntu3
+  libclass-accessor-perl:
+    md5: b8dc3f1734b92b8ccd6e9ba464ca42c0
+    version: 0.34-1
+  libcoin60:
+    md5: 029e861f84cd77fa8c9482ffe886f755
+    version: 3.1.2-1
+  libcoin60-dev:
+    md5: d349c4de1e3da0ca0a955815b80fb29c
+    version: 3.1.2-1
+  libcolamd2.7.1:
+    md5: eef63c550af0a2a1eebbf3f2decb56eb
+    version: 1:3.4.0-1ubuntu3
+  libcomerr2:
+    md5: 8f3784ba47d5077b64968d4a415aae12
+    version: 1.41.11-1ubuntu2.1
+  libcommons-beanutils-java:
+    md5: a99c910d4391a3c240062a13305f7f53
+    version: 1.8.2-1
+  libcommons-cli-java:
+    md5: 6c909f534526f02482c2aa22e7e233f0
+    version: 1.2-2ubuntu1
+  libcommons-collections3-java:
+    md5: ce147744eef2ccb9775c63d1204ad62a
+    version: 3.2.1-4
+  libcommons-lang-java:
+    md5: 1cf7af5bc73d5e1a602fdb6fef98b927
+    version: 2.4-4
+  libcommons-logging-java:
+    md5: 33f2f0d7c16928ff5d3346c5d4ecf493
+    version: 1.1.1-7
+  libcompress-raw-zlib-perl:
+    md5: 880e278efc2cfaf61d1d3d8762fa018a
+    version: 2.023-1
+  libcompress-zlib-perl:
+    md5: f32bb532ac8c3b3d7e170b577c960983
+    version: 2.022-1
+  libcppunit-1.12-1:
+    md5: 9325b6359185eae113d4fbd7aa86f054
+    version: 1.12.1-1build1
+  libcppunit-dev:
+    md5: 815aecbdcff0004889311ae38ce7a579
+    version: 1.12.1-1build1
+  libcpufreq0:
+    md5: a1f39fc48127fada7cdb5c781ceb9f8a
+    version: 006-2
+  libcroco3:
+    md5: cc9c5b05f3c7aa86c37e7d48ade50589
+    version: 0.6.2-1
+  libcrypto0.9.8-udeb:
+    md5: df76d148efd239092793960e4a10a95f
+    version: 0.9.8k-7ubuntu8
+  libcsparse2.2.3:
+    md5: 6143782511dac2b87024687e6c8fc786
+    version: 1:3.4.0-1ubuntu3
+  libcups2:
+    md5: 06e29bae392a09d9193fc7d086d88ae9
+    version: 1.4.3-1ubuntu1.6
+  libcupsimage2:
+    md5: 3458acd5c2f322a178431f5a49f493b0
+    version: 1.4.3-1ubuntu1.6
+  libcurl3:
+    md5: 2e8bd9834aa857e559bac733215223ce
+    version: 7.19.7-1ubuntu1.1
+  libcurl3-gnutls:
+    md5: 7368c5c5663a4cfd7ce3266e4abbafc3
+    version: 7.19.7-1ubuntu1.1
+  libcurl4-openssl-dev:
+    md5: c47d48efc681b24e31805760bdf3a8e1
+    version: 7.19.7-1ubuntu1.1
+  libcwidget3:
+    md5: 2977dcee54e2eafa89b366b545d7ff8c
+    version: 0.5.13-1ubuntu1
+  libcwiid1:
+    md5: 79fbaaa9e1fd348faa706bb5a95d3274
+    version: 0.6.00+svn201-2
+  libcxsparse2.2.3:
+    md5: 80ae13eecfe1f8076f5e2888152148e4
+    version: 1:3.4.0-1ubuntu3
+  libdaemon0:
+    md5: c714e7fec80be42a0d4b54ab88c2c08a
+    version: 0.14-2
+  libdatrie1:
+    md5: 302464f6523147da90117b55c9f32e5c
+    version: 0.2.2-3
+  libdb4.6:
+    md5: 3f4d7da181ad71d89011983019687929
+    version: 4.6.21-16
+  libdb4.6-dev:
+    md5: 2f03a50d72f66d6c6ac976cb0ff1131a
+    version: 4.6.21-16
+  libdb4.7:
+    md5: 3edf2afc9f7ea44614e0fb2d93a45174
+    version: 4.7.25-9
+  libdb4.8:
+    md5: 36c5beab0877a7352cf163acf17e09f2
+    version: 4.8.24-1ubuntu1
+  libdb4.8-dev:
+    md5: 5bd8f51328dcb5b0ce3c5d5af39cc6ec
+    version: 4.8.24-1ubuntu1
+  libdbus-1-3:
+    md5: b010af918d4db4a471087e541bd7a319
+    version: 1.2.16-2ubuntu4.5
+  libdbus-1-dev:
+    md5: 142190a84ec0efd9363cd8767bcdc69c
+    version: 1.2.16-2ubuntu4.5
+  libdbus-glib-1-2:
+    md5: 750dc93cab8e39449fa0094454d516a4
+    version: 0.84-1ubuntu0.2
+  libdbus-glib-1-dev:
+    md5: b9d2993d56cd46586bfce70f3f471a6e
+    version: 0.84-1ubuntu0.2
+  libdbusmenu-glib1:
+    md5: 3447d8a83de3bdb8d2ddde0e32b15650
+    version: 0.2.9-0ubuntu3.1
+  libdbusmenu-gtk1:
+    md5: d56031cfba70302845851a1b4c458317
+    version: 0.2.9-0ubuntu3.1
+  libdc1394-22:
+    md5: 88d4629e402dece08fc5e3b3d5ac505a
+    version: 2.1.2-2
+  libdc1394-22-dev:
+    md5: 28e0080c671f32caacd81732b4ac939d
+    version: 2.1.2-2
+  libdebconfclient0-udeb:
+    md5: c7e71064831f060c4bf5e95c6d487ea1
+    version: '0.147'
+  libdebian-installer4-udeb:
+    md5: 1559dd8d3928bb1f726641d96d108110
+    version: 0.68ubuntu3
+  libdevil-dev:
+    md5: 801f36753b13d8631cc62827463427f1
+    version: 1.7.8-6
+  libdevil1c2:
+    md5: 78ce603fc82bea3e06d6438a0d7a73dd
+    version: 1.7.8-6
+  libdevkit-power-gobject1:
+    md5: f9d937b311d91b0130babf1b9d1c62cc
+    version: 1:0.9.1-1ubuntu1
+  libdevmapper-event1.02.1:
+    md5: b1195284708b28a6b86eac0dbf24a745
+    version: 2:1.02.39-1ubuntu4.1
+  libdevmapper1.02.1:
+    md5: 7d44f41c34390b39f8c6682ab7b2909d
+    version: 2:1.02.39-1ubuntu4.1
+  libdevmapper1.02.1-udeb:
+    md5: 265a3dd2cfffa354dfd6649778822897
+    version: 2:1.02.39-1ubuntu4
+  libdigest-sha1-perl:
+    md5: ffd24e10cb77474734f4496e527d4956
+    version: 2.12-1build1
+  libdirectfb-1.2-0:
+    md5: b40a9943be825e8a66e6af61532d6357
+    version: 1.2.8-5ubuntu2
+  libdirectfb-1.2-0-udeb:
+    md5: d8260d4b7b9f8ae2016b596b3594563c
+    version: 1.2.8-5ubuntu2
+  libdirectfb-dev:
+    md5: 959b9b07f212a6d071ed3095b7749040
+    version: 1.2.8-5ubuntu2
+  libdirectfb-extra:
+    md5: 371ef32e4de190c152159d19e7d51fed
+    version: 1.2.8-5ubuntu2
+  libdmraid1.0.0.rc16-udeb:
+    md5: 800b1b9cd1b77551bb3a22992b7d5289
+    version: 1.0.0.rc16-3ubuntu2
+  libdmx1:
+    md5: 2b79fe7da73d70c8aa32bf9e1ed7ce9b
+    version: 1:1.1.0-2
+  libdns64:
+    md5: 1ebb4d4e97f58ae633c049a061305de4
+    version: 1:9.7.0.dfsg.P1-1ubuntu0.7
+  libdrm-dev:
+    md5: 6e2992088ed2d8550ecaddc3fea5d25c
+    version: 2.4.18-1ubuntu3
+  libdrm-intel1:
+    md5: 2e2bd2024ae8c50e7c4337f9187e6dd4
+    version: 2.4.18-1ubuntu3
+  libdrm-nouveau1:
+    md5: 814b6ad482f3e45176222f4918641fee
+    version: 2.4.18-1ubuntu3
+  libdrm-radeon1:
+    md5: aa1051d01742fe8cad7d86c92bdb95b9
+    version: 2.4.18-1ubuntu3
+  libdrm2:
+    md5: 037771ac4df0b8e51ff8710daf5ac16c
+    version: 2.4.18-1ubuntu3
+  libdv4:
+    md5: 383c0fbea1cffc0bfff7013434465a01
+    version: 1.0.0-2ubuntu2
+  libebackend1.2-0:
+    md5: 9a5c206395db8962acf1df60a1057761
+    version: 2.28.3.1-0ubuntu6.1
+  libebook1.2-9:
+    md5: 61bb3784207e1e80e8c8c255e6eb99a3
+    version: 2.28.3.1-0ubuntu6.1
+  libecal1.2-7:
+    md5: 86bcfe33716fec95ecf4f96c4e07a9fa
+    version: 2.28.3.1-0ubuntu6.1
+  libedata-book1.2-2:
+    md5: 05176e9f649e91a1d69bc8780de2199a
+    version: 2.28.3.1-0ubuntu6.1
+  libedata-cal1.2-6:
+    md5: ad89cb9835574e9443a418f5eefffd50
+    version: 2.28.3.1-0ubuntu6.1
+  libedataserver1.2-11:
+    md5: ccfb3b13b83f07306fc9255045c3572e
+    version: 2.28.3.1-0ubuntu6.1
+  libedataserverui1.2-8:
+    md5: 3394161ce6822583cbc9cd8c65b0da0c
+    version: 2.28.3.1-0ubuntu6.1
+  libedit2:
+    md5: f56689d5546baadb7cbac18a033f6998
+    version: 2.11-20080614-1build1
+  libeggdbus-1-0:
+    md5: ef97a6a4cfd68a05197606879fdf1a40
+    version: 0.6-1
+  libegroupwise1.2-13:
+    md5: 989907d752299bbe61d4d46c70e6a722
+    version: 2.28.3.1-0ubuntu6.1
+  libeigen3-dev:
+    md5: bd0f63c2480dba6c99ebd0629be95201
+    version: 3.0.1-1+ros4~lucid
+  libelf1:
+    md5: 7d3ed7fa63be37319308aaa851e826ab
+    version: 0.143-1
+  libenchant1c2a:
+    md5: 842fddf52fb033aea56616d4cbf8beb1
+    version: 1.6.0-0ubuntu1
+  libept0:
+    md5: a54a0d095c9d1997d95c119ed3ce340f
+    version: 0.5.30
+  liberror-perl:
+    md5: cbf0d9a753a8c5e315cb547aeb5d2068
+    version: 0.17-1
+  libesd-alsa0:
+    md5: 5e43d27c287ca3693dd7a581694e75eb
+    version: 0.2.41-6ubuntu1
+  libesd0:
+    md5: 542568bdc2105b339064ccfc06090955
+    version: 0.2.41-6ubuntu1
+  libesd0-dev:
+    md5: 8e1a6b6fa7147642b55fb5310a883431
+    version: 0.2.41-6ubuntu1
+  libestools1.2:
+    md5: 952e10868885991550a68e651c8b9390
+    version: 1:1.2.96~beta-6
+  libevent-1.4-2:
+    md5: e6be0aa4359fe1abd772e04f2cacf8f2
+    version: 1.4.13-stable-1
+  libexempi3:
+    md5: 05474f7ef684bb82ef54cf91256c058b
+    version: 2.1.1-1build2
+  libexif-dev:
+    md5: 10846aacbebb0fbf70a3421460a82fcc
+    version: 0.6.19-1ubuntu0.1
+  libexif12:
+    md5: 5a5f981616a38dc30f43f4620eff14b5
+    version: 0.6.19-1ubuntu0.1
+  libexpat1:
+    md5: 314181423ec6296e9f6143846b23c9ba
+    version: 2.0.1-7ubuntu1.1
+  libexpat1-dev:
+    md5: 1d24e1590f1d779e01d5e41f0efa3ffc
+    version: 2.0.1-7ubuntu1.1
+  libexpat1-udeb:
+    md5: 4fb92b3478f863b8503d500e6492442e
+    version: 2.0.1-7ubuntu1
+  libezmorph-java:
+    md5: caa1596810b15a8dc8e2230a57821977
+    version: 1.0.6-1ubuntu2
+  libfcgi-dev:
+    md5: 540e71928c121694103daf326eae92ab
+    version: 2.4.0-7.1ubuntu1
+  libfcgi0ldbl:
+    md5: 7ce96c922a80528e8e1ffa440e8df3fe
+    version: 2.4.0-7.1ubuntu1
+  libffcall1:
+    md5: 64da90ee393006ecd25df85ba695e964
+    version: 1.10+2.41-3
+  libffi5:
+    md5: 6aac89b1a1f48b90fa3b8241b7a33f25
+    version: 3.0.9-1
+  libfftw3-3:
+    md5: e7ca16c28b7053c4ad4769287390ccdd
+    version: 3.2.2-1
+  libfftw3-dev:
+    md5: 30a75b7e3275af2157f919c1f2529b3f
+    version: 3.2.2-1
+  libfile-copy-recursive-perl:
+    md5: f9f292787835ae54426e80678737509c
+    version: 0.38-1
+  libflac8:
+    md5: 19e220988df4bc1ba14c186e5da1ee34
+    version: 1.2.1-2build2
+  libfltk1.1:
+    md5: b0cc4528e694c21532fcea6734811029
+    version: 1.1.10-2
+  libfltk1.1-dev:
+    md5: 908329a8f7ae303faab27ad07f3862a6
+    version: 1.1.10-2
+  libfont-afm-perl:
+    md5: 2322f8db827053cf4754f6182c30572f
+    version: 1.20-1
+  libfontconfig1:
+    md5: de451530ba2eccd16465ce48031881e3
+    version: 2.8.0-2ubuntu1
+  libfontconfig1-dev:
+    md5: 57dc7e97ed75f5f5fd36d6f04728e90a
+    version: 2.8.0-2ubuntu1
+  libfontenc1:
+    md5: 4e8be7f1cee2b9a6052cf632ac407176
+    version: 1:1.0.5-1
+  libfreeimage-dev:
+    md5: 3704e9bf63324fbf1de9832be94b1be1
+    version: 3.10.0-2
+  libfreeimage3:
+    md5: ef65c6127375ba6555073260d6c201f3
+    version: 3.10.0-2
+  libfreetype6:
+    md5: 9d58d0a93fe1f9958d5051d8078fca08
+    version: 2.3.11-1ubuntu2.6
+  libfreetype6-dev:
+    md5: 265e8646581dd11cf122ee39ac4a4c45
+    version: 2.3.11-1ubuntu2.6
+  libfreetype6-udeb:
+    md5: b11ce3c260eb77e3cb69488c85257e9b
+    version: 2.3.11-1ubuntu2
+  libfreezethaw-perl:
+    md5: dfbc51771ca4af0710673e24eec52094
+    version: 0.45-1
+  libfribidi0:
+    md5: e432a921e858fa15c0b1616a9c62822d
+    version: 0.19.2-1
+  libfribidi0-udeb:
+    md5: 91723ed97bf99b17bdb853762d4fee69
+    version: 0.19.2-1
+  libfs6:
+    md5: 40acd46a93758ac0579bc855d60818e8
+    version: 2:1.0.2-1build1
+  libftgl-dev:
+    md5: b07e9771c7a4c4bfa7e10300db6f7e41
+    version: 2.1.3~rc5-3
+  libftgl2:
+    md5: 759530279cad0f8eaba5ac4d7d59a63b
+    version: 2.1.3~rc5-3
+  libfuse2:
+    md5: 9b8145bc15f9a86ef616e62b13831d5e
+    version: 2.8.1-1.1ubuntu3.1
+  libfuse2-udeb:
+    md5: acee01c80b69340e89a3a318b36ca370
+    version: 2.8.1-1.1ubuntu2
+  libgail-common:
+    md5: 2b0e32be8f762d012bc2e6c07325fdfc
+    version: 2.20.1-0ubuntu2.1
+  libgail18:
+    md5: 3855cf55f685b46196128f154cb639e2
+    version: 2.20.1-0ubuntu2.1
+  libgamin0:
+    md5: 845f93de2f83751a304796d50c806821
+    version: 0.1.10-1ubuntu3
+  libgc1c2:
+    md5: ad25e7c514007e9a309f6ee7c2ec395a
+    version: 1:6.8-1.2ubuntu1.1
+  libgcc1:
+    md5: 9c2e4ae1c1ee8f282891c800737f8506
+    version: 1:4.4.3-4ubuntu5.1
+  libgconf2-4:
+    md5: a6cb1148d13bd0c4536147b993cf0bed
+    version: 2.28.1-0ubuntu1
+  libgcr0:
+    md5: eaadff54a7c403cc6a7d358c34fc7aaa
+    version: 2.92.92.is.2.30.3-0ubuntu1.1
+  libgcrypt11:
+    md5: e800ed404391685381efc1eceabc685b
+    version: 1.4.4-5ubuntu2.1
+  libgcrypt11-udeb:
+    md5: 035b203e50d757d634db85b750300529
+    version: 1.4.4-5ubuntu2
+  libgd2-noxpm:
+    md5: aba45600d5845d4e114bb3bbafb4c8a2
+    version: 2.0.36~rc1~dfsg-3.1ubuntu1
+  libgdata-google1.2-1:
+    md5: 8fd5deca5f1252599b1dba086e89cd0a
+    version: 2.28.3.1-0ubuntu6.1
+  libgdata1.2-1:
+    md5: 8e4fc64aa7a2c2d81df8b18cf533291c
+    version: 2.28.3.1-0ubuntu6.1
+  libgdbm3:
+    md5: 5fee2736102cb6d0dde6144d92e00087
+    version: 1.8.3-9
+  libgdu0:
+    md5: 5fb6c775e202de6a304e35403e4b4175
+    version: 2.30.1-1
+  libgeoip1:
+    md5: 67a56dc3337441aae95ab896b68efa4b
+    version: 1.4.6.dfsg-17
+  libgfortran3:
+    md5: 9c56f64490fd11645d1ff84a64847423
+    version: 4.4.3-4ubuntu5.1
+  libgif4:
+    md5: e2ce37fe153aa2f0c04612cc5f02f533
+    version: 4.1.6-9
+  libgksu2-0:
+    md5: 5292a9797691b9c092c2ad60cd310c97
+    version: 2.0.13~pre1-1ubuntu4.2
+  libgl1-mesa-dev:
+    md5: fc0354ea2a7b892d956e143c9b9d2738
+    version: 7.7.1-1ubuntu3.1
+  libgl1-mesa-dri:
+    md5: d4541ef4f61b670dad1589f200ba60af
+    version: 7.7.1-1ubuntu3.1
+  libgl1-mesa-glx:
+    md5: 8e66c8e2c94af64ffdd1a9b80ba09268
+    version: 7.7.1-1ubuntu3.1
+  libgl2ps-dev:
+    md5: 922ac55d47999d57a9818ef1d24d9db0
+    version: 1.3.5-1
+  libgl2ps0:
+    md5: d69eca8ee5e29ffc2ba868fb00ec10c6
+    version: 1.3.5-1
+  libglade2-0:
+    md5: 6791209ddbdccd6c6ed8d3909da7063c
+    version: 1:2.6.4-1build1
+  libglew1.5:
+    md5: 40eba7b11fdd2be97d90bd706551cde4
+    version: 1.5.2-0ubuntu1
+  libglew1.5-dev:
+    md5: 9b3390628b5569d418a17618a5ea234f
+    version: 1.5.2-0ubuntu1
+  libglib-perl:
+    md5: cc57be876e5cccf62d56d72f313a1ce5
+    version: 1:1.222-1
+  libglib2.0-0:
+    md5: c39ce45134019f0bfd31ada0625e2297
+    version: 2.24.1-0ubuntu1
+  libglib2.0-data:
+    md5: d2f1797e1df00ebb7756838686f8a89e
+    version: 2.24.1-0ubuntu1
+  libglib2.0-dev:
+    md5: 58891afe4f3f44c885c816114d1cd74e
+    version: 2.24.1-0ubuntu1
+  libglib2.0-udeb:
+    md5: 2264fc110a48a70f5310f116f6bb5c50
+    version: 2.24.0-0ubuntu4
+  libglibmm-2.4-1c2a:
+    md5: c6d322bee404bb2f77762e99e137a773
+    version: 2.24.2-0ubuntu1
+  libglpk0:
+    md5: 786dc21d0ba25da5f90f01923b15afff
+    version: 4.38-1ubuntu1
+  libglu1-mesa:
+    md5: dc95b2a07b30c8f5f229d36e32b00e56
+    version: 7.7.1-1ubuntu3.1
+  libglu1-mesa-dev:
+    md5: bb8de0e724e14721aa9fb7edc1249c2e
+    version: 7.7.1-1ubuntu3.1
+  libglui-dev:
+    md5: 8388aea1de3ef22296128e0df08db798
+    version: 2.36-4ubuntu1
+  libglui2c2:
+    md5: 6a208c9fcfdaa39930c557b1be1e0ca6
+    version: 2.36-4ubuntu1
+  libglut3-dev:
+    md5: 857fe8684cd28d52c28acd7487ada4b9
+    version: 3.7-25
+  libgmp3-dev:
+    md5: 0065709d158e5b468fbabec5b90ca3c5
+    version: 2:4.3.2+dfsg-1ubuntu1
+  libgmp3c2:
+    md5: 4900db91ca9255321426020ff09982d3
+    version: 2:4.3.2+dfsg-1ubuntu1
+  libgmpxx4ldbl:
+    md5: dd6bfc26f52d37aa2b9aa6ce9014486f
+    version: 2:4.3.2+dfsg-1ubuntu1
+  libgnome-desktop-2-17:
+    md5: 5295509eb62fcc2c72070c321c17d332
+    version: 1:2.30.2-0ubuntu1
+  libgnome-keyring0:
+    md5: ceec35af04d5d4668965c7cefd6d2497
+    version: 2.30.1-0ubuntu1
+  libgnome-media0:
+    md5: ec2c283f6016840c4412be1257d41bd9
+    version: 2.30.0-0ubuntu1
+  libgnome-menu2:
+    md5: c30b1b968f2ef346ad9a2b2f533e80b7
+    version: 2.30.0-0ubuntu4
+  libgnome-window-settings1:
+    md5: 5e5e6d5bf58bd872c7dece8263dcd166
+    version: 1:2.30.1-0ubuntu2
+  libgnome2-0:
+    md5: 71c0b5bbe222d801d7c0f6529906e690
+    version: 2.30.0-0ubuntu1
+  libgnome2-canvas-perl:
+    md5: 256ebc835e1550e0e29da180a9015c7b
+    version: 1.002-2build1
+  libgnome2-common:
+    md5: 674b66f7788755a595ad722a8236666e
+    version: 2.30.0-0ubuntu1
+  libgnome2-perl:
+    md5: 7a8e074e5d7638afcd5662a80f0005ab
+    version: 1.042-2build1
+  libgnome2-vfs-perl:
+    md5: c67efdfa04ba9a3aa0e88afa36e4cee7
+    version: 1.081-1build1
+  libgnomecanvas2-0:
+    md5: f588afcd37233d440ab631e70ac2d08d
+    version: 2.30.1-0ubuntu1
+  libgnomecanvas2-common:
+    md5: 73ecde8a1f5096ae641eaea6410b9196
+    version: 2.30.1-0ubuntu1
+  libgnomekbd-common:
+    md5: e31c0a2c8d7f2b84d8c926a70e5c359a
+    version: 2.30.2-0ubuntu0.1
+  libgnomekbd4:
+    md5: 8ef019c548ae236e86707d6a1732ec2f
+    version: 2.30.2-0ubuntu0.1
+  libgnomeui-0:
+    md5: 81a1b6f28f7fd87b45161bfed653d739
+    version: 2.24.3-1
+  libgnomeui-common:
+    md5: 5e3057742ba3f8f630a1173e21ef734b
+    version: 2.24.3-1
+  libgnomevfs2-0:
+    md5: 4385d0031c1a2fde859a1064aca0e04c
+    version: 1:2.24.2-1ubuntu2
+  libgnomevfs2-common:
+    md5: 76559000830c16205244171265781597
+    version: 1:2.24.2-1ubuntu2
+  libgnomevfs2-extra:
+    md5: 96c8b8cac605a52be8988cb2b468bf27
+    version: 1:2.24.2-1ubuntu2
+  libgnutls26:
+    md5: 42b7721ca79c5d196f3676e8092e4bed
+    version: 2.8.5-2ubuntu0.2
+  libgomp1:
+    md5: 613d2ec0f027ffcfad376d892d10dbbd
+    version: 4.4.3-4ubuntu5.1
+  libgp11-0:
+    md5: 0693a133941c0481e9662b010c3da33b
+    version: 2.92.92.is.2.30.3-0ubuntu1.1
+  libgpg-error0:
+    md5: e86f03a4b062f1ce9f2fd51bb2ffa14f
+    version: 1.6-1ubuntu2
+  libgpg-error0-udeb:
+    md5: 240f5bd336f0cdc52ce8ac70f1306f26
+    version: 1.6-1ubuntu2
+  libgpgme11:
+    md5: ca5296bdfc489380efc66352a253781d
+    version: 1.2.0-1.2ubuntu1
+  libgphoto2-2:
+    md5: 3d82ca18a3b938a85227f0ec0d45c84f
+    version: 2.4.8-0ubuntu2
+  libgphoto2-2-dev:
+    md5: b805443f98207218d389e022006ba2f3
+    version: 2.4.8-0ubuntu2
+  libgphoto2-port0:
+    md5: 3327acc63ec169497be97827744a9790
+    version: 2.4.8-0ubuntu2
+  libgpm2:
+    md5: f0a84402a5107602419a10b9c7da5eb3
+    version: 1.20.4-3.2ubuntu2
+  libgps-dev:
+    md5: e83437000e220e13c293bb56de095f74
+    version: 2.92-4
+  libgps19:
+    md5: cf0631b9f64ae335c8e2ff1568af9917
+    version: 2.92-4
+  libgraphicsmagick++1-dev:
+    md5: 66abf861bd12e4cabab7e0518eb9e641
+    version: 1.3.5-6
+  libgraphicsmagick++3:
+    md5: f822672078551f23347305b2e3f3d4a4
+    version: 1.3.5-6
+  libgraphicsmagick1-dev:
+    md5: 0ab3a6a36d6c0ab19c2880d0c43c9fa9
+    version: 1.3.5-6
+  libgraphicsmagick3:
+    md5: a11fe89da55ace3cee383b216d2e551e
+    version: 1.3.5-6
+  libgraphite3:
+    md5: a26464dc44b842fed479fbe0853edcc2
+    version: 1:2.3.1-0.2
+  libgraphviz4:
+    md5: a9cebd84c926d054479c3ac2b368442f
+    version: 2.20.2-8ubuntu3
+  libgs8:
+    md5: 410f8d965ec405ffeb301c7a3610b450
+    version: 8.71.dfsg.1-0ubuntu5.5
+  libgsf-1-114:
+    md5: ab12bf2243892e801cd3e47b07ab4eca
+    version: 1.14.16-1ubuntu1
+  libgsf-1-common:
+    md5: af407b400588ae9d9feb03ca32e5213c
+    version: 1.14.16-1ubuntu1
+  libgsl0-dev:
+    md5: 01eedf7b9d7c0048d574fff189de1590
+    version: 1.13+dfsg-1
+  libgsl0ldbl:
+    md5: e2df7ec7d00f0b8534b5e929a66c108e
+    version: 1.13+dfsg-1
+  libgsm1:
+    md5: ea3e5989138f663ccc525e0457f949b4
+    version: 1.0.13-3
+  libgssapi-krb5-2:
+    md5: e4853c80e653bd51f736fde3d79752cd
+    version: 1.8.1+dfsg-2ubuntu0.11
+  libgssglue1:
+    md5: b626aed847ad09e71405706a9775ae01
+    version: 0.1-4
+  libgssrpc4:
+    md5: 96912f607e071cefcb3aae2320a1dcdc
+    version: 1.8.1+dfsg-2ubuntu0.11
+  libgstreamer-plugins-base0.10-0:
+    md5: 1dfbb54371c0833306d287861eb359d3
+    version: 0.10.28-1
+  libgstreamer-plugins-base0.10-dev:
+    md5: 3c235bb4bb618b7138240325b0329433
+    version: 0.10.28-1
+  libgstreamer0.10-0:
+    md5: 7983e52b3fe502e1509fcb2a34624641
+    version: 0.10.28-1
+  libgstreamer0.10-dev:
+    md5: cbf1230c39bd7e82479df332f5595469
+    version: 0.10.28-1
+  libgtest-dev:
+    md5: 51108730a953b38a92ecac3b99c36af2
+    version: 1.3.0-1ubuntu2
+  libgtest0:
+    md5: f49fbe35817f6159fe0532615680c4b6
+    version: 1.3.0-1ubuntu2
+  libgtk-directfb-2.0-0-udeb:
+    md5: 3dfadf387492605be2a8ebd280c957f0
+    version: 2.20.0-0ubuntu4
+  libgtk2-perl:
+    md5: 0ee3cb68cf6bd97d951dec67c068f4c3
+    version: 1:1.221-4ubuntu2
+  libgtk2.0-0:
+    md5: c0b5781a46570aaafde7d1c0d2bfef54
+    version: 2.20.1-0ubuntu2.1
+  libgtk2.0-bin:
+    md5: 70535453985b1a0335f876838a90d856
+    version: 2.20.1-0ubuntu2.1
+  libgtk2.0-common:
+    md5: 4924070b33b0684f2b11d02805706d62
+    version: 2.20.1-0ubuntu2.1
+  libgtk2.0-dev:
+    md5: 62d39f3267257cbe196733e9893e6bbe
+    version: 2.20.1-0ubuntu2.1
+  libgtkhtml2-0:
+    md5: f7b11d11428090b52622626b641f81d8
+    version: 2.11.1-2ubuntu3
+  libgtkmm-2.4-1c2a:
+    md5: 401a8883a4df232fa2d9d11aaf97548e
+    version: 1:2.20.3-0ubuntu1
+  libgtop2-7:
+    md5: f4f0e29a997168b6d604cd3641000f30
+    version: 2.26.1-0ubuntu2
+  libgtop2-common:
+    md5: 39c6951b076c97f7cecd3fd8cb7ac71a
+    version: 2.26.1-0ubuntu2
+  libgtop2-dev:
+    md5: 3c708421ae2c862006561326a0f8f88b
+    version: 2.26.1-0ubuntu2
+  libgucharmap7:
+    md5: 36440216f3dc895fec51f2d1f61132bd
+    version: 1:2.30.0-0ubuntu1
+  libgudev-1.0-0:
+    md5: 5b76a42154cce19ee49740537212af1d
+    version: 1:151-12.3
+  libgvfscommon0:
+    md5: 0381c1841877c798061114a072a542c2
+    version: 1.6.1-0ubuntu1build1
+  libgweather-common:
+    md5: 8f4a981cdc6252e49dc1d146c2c9eee5
+    version: 2.30.0-0ubuntu1.1
+  libgweather1:
+    md5: 9873c01cfad5111e136f51fa960e7f6a
+    version: 2.30.0-0ubuntu1.1
+  libhal-dev:
+    md5: 6142ab11ad8c6bc4e46c7cfc4568f3a0
+    version: 0.5.14-0ubuntu6
+  libhal-storage1:
+    md5: a8c63e0bbfa97ecc36dec9a47a6bd92a
+    version: 0.5.14-0ubuntu6
+  libhal1:
+    md5: fb01d7ead7f61ec5fc905dbb9807833a
+    version: 0.5.14-0ubuntu6
+  libhamcrest-java:
+    md5: 2a48966ef2461c7c1325984f63d3bc5a
+    version: 1.1-4
+  libhdf5-serial-1.8.4:
+    md5: 6d74a6a6829dc0d10ae158cb43d2d790
+    version: 1.8.4-5
+  libhdf5-serial-dev:
+    md5: 3ceee4d8c38df426640e80877e531d56
+    version: 1.8.4-5
+  libhid-dev:
+    md5: 9569d92b4748f073961e2c707d33d9b6
+    version: 0.2.15+20060325-2.2ubuntu1
+  libhid0:
+    md5: 337961c552919066e40576c6a5c2ecf9
+    version: 0.2.15+20060325-2.2ubuntu1
+  libhtml-format-perl:
+    md5: a208b977552a9bb01c542444d6f0a873
+    version: 2.04-2
+  libhtml-parser-perl:
+    md5: 8b5e92cde062e20445f4b128902958d2
+    version: 3.64-1
+  libhtml-tagset-perl:
+    md5: 86862a4ac995db738fcfd012275fc3a7
+    version: 3.20-2
+  libhtml-tree-perl:
+    md5: 87a0edee26cb80072920e1a65fbd1108
+    version: 3.23-1
+  libhunspell-1.2-0:
+    md5: 62bf7cb6a4fc078af2d402a1731d659d
+    version: 1.2.8-6ubuntu1
+  libhyphen0:
+    md5: d7c6a42a6db80311515a7d6c1783e988
+    version: 2.4-6ubuntu1
+  libibverbs-dev:
+    md5: 6a9c404e04c530dc2fdaf919ef5eb0d4
+    version: 1.1.3-2ubuntu1
+  libibverbs1:
+    md5: e89e5d91a6f95afd4747fe8e41565d2c
+    version: 1.1.3-2ubuntu1
+  libical0:
+    md5: 3a43ae88a58d49a1f403e61fd7bf89a6
+    version: 0.44-3
+  libice-dev:
+    md5: 9fbed3da6963f4c0009a1f9b4f891959
+    version: 2:1.0.6-1
+  libice6:
+    md5: 7b5d7f53d15132fd01d3c9616c4fa93c
+    version: 2:1.0.6-1
+  libicu-dev:
+    md5: b888814792eadfe42fbaa5bce8e2c03c
+    version: 4.2.1-3ubuntu0.10.04.1
+  libicu42:
+    md5: 8300ab35937f70a3cfa56fe1634b3041
+    version: 4.2.1-3ubuntu0.10.04.1
+  libidl0:
+    md5: 3940c860a789cee1a08e40a497845ec2
+    version: 0.8.13-1
+  libidn11:
+    md5: bdd25e15076337affc6c1cb4b37c5470
+    version: 1.15-2
+  libidn11-dev:
+    md5: 9a840551675cc8f478c34480b7edad6e
+    version: 1.15-2
+  libiec61883-0:
+    md5: a2cdc77ecad3847087833e46b8e6656d
+    version: 1.2.0-0.1build1
+  libimobiledevice0:
+    md5: 72426580dfc77a74baf3e75db0f9f5dc
+    version: 0.9.7-1ubuntu1.2
+  libindicate4:
+    md5: cebd933969cc79b358e0c811e4a298c3
+    version: 0.3.6-0ubuntu1
+  libindicator0:
+    md5: acabb98146560db45a1705312aee6d5b
+    version: 0.3.8-0ubuntu1
+  libio-compress-base-perl:
+    md5: 5b71a7678b5752d368c232b95240ba81
+    version: 2.022-1
+  libio-compress-zlib-perl:
+    md5: 5c5aff529c8853eb7782de57bbceb623
+    version: 2.022-1
+  libio-string-perl:
+    md5: 3637a4ce8783d519141c6c96313145b8
+    version: 1.08-2
+  libisc60:
+    md5: 5a28b1816e56006b73d700c5c89be5b5
+    version: 1:9.7.0.dfsg.P1-1ubuntu0.7
+  libisccc60:
+    md5: 6790998b515b02dbdd470f5c5fedf16b
+    version: 1:9.7.0.dfsg.P1-1ubuntu0.7
+  libisccfg60:
+    md5: e2648e3e0ff026f3e143dee8c47737f2
+    version: 1:9.7.0.dfsg.P1-1ubuntu0.7
+  libiw-dev:
+    md5: 93174043129474d7447d24e94560a325
+    version: 30~pre9-3ubuntu4
+  libiw30:
+    md5: 1251039eec9a8011ce137d1c2f47cb2b
+    version: 30~pre9-3ubuntu4
+  libiw30-udeb:
+    md5: 03e705a9d60e86630f9a3b4fa9417860
+    version: 30~pre9-3ubuntu4
+  libjasper-dev:
+    md5: 65ec04a7aa6f20bdbe6df5abd7667b10
+    version: 1.900.1-7ubuntu0.10.04.1
+  libjasper1:
+    md5: 039b387ad30606007f128dab30a0a412
+    version: 1.900.1-7ubuntu0.10.04.1
+  libjaxen-java:
+    md5: fe4a79b505c03038a0f43050aaf5284c
+    version: 1.1.2-1
+  libjaxp1.3-java:
+    md5: d3c0100505a2630f8578c0770a060488
+    version: 1.3.04-5ubuntu3
+  libjline-java:
+    md5: 978e6da851477fc1b057db47a794c6ae
+    version: 0.9.94-5
+  libjpeg62:
+    md5: db5aa94e95498f63a00922a1f49b2efd
+    version: 6b-15ubuntu1
+  libjpeg62-dev:
+    md5: b29676f9b448d31bff7710c23d48eb10
+    version: 6b-15ubuntu1
+  libjs-jquery:
+    md5: b23500e005d1f8159d98af2c3a15e284
+    version: 1.3.3-2ubuntu1
+  libjson-glib-1.0-0:
+    md5: 613579b14386b80e3d6faa3c0cdd62e7
+    version: 0.7.6-0ubuntu2
+  libjson-glib-dev:
+    md5: 1ad0be321c1b36c43f528d6f9f7e209c
+    version: 0.7.6-0ubuntu2
+  libjson-java:
+    md5: b04b1ef63ca9595dbfb3200ab463a0c6
+    version: 2.3-1ubuntu1
+  libk5crypto3:
+    md5: 092728f2ea5db53de0d31e3599e848dd
+    version: 1.8.1+dfsg-2ubuntu0.11
+  libkadm5clnt-mit7:
+    md5: 26cd8c426f3b3b5bd1726c34bcc6a32e
+    version: 1.8.1+dfsg-2ubuntu0.11
+  libkadm5srv-mit7:
+    md5: b7dc116e800fcacb83493dcda4ba2d69
+    version: 1.8.1+dfsg-2ubuntu0.11
+  libkdb5-4:
+    md5: 0b7b88276cfd397bb8f2a8d5f55d879a
+    version: 1.8.1+dfsg-2ubuntu0.11
+  libkeyutils1:
+    md5: c5812d875fde606f37881c79f8fd197d
+    version: 1.2-12
+  libklibc:
+    md5: 419fbfdd03ac06ed5983f0a5a43440a8
+    version: 1.5.17-4ubuntu1
+  libklibc-udeb:
+    md5: 33fbafe7c2e8482476ae8c1590f39891
+    version: 1.5.17-4ubuntu1
+  libklu1.1.0:
+    md5: bc193343000131f74c87aed55329182b
+    version: 1:3.4.0-1ubuntu3
+  libkpathsea5:
+    md5: 281dbbf990016ba43042bcdc46af15f8
+    version: 2009-5ubuntu0.2
+  libkrb5-3:
+    md5: cabab267c66bbce3c6030b25a0a38115
+    version: 1.8.1+dfsg-2ubuntu0.11
+  libkrb5-dev:
+    md5: d3b9a28db7794454becbf45cdecfdba5
+    version: 1.8.1+dfsg-2ubuntu0.11
+  libkrb5support0:
+    md5: 1b146c317a0d6463bd2bf752d44d5782
+    version: 1.8.1+dfsg-2ubuntu0.11
+  liblapack-dev:
+    md5: 726290295690bb7d2a32fcd947dd578d
+    version: 3.2.1-2
+  liblapack3gf:
+    md5: 9b626a7e74e20f9419a2c95ff91e5766
+    version: 3.2.1-2
+  liblaunchpad-integration1:
+    md5: d87b7d868f00fcd9123e6dd481e1bc04
+    version: 0.1.35
+  liblcms1:
+    md5: 5206b4b12680e17805854d22ceda3937
+    version: 1.18.dfsg-1ubuntu2.10.04.1
+  liblcms1-dev:
+    md5: 4e5ca751960544d924b6121281992160
+    version: 1.18.dfsg-1ubuntu2.10.04.1
+  libldap-2.4-2:
+    md5: 37529f805865f32c8cd203b724fa495a
+    version: 2.4.21-0ubuntu5.7
+  libldap2-dev:
+    md5: 920df891b75b9e3f699aa532192a58bf
+    version: 2.4.21-0ubuntu5.7
+  libldl2.0.1:
+    md5: a958d6fe6e4af3da735fad463b29e5a7
+    version: 1:3.4.0-1ubuntu3
+  liblocale-gettext-perl:
+    md5: 69fa1445089dfb75696b8fc904d2fde5
+    version: 1.05-6
+  liblockfile1:
+    md5: f31025a869f68f0a54ec12bf015d13ab
+    version: 1.08-3ubuntu1
+  liblog4cxx10:
+    md5: 2d1e6396dc79cb368c89aaa334c934a9
+    version: 0.10.0-1.1build1
+  liblog4cxx10-dev:
+    md5: df426031612655fba984e43993b7ecfe
+    version: 0.10.0-1.1build1
+  libltdl-dev:
+    md5: 5501df226cf58bdd0a51eb80019e790c
+    version: 2.2.6b-2ubuntu1
+  libltdl7:
+    md5: c059a1df8a26a29565fbb23e85e679bd
+    version: 2.2.6b-2ubuntu1
+  liblua5.1-0:
+    md5: 17bc7bd41bdb793387d162cccd361307
+    version: 5.1.4-5
+  liblua5.1-0-dev:
+    md5: 8a3344a677fd13734488ff478cab0343
+    version: 5.1.4-5
+  liblwres60:
+    md5: 82b21a20d390b86e5ec6ea7baa6c343b
+    version: 1:9.7.0.dfsg.P1-1ubuntu0.7
+  liblzma1:
+    md5: 4b265931c331c0751456d612b069510d
+    version: 4.999.9beta+20091116-1
+  liblzo2-2:
+    md5: dfeb445eac1002b4b24694ce95d49eef
+    version: 2.03-2
+  libm17n-0:
+    md5: b486eb8931c07fec17da96b2c73ca78d
+    version: 1.5.5-1
+  libmagic1:
+    md5: 77825c695406dc4dc29c73173e3f0ac5
+    version: 5.03-5ubuntu1
+  libmagickcore2:
+    md5: c6426b8538a8e74e8b315883df064278
+    version: 7:6.5.7.8-1ubuntu1.3
+  libmagickwand2:
+    md5: dbf55c972c6c3f25d1ca7f2ed16ca12b
+    version: 7:6.5.7.8-1ubuntu1.3
+  libmail-sendmail-perl:
+    md5: 773c8b4c576f4a7ccf0c220d067750ac
+    version: 0.79.16-1
+  libmailtools-perl:
+    md5: 9578c45fa1c64691fbdf45508bf4d73a
+    version: 2.05-1
+  libmetacity-private0:
+    md5: b09b88ad2a825f7b21b41047da7c87cd
+    version: 1:2.30.1-0ubuntu1.1
+  libmikmod2:
+    md5: bcd3a9aec6d1551a4726ae31de8c5d5e
+    version: 3.1.11-a-6.1ubuntu0.1
+  libmldbm-perl:
+    md5: 93061f9c79ff9a8366d2d30c74d09a84
+    version: 2.01-3
+  libmng1:
+    md5: 9c04c2273e3510911ee9a5a43851d79f
+    version: 1.0.9-1ubuntu1
+  libmockobjects-java:
+    md5: b6a1993e45770c85fd387c48114065a2
+    version: 0.09-3ubuntu2
+  libmozjs0d:
+    md5: 8246c3c4562e8dd9d9458174825fa7b3
+    version: 1.8.1.16+nobinonly-0ubuntu1
+  libmp3lame0:
+    md5: 591a5608bca83a8a63d480ff22f5afc1
+    version: 3.98.2+debian-0ubuntu3
+  libmpfr1ldbl:
+    md5: 9b12733bca30121d38e33b9dc643cb71
+    version: 2.4.2-3ubuntu1
+  libmysqlclient-dev:
+    md5: ee421348f2c6aad6d39d9c1daba9fcdd
+    version: 5.1.63-0ubuntu0.10.04.1
+  libmysqlclient16:
+    md5: fab2e78db9b1f5b72baf1465182da40c
+    version: 5.1.63-0ubuntu0.10.04.1
+  libnautilus-extension1:
+    md5: 3330b8de09b2c426da173bff507b2791
+    version: 1:2.30.1-0ubuntu1.2
+  libncurses5:
+    md5: 07e491bde110ebf47ddc6816d5f278bc
+    version: 5.7+20090803-2ubuntu3
+  libncurses5-dev:
+    md5: 2b6d097310d199de6d512825d3a2dbd3
+    version: 5.7+20090803-2ubuntu3
+  libncursesw5:
+    md5: a77c949878dda107c9753e9daf37a17e
+    version: 5.7+20090803-2ubuntu3
+  libneon27-gnutls:
+    md5: 2ba0d0621d87bd3fd799cc6cd73e5de4
+    version: 0.29.0-1
+  libnet-dbus-perl:
+    md5: 825e03356af188d111717467f015741e
+    version: 0.33.6-1build3
+  libnetcdf-dev:
+    md5: 10259eadf7dcdaaf922ebac79d851bfc
+    version: 1:3.6.3-1
+  libnetcdf4:
+    md5: c703d00fafb14c088367be50b8c57e61
+    version: 1:3.6.3-1
+  libnetpbm10:
+    md5: 3cc0abd4b09129f72f75a04f77578e13
+    version: 2:10.0-12.1ubuntu1
+  libnetpbm10-dev:
+    md5: 56d7ec69fb9c31bdf65e05ac6e5b785f
+    version: 2:10.0-12.1ubuntu1
+  libnewt0.52:
+    md5: 30c6866778bdef6069c6eb1136e5fb04
+    version: 0.52.10-5ubuntu1
+  libnfsidmap2:
+    md5: dd16efafd782adba125c1d9742f845ae
+    version: 0.23-2
+  libnih-dbus1:
+    md5: 11d8f69ccfed541a87efea54e869a562
+    version: 1.0.1-1
+  libnih1:
+    md5: cb89088afed9802c749c2370ee33e2b7
+    version: 1.0.1-1
+  libnl-dev:
+    md5: 2bfec7703a8110339a775e3611b83b20
+    version: 1.1-5build1
+  libnl1:
+    md5: 5b777ef038c7e39b693100869507e242
+    version: 1.1-5build1
+  libnotify-dev:
+    md5: ab29e4836aafae80a84e0b178958d6f7
+    version: 0.4.5-1ubuntu4
+  libnotify1:
+    md5: d0dccdbabec16caf4ba9208f1b65b417
+    version: 0.4.5-1ubuntu4
+  libnspr4-0d:
+    md5: 8320e3c08e538797f34a389df19d7e0f
+    version: 4.8.6-0ubuntu0.10.04.2
+  libnspr4-dev:
+    md5: e3b713225d3135491e74db0c7f672a09
+    version: 4.8.6-0ubuntu0.10.04.2
+  libnss-dns-udeb:
+    md5: 8560556dfd938764ef0c63cdde9580cb
+    version: 2.11.1-0ubuntu7
+  libnss-files-udeb:
+    md5: 7ab5eccb56b556623e698071b8d0c5cc
+    version: 2.11.1-0ubuntu7
+  libnss-mdns:
+    md5: 436790268e2ce0082eb7b67bfed66248
+    version: 0.10-3ubuntu4
+  libnss3-1d:
+    md5: 1f38db0c21873a39043790144cecce58
+    version: 3.12.9+ckbi-1.82-0ubuntu0.10.04.4
+  libnss3-dev:
+    md5: 643fc07ed55a5644a71af34379a2979d
+    version: 3.12.9+ckbi-1.82-0ubuntu0.10.04.4
+  libntfs-3g75:
+    md5: 9166fad9095cc8b06a2e0338920fea71
+    version: 1:2010.3.6-1ubuntu1
+  libntfs-3g75-udeb:
+    md5: 8efbc8a44800755b19678aa9b68255d9
+    version: 1:2010.3.6-1ubuntu1
+  libnuma1:
+    md5: c14cff29c12ce0c393b49f4675f00aab
+    version: 2.0.3-1
+  libogg-dev:
+    md5: da17f304ff138106f0f71f4c9bf9e88a
+    version: 1.1.4~dfsg-2
+  libogg0:
+    md5: d49728375856621d1cd13b09991c54a9
+    version: 1.1.4~dfsg-2
+  liboil0.3:
+    md5: 30e3410956fd96b108473c2f5cb74d69
+    version: 0.3.16-1ubuntu2
+  libomniorb4-1:
+    md5: 41f0c6bb0e83caeadf22a0d1e276ab8d
+    version: 4.1.2-1ubuntu2
+  libomniorb4-dev:
+    md5: 550f0b8079892ed13e27a41331ce0739
+    version: 4.1.2-1ubuntu2
+  libomnithread3-dev:
+    md5: 6e9de425986c83bee06a030d91705f64
+    version: 4.1.2-1ubuntu2
+  libomnithread3c2:
+    md5: 9bb331cfaab871c3f3452380550a1ae4
+    version: 4.1.2-1ubuntu2
+  liboobs-1-4:
+    md5: 74b9f767799efe593d5ce6a6916ab7e5
+    version: 2.30.0-0ubuntu1
+  libopencv2.3:
+    md5: 274543034990a8650db0bdb2d1a6be58
+    version: 2.3.1+svn6514+branch23-12~lucid
+  libopencv2.3-bin:
+    md5: 89fec4932d0f3a76122aee9a67ce5656
+    version: 2.3.1+svn6514+branch23-12~lucid
+  libopencv2.3-dev:
+    md5: f059c46f2cc5e3a44bc227d0119012c1
+    version: 2.3.1+svn6514+branch23-12~lucid
+  libopenmpi-dev:
+    md5: 3b7ac1cf752c637ba05aa68976b8dc1d
+    version: 1.4.1-2
+  libopenmpi1.3:
+    md5: 0d90748b416c8a74ea546adf3833cf1a
+    version: 1.4.1-2
+  libopenobex1:
+    md5: 2196dddb287d58a715df38b40c93e3be
+    version: 1.5-2build1
+  libopenssl-ruby1.8:
+    md5: 6352926c9e94a29eb669a8e303f768a0
+    version: 1.8.7.249-2ubuntu0.1
+  liborbit2:
+    md5: 9934f801584428787ea26ccce384f082
+    version: 1:2.14.18-0.1
+  liboro-java:
+    md5: 733dd7e1d6b2f6afc8d1ae0e4c5e29be
+    version: 2.0.8a-7
+  libotf0:
+    md5: 6a71179632529aa6155974e28b06e379
+    version: 0.9.10-1
+  libpam-ck-connector:
+    md5: 95bbf4618235fe168039e9d5f662e4f5
+    version: 0.4.1-3ubuntu3
+  libpam-gnome-keyring:
+    md5: 985d229c7fd18ac54388f7f789e87707
+    version: 2.92.92.is.2.30.3-0ubuntu1.1
+  libpam-modules:
+    md5: e1d6a459496725470caa9156bdc7a6ea
+    version: 1.1.1-2ubuntu5.4
+  libpam-runtime:
+    md5: b86d2a41ca7f56881d60a0c7fe7c416c
+    version: 1.1.1-2ubuntu5.4
+  libpam0g:
+    md5: 4edbc5d3761773dc05c938697639d446
+    version: 1.1.1-2ubuntu5.4
+  libpanel-applet2-0:
+    md5: fbc6f4f187931815f082a19bf5539011
+    version: 1:2.30.2-0ubuntu0.2
+  libpango-perl:
+    md5: b2f1cdb556960de89c175ef15886e2a6
+    version: 1.221-2
+  libpango1.0-0:
+    md5: 9522a9922db7a2c40893083550794453
+    version: 1.28.0-0ubuntu2.2
+  libpango1.0-common:
+    md5: ae699a4bb70eeef440a94fa0b51f98ee
+    version: 1.28.0-0ubuntu2.2
+  libpango1.0-dev:
+    md5: 0035e7b32043c2fe313e295715fd1289
+    version: 1.28.0-0ubuntu2.2
+  libpango1.0-udeb:
+    md5: d52351123743e185d3ec198ed61c50b6
+    version: 1.28.0-0ubuntu2
+  libpangomm-1.4-1:
+    md5: 47a08a3988fcf2d4b44dc6dde0740fa0
+    version: 2.26.2-0ubuntu1
+  libpaper-utils:
+    md5: 211744b3501f46ac6deb6f40d54af4b6
+    version: 1.1.23+nmu1build1
+  libpaper1:
+    md5: 253c66175d9f54a799923bd76a372d02
+    version: 1.1.23+nmu1build1
+  libparse-debianchangelog-perl:
+    md5: 98ff3921c51c7d6567921561be2fb08f
+    version: 1.1.1-2ubuntu2
+  libparted0-udeb:
+    md5: 33c3d3ed5459e4af0e7f5724a9744bf1
+    version: 2.2-5ubuntu5
+  libparted0debian1:
+    md5: 47406883461921fce6d8d293cad59d07
+    version: 2.2-5ubuntu5.2
+  libpcap0.8:
+    md5: 4487c017fd25ed996cf81fff6ac73309
+    version: 1.0.0-6
+  libpcap0.8-dev:
+    md5: af594657b40577c546e02221dcd7de70
+    version: 1.0.0-6
+  libpci3:
+    md5: 5e9d545ad9440ac5780266fbec0e1274
+    version: 1:3.0.0-4ubuntu17
+  libpciaccess0:
+    md5: 67eed85662576f166b99f8d94920af65
+    version: 0.11.0-1
+  libpcre++-dev:
+    md5: 65c97cd62bef598eaf1b90b79afce4c3
+    version: 0.9.5-3
+  libpcre++0:
+    md5: 625c11303b29da25cb907f8f283c7a9f
+    version: 0.9.5-3
+  libpcre3:
+    md5: e67ed1eb7c308ca9fe0da217d12cd78e
+    version: 7.8-3build1
+  libpcre3-dev:
+    md5: 027dbd25b5c429992d06371406d403cb
+    version: 7.8-3build1
+  libpcre3-udeb:
+    md5: f2f9dd1b054b07c34aeb8f41219609c9
+    version: 7.8-3build1
+  libpcrecpp0:
+    md5: 46d1e1053a7b932c4c98f91b7b7dbcb4
+    version: 7.8-3build1
+  libpcsclite-dev:
+    md5: 4b01a03f47b6f0c26a0a6fbe56c461d1
+    version: 1.5.3-1ubuntu4.2
+  libpcsclite1:
+    md5: 6aa8822bfa479b158bf35fccac47b9e3
+    version: 1.5.3-1ubuntu4.2
+  libperl5.10:
+    md5: 0d13d7bb348ff1b9dcd3411d7b2ff159
+    version: 5.10.1-8ubuntu2.1
+  libphonon4:
+    md5: b383935eb46ffe0aa833299a4cfdd28b
+    version: 4:4.6.2-0ubuntu5.4
+  libpixman-1-0:
+    md5: 90d638cac7d0a9f79aabcf4ef69f4552
+    version: 0.16.4-1ubuntu2
+  libpixman-1-0-udeb:
+    md5: 07b7a98e55212c0269a588c00303fc23
+    version: 0.16.4-1ubuntu2
+  libpixman-1-dev:
+    md5: a7ab3b31fadd73af55533ff91476787c
+    version: 0.16.4-1ubuntu2
+  libpkcs11-helper1:
+    md5: b3c38c8af58c9b48cd4782d051c6f9f4
+    version: 1.07-1build1
+  libplist1:
+    md5: d4e69420d45a82b3ff9031b2394de4b8
+    version: 1.1-1ubuntu1
+  libplymouth2:
+    md5: f6ab2340c47f98ef7ce2daffc97cbacc
+    version: 0.8.2-2ubuntu2.2
+  libpng12-0:
+    md5: d56430a1727b489293117cd20430984b
+    version: 1.2.42-1ubuntu2.5
+  libpng12-0-udeb:
+    md5: 1d9565250b4a05a46344081a79f87a42
+    version: 1.2.42-1ubuntu2
+  libpng12-dev:
+    md5: fd89676985fea132706dce0a3615b10c
+    version: 1.2.42-1ubuntu2.5
+  libpolkit-agent-1-0:
+    md5: f85b7f11348bc13735004a1b8f5c4226
+    version: 0.96-2ubuntu0.1
+  libpolkit-backend-1-0:
+    md5: bbf3378775924248b8e2f34256c32163
+    version: 0.96-2ubuntu0.1
+  libpolkit-dbus2:
+    md5: 1399ec60946b8d011ec3f9df4522aa3b
+    version: 0.9-4ubuntu2
+  libpolkit-gnome0:
+    md5: a1ab1dacbd263e2e28a7418bcd7ca632
+    version: 0.9.2-2ubuntu2
+  libpolkit-gobject-1-0:
+    md5: fe227dce97fc7832421d492769a94e87
+    version: 0.96-2ubuntu0.1
+  libpolkit-grant2:
+    md5: f64356cc0e8fa41cd62f254cb3866ead
+    version: 0.9-4ubuntu2
+  libpolkit-gtk-1-0:
+    md5: ecd4908ea652e0e6156c93ab6798b66b
+    version: 0.96-2ubuntu2
+  libpolkit2:
+    md5: 3990d3d2b5edebb06c3dc7cef5a42f9f
+    version: 0.9-4ubuntu2
+  libpoppler5:
+    md5: 2b2bf6c3b20fe69706f7bdb2196d5b55
+    version: 0.12.4-0ubuntu5.2
+  libpopt0:
+    md5: c759f708f0577388d3841d98b7832bcf
+    version: 1.15-1
+  libpopt0-udeb:
+    md5: fe1115e6755874c975a44968dc573f79
+    version: 1.15-1
+  libportmidi0:
+    md5: 7d1142666ab2949f77236d5b4effdf5a
+    version: 1:200-0ubuntu1
+  libpq-dev:
+    md5: 344dacbcf6df9daa6118936ca11abd7c
+    version: 8.4.14-0ubuntu10.04
+  libpq5:
+    md5: d699abc9c1c8e218ef11415d8f165f31
+    version: 8.4.14-0ubuntu10.04
+  libproxy0:
+    md5: baefc8ada5eae1985d7fbffe7d0c6487
+    version: 0.3.1-1ubuntu1
+  libpth20:
+    md5: c5e3b4b58280999c12131c3b88549e86
+    version: 2.0.7-14
+  libpthread-stubs0:
+    md5: a360babf3b53f23f02b4b32895c3ad0f
+    version: 0.3-2
+  libpthread-stubs0-dev:
+    md5: a337f6a14fa5652d5adae510657eaa4f
+    version: 0.3-2
+  libpulse-browse0:
+    md5: 7f0654f4a7ddc75205a448240350decb
+    version: 1:0.9.22~0.9.21+stable-queue-32-g8478-0ubuntu14
+  libpulse-dev:
+    md5: 66b292dc2691c5b6e77d6fbc5c96cf61
+    version: 1:0.9.22~0.9.21+stable-queue-32-g8478-0ubuntu14
+  libpulse-mainloop-glib0:
+    md5: 6da204b85f96aee4cfab8107876cb4a2
+    version: 1:0.9.22~0.9.21+stable-queue-32-g8478-0ubuntu14
+  libpulse0:
+    md5: a09d8d13fe666f811326dbdf02d849a5
+    version: 1:0.9.22~0.9.21+stable-queue-32-g8478-0ubuntu14
+  libpython2.6:
+    md5: 98da70f76c59e33704bbff2755531fe9
+    version: 2.6.5-1ubuntu6
+  libqglviewer-dev-common:
+    md5: 7e1023f85f4da684b26bac29b428b78a
+    version: 2.3.4-2
+  libqglviewer-qt4-2:
+    md5: 9b78f66191b565f78512d85043f2a762
+    version: 2.3.4-2
+  libqglviewer-qt4-dev:
+    md5: c2b9909b50b643882fb86f23c8a3fad8
+    version: 2.3.4-2
+  libqhull-dev:
+    md5: f725f2677c196c94a4353c5e707b7846
+    version: 2009.1-1
+  libqhull5:
+    md5: 513eed27f52f31f0af635ff53c431105
+    version: 2009.1-1
+  libqt4-assistant:
+    md5: 37ce4a75dd99c70eea43a2cc490339bb
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-core:
+    md5: 06b306d29daebdcdd909f9b7db542288
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-dbus:
+    md5: 19ab7c11148bb9d814e2db4fe282d8c4
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-designer:
+    md5: ce07cda4340ca7a51f9e8850fdc92225
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-dev:
+    md5: 114af8c232fd2728afd1245edc3934ee
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-help:
+    md5: 24319343d3653257adabd46d9a4115fe
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-multimedia:
+    md5: 6fb4b0839179b35146748de610853d77
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-network:
+    md5: 1507083fabaccab9bf6cffd712017f90
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-opengl:
+    md5: ad5b8333e4b234071b0fdd54367d5b43
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-opengl-dev:
+    md5: 42f9d8434d96ee8e9d4b4a4f36bfa0b3
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-qt3support:
+    md5: acc75aa9da5ee644070bdd0b618226a8
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-script:
+    md5: c7366216e00985e0c42d345d5e2b8a24
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-scripttools:
+    md5: 0a407c68edfb7c613922c6980df18210
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-sql:
+    md5: 70fd8dd58cd8f873bc17d1b8064fd543
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-sql-psql:
+    md5: 4f4697717ce1e40ea0738ca6d0b8c01e
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-sql-sqlite:
+    md5: e6993660146b4e4fc22df7467a50bb2a
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-svg:
+    md5: 4b5e44e79cef86d57d61de40b232a0b5
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-test:
+    md5: 179824c94c56e27a61050fe80dbb5fce
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-webkit:
+    md5: e581459aa107bfea5467730bfca3b55b
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-xml:
+    md5: 1ba684ff2e5d50510c0f477dfe1cd38b
+    version: 4:4.6.2-0ubuntu5.4
+  libqt4-xmlpatterns:
+    md5: 158c0f13cc432b19758b72a5b8ce8c94
+    version: 4:4.6.2-0ubuntu5.4
+  libqtcore4:
+    md5: 895d39386c86dd57f22b1f3658504619
+    version: 4:4.6.2-0ubuntu5.4
+  libqtgui4:
+    md5: 7341c5ffcaba4ee386c570f30013fb67
+    version: 4:4.6.2-0ubuntu5.4
+  libqwt5-qt4:
+    md5: a146caba859d4a4f2e7017169969fb96
+    version: 5.2.0-1build1
+  libqwt5-qt4-dev:
+    md5: 6c3ca4a7774b23cc3efedd2706aa67f1
+    version: 5.2.0-1build1
+  libraptor1:
+    md5: f96164008bdce49a64e02c7ed948f806
+    version: 1.4.21-1ubuntu1.1
+  librarian0:
+    md5: 87612a2177f6e2f3a533ba35a971f643
+    version: 0.8.1-4ubuntu1
+  librasqal2:
+    md5: ca39214263b91982f82dfd053cfdb31b
+    version: 0.9.17-1
+  libraw1394-11:
+    md5: 98095f39c8351249fb06000450193272
+    version: 2.0.4-1ubuntu2
+  libraw1394-dev:
+    md5: 4a7e56c047eaf0ca7ab679911f055df3
+    version: 2.0.4-1ubuntu2
+  librdf0:
+    md5: c7c1c9faaaeae596d2cc4665f8f259e8
+    version: 1.0.10-1ubuntu1
+  libreadline-dev:
+    md5: e72be4c04d3330e7f4a4a6de7c0d050e
+    version: 6.1-1
+  libreadline-ruby1.8:
+    md5: 8361065f5953c3c9fe03ffdad2509c6d
+    version: 1.8.7.249-2ubuntu0.1
+  libreadline5:
+    md5: 3fb37d61c63c19093221300d3acf1c7a
+    version: 5.2-7build1
+  libreadline5-dev:
+    md5: 351c6e73f5b1f6e42cab23f186fef15b
+    version: 5.2-7build1
+  libreadline6:
+    md5: 6ae11f5d3f9cb1f5ae464b0170901c42
+    version: 6.1-1
+  libreadline6-dev:
+    md5: b589d2271aef9fba3c05ae22e53c8326
+    version: 6.1-1
+  libregexp-java:
+    md5: 63bb3344f0a99c7877e53f28df725851
+    version: 1.5-2
+  librpc-xml-perl:
+    md5: 6e46f76ea02c0bf9656f2a965180d4d4
+    version: 0.72-1
+  librpcsecgss3:
+    md5: fd8f7d28da07d14ba587386804622dae
+    version: 0.19-2
+  librsvg2-2:
+    md5: 1df1d7333188143f9e8dfd756ed14f32
+    version: 2.26.3-0ubuntu1.1
+  librsvg2-common:
+    md5: dd82deb7969c4ce59fdd011982823f3f
+    version: 2.26.3-0ubuntu1.1
+  libruby1.8:
+    md5: 8d6bd7a764cc7a8a47653e83ee3cca2b
+    version: 1.8.7.249-2ubuntu0.1
+  libsasl2-2:
+    md5: 593e52dcb0284ed18e92317a0100569d
+    version: 2.1.23.dfsg1-5ubuntu1
+  libsasl2-modules:
+    md5: 8434bb33004c6a13765024be9dfcd3f6
+    version: 2.1.23.dfsg1-5ubuntu1
+  libschroedinger-1.0-0:
+    md5: 7ffe9b5657427117792821c2e9a9fdc4
+    version: 1.0.9.is.1.0.8-0ubuntu1
+  libsdl-image1.2:
+    md5: 437e5d7d664c40d6088df5e0774c9e1e
+    version: 1.2.10-1
+  libsdl-image1.2-dev:
+    md5: 755b73f879af3cac62d0ebc5e0e4734f
+    version: 1.2.10-1
+  libsdl-mixer1.2:
+    md5: 1129d16a3ff0b23014f02c94c048a473
+    version: 1.2.8-6build1
+  libsdl-net1.2:
+    md5: d51c7dcaff60bde6c91f16f127d9f4cc
+    version: 1.2.7-2
+  libsdl-net1.2-dev:
+    md5: 90e97b18a8ad86f49519afb3b25c6f43
+    version: 1.2.7-2
+  libsdl-ttf2.0-0:
+    md5: c978478c9854231b962ab485eeac4682
+    version: 2.0.9-1build1
+  libsdl1.2-dev:
+    md5: cfe706d35bc4320d6e726ddc71e7c025
+    version: 1.2.14-4ubuntu1.1
+  libsdl1.2debian:
+    md5: 16faa02f18a29224ef745f48bc9efbed
+    version: 1.2.14-4ubuntu1.1
+  libsdl1.2debian-alsa:
+    md5: c81d2c33a8546b2833084a73503ae8df
+    version: 1.2.14-4ubuntu1.1
+  libsdl1.2debian-oss:
+    md5: baf24aae4c6e12047c25fa7c4a6517cf
+    version: 1.2.14-4ubuntu1.1
+  libselinux1:
+    md5: 033653c766a8f4d7e808622741e4884b
+    version: 2.0.89-4
+  libsensors3:
+    md5: 3a2a2320a6326332590a32023d65c618
+    version: 1:2.10.8-2
+  libsensors4:
+    md5: c696b83056a80860b4d4a568fee0ad44
+    version: 1:3.1.2-2
+  libsepol1:
+    md5: 5148226e7c31977659171c7559c23df0
+    version: 2.0.40-2
+  libservlet2.5-java:
+    md5: 49c52ad84bf11cfa1d7d8628616fd89b
+    version: 6.0.24-2ubuntu1.10
+  libsexy2:
+    md5: e3697ac709fc1f3a1626dcd7817ebfa9
+    version: 0.1.11-2build2
+  libsgutils2-2:
+    md5: d8c3f078541fc62458f4f00082589c07
+    version: 1.28-2
+  libshout3:
+    md5: 6085d0f0d759805db7c1b022f00424a4
+    version: 2.2.2-5ubuntu1
+  libsigc++-2.0-0c2a:
+    md5: 229cbcd4f1ef2c7fd2d58af9eb74b5ab
+    version: 2.2.4.2-1
+  libslang2:
+    md5: 65eb9bed97771f7ced8ffee183e694d2
+    version: 2.2.2-2ubuntu1
+  libslang2-dev:
+    md5: 3a438c36cf1662d1251dcc7891f1013f
+    version: 2.2.2-2ubuntu1
+  libslang2-udeb:
+    md5: 2632cfc73d1e8a9b3a83163f0b9711ee
+    version: 2.2.2-2ubuntu1
+  libsm-dev:
+    md5: e07e19a21f0098fefec6d22efcc3950d
+    version: 2:1.1.1-1
+  libsm6:
+    md5: d61f669d082f1e3c22166a5e850029b6
+    version: 2:1.1.1-1
+  libsmbclient:
+    md5: f10254914bd8c8f61bfc979b5be42f1d
+    version: 2:3.4.7~dfsg-1ubuntu3.10
+  libsmbios2:
+    md5: 4bf68c51a5ad79bfd1d7863d3921b0ea
+    version: 2.2.13-0ubuntu4.2
+  libsmpeg0:
+    md5: 6a7cfc4b2c236d9842f9ab0c62d6b6bd
+    version: 0.4.5+cvs20030824-2.2
+  libsndfile1:
+    md5: 665795aa54acc4809da321bcf23f4d72
+    version: 1.0.21-2ubuntu0.10.04.1
+  libsnmp-base:
+    md5: dd61e47ae2e0585be6099a77c88fa069
+    version: 5.4.2.1~dfsg0ubuntu1-0ubuntu2.2
+  libsnmp15:
+    md5: ef71664076e3de4d70a908487efd1517
+    version: 5.4.2.1~dfsg0ubuntu1-0ubuntu2.2
+  libsocks4:
+    md5: ad9837338a40bcee368fc8748c60f87d
+    version: 4.3.beta2-16ubuntu1
+  libsoqt-dev-common:
+    md5: 483785bb70a4f664329252967db1a9b3
+    version: 1.4.2~svn20090224-2
+  libsoqt4-20:
+    md5: 8c889c2390a7efbb65e90475316c3937
+    version: 1.4.2~svn20090224-2
+  libsoqt4-dev:
+    md5: 3c81f057f1b78ff597734c3730bd8846
+    version: 1.4.2~svn20090224-2
+  libsoup-gnome2.4-1:
+    md5: 9cfdfa5aabb9f1c6e4ebb8305be5b4b8
+    version: 2.30.2-0ubuntu0.2
+  libsoup2.4-1:
+    md5: ae1d9e03fe19a66270b7861801b4753f
+    version: 2.30.2-0ubuntu0.2
+  libspeex1:
+    md5: 45789a5f168a664d1444ee5f12e1e24c
+    version: 1.2~rc1-1ubuntu1
+  libspnav-dev:
+    md5: 4d6db3b966c86b61539852172caf53cf
+    version: 0.2.1-0ubuntu2
+  libspnav0:
+    md5: 851c3144fd84d0f039a27d502d100e98
+    version: 0.2.1-0ubuntu2
+  libsqlite3-0:
+    md5: bcced51c9b1b7617519c1eb38e5e780a
+    version: 3.6.22-1
+  libsqlite3-dev:
+    md5: da3440e01b5fca2c6b9fad313c33f1f0
+    version: 3.6.22-1
+  libss2:
+    md5: b3fca9a1d32514b5f11a431436cd7c3d
+    version: 1.41.11-1ubuntu2.1
+  libssl-dev:
+    md5: 029aa2ea501cd0a121ac3d7621d5ffe8
+    version: 0.9.8k-7ubuntu8.13
+  libssl0.9.8:
+    md5: d51200fe4cd3641a3748a522b2a79675
+    version: 0.9.8k-7ubuntu8.13
+  libssl0.9.8-udeb:
+    md5: 6eede824b03f5da0b39008b12c9d97ba
+    version: 0.9.8k-7ubuntu8
+  libstartup-notification0:
+    md5: 645e75fb6ef0ecce96ade624e206165f
+    version: 0.10-1build1
+  libstdc++6:
+    md5: 5ccdc97f910464445f44206f1966cc47
+    version: 4.4.3-4ubuntu5.1
+  libstdc++6-4.1-dev:
+    md5: 0586ce66278ce65e1753fd4445500ebc
+    version: 4.1.2-27ubuntu1
+  libstdc++6-4.3-dev:
+    md5: cce5891d178dc97e9e5a16c7f7ca86f2
+    version: 4.3.4-10ubuntu1
+  libstdc++6-4.4-dev:
+    md5: 90a417b61edec5dedbd1a4ccd817dc4e
+    version: 4.4.3-4ubuntu5.1
+  libsub-name-perl:
+    md5: 3929962849187712b3963edc5d809ec2
+    version: 0.04-1build1
+  libsuitesparse-dev:
+    md5: 68d17ba00eb5030f2cf95dc253f00b39
+    version: 1:3.4.0-1ubuntu3
+  libsvn1:
+    md5: 2404eba2d08bd24c325c621e46ba545b
+    version: 1.6.6dfsg-2ubuntu1.3
+  libswscale-dev:
+    md5: e3af060fe31b3a2ead39af1290ef3064
+    version: 4:0.5.9-0ubuntu0.10.04.1
+  libswscale0:
+    md5: ebca1def7ddc3dfaa0b9ca07ddebb43a
+    version: 4:0.5.9-0ubuntu0.10.04.1
+  libsys-hostname-long-perl:
+    md5: 71376b3450c87117ea107041f10708f8
+    version: 1.4-2
+  libsysfs-dev:
+    md5: 8f669b54180e2e29eed7bedc7b8c3118
+    version: 2.1.0-6
+  libsysfs2:
+    md5: 0f3314418d962f1b57334e18e09acd62
+    version: 2.1.0-6
+  libsysfs2-udeb:
+    md5: 0c9b68e7a496753c2206bf74339878f6
+    version: 2.1.0-6
+  libtag1-vanilla:
+    md5: 578f961ba566f52f4b3737112e08adf8
+    version: 1.6.3-0ubuntu1
+  libtag1c2a:
+    md5: 10cc48edb151fd16e749b5b8a5f42105
+    version: 1.6.3-0ubuntu1
+  libtalloc2:
+    md5: 9593dfae0dfe816d6e52173c55025722
+    version: 2.0.1-1
+  libtasn1-3:
+    md5: f3e9789e77c4b54697b41a8b3e39e108
+    version: 2.4-1ubuntu0.1
+  libtbb-dev:
+    md5: 5d03dbdd465cea496a3f178bc1058068
+    version: 2.2+r009-1
+  libtbb2:
+    md5: 0a21221461b774faaca36f71331282c9
+    version: 2.2+r009-1
+  libtdb1:
+    md5: 51175b3bbfead7bec9ad8a60c7d2de53
+    version: 1.2.0-1
+  libterm-readkey-perl:
+    md5: 7abd1b4b527da805b253de699bdb9c50
+    version: 2.30-4build1
+  libtext-charwidth-perl:
+    md5: fa604274a1d1fff20d8a5431d4ec6924
+    version: 0.04-6
+  libtext-iconv-perl:
+    md5: 118131be857bdcca2ad374d92c9c7f14
+    version: 1.7-2
+  libtext-wrapi18n-perl:
+    md5: f0a64e9a72da5e0199c725df9bc3673d
+    version: 0.06-7
+  libtextwrap1-udeb:
+    md5: c5015e140c6e778a16a1ed4cd69747d0
+    version: 0.1-8ubuntu2
+  libthai-data:
+    md5: 1d48c70c180fb0f17fd300f19ed861eb
+    version: 0.1.13-1build1
+  libthai0:
+    md5: a764d49d7ff83b10ba946fd5445c3439
+    version: 0.1.13-1build1
+  libtheora-dev:
+    md5: f4ef4bdca33cb9d5f5ac1aaea7305663
+    version: 1.1.1+dfsg.1-3
+  libtheora0:
+    md5: 7f7ed424922f1ff7a3e841a53cc88e73
+    version: 1.1.1+dfsg.1-3
+  libtie-ixhash-perl:
+    md5: e1d9acb1adcc4c195028e28b6635ab19
+    version: 1.21-2
+  libtiff4:
+    md5: 51c41e60e1b9cbcac202f5e82db240bb
+    version: 3.9.2-2ubuntu0.10
+  libtiff4-dev:
+    md5: 068f4982f0705db25085a961301db03f
+    version: 3.9.2-2ubuntu0.10
+  libtiffxx0c2:
+    md5: eefd190b61b1751da118e9b83d9aee87
+    version: 3.9.2-2ubuntu0.10
+  libtimedate-perl:
+    md5: ddbe4fc5018414912e16516604f8fed5
+    version: 1.1900-1
+  libtinyxml-dev:
+    md5: 0560b8036e4aa3a73e055f7dd1a7c83e
+    version: 2.6.2-1~lucid
+  libtinyxml2.6.2:
+    md5: 20531320c0f64bb9e1d5866d8abf0449
+    version: 2.6.2-1~lucid
+  libtool:
+    md5: 6137dbd9a76a6b3ebb43168846e2544c
+    version: 2.2.6b-2ubuntu1
+  libts-0.0-0:
+    md5: 0af468cefd7cc0d54b8044a3e268d5fe
+    version: 1.0-7build1
+  libudev0:
+    md5: 203afef7b4ea517afbdc8e59568b81f3
+    version: 151-12.3
+  libumfpack5.4.0:
+    md5: 04be8e4cd9e411443721dde77d19bfca
+    version: 1:3.4.0-1ubuntu3
+  libunique-1.0-0:
+    md5: 72d70f7abb64b9405e80a8348669016c
+    version: 1.1.6-1ubuntu2
+  liburi-perl:
+    md5: 77d0ffea44c89f52e324f84fd74da5c9
+    version: 1.52-1
+  libusb-0.1-4:
+    md5: 1abae371927e6fa8b975a7688ff692b1
+    version: 2:0.1.12-14ubuntu0.2
+  libusb-0.1-udeb:
+    md5: cb4b584f2f977961dbc64dcd6c9fcb0b
+    version: 2:0.1.12-14
+  libusb-1.0-0:
+    md5: f6539682867d0949488203f87873a72d
+    version: 2:1.0.6-1
+  libusb-1.0-0-dev:
+    md5: 0d63a4b8c5eafdda8c88122b514aa0ac
+    version: 2:1.0.6-1
+  libusb-dev:
+    md5: 31ec78529671a4c417aaea4fc3411f4c
+    version: 2:0.1.12-14ubuntu0.2
+  libusbmuxd1:
+    md5: cc3fdbe9858d76ba50b317d568b83ddf
+    version: 1.0.2-1ubuntu2
+  libuuid-perl:
+    md5: ef6fd799b90d58af94595ec6a5e6a331
+    version: 0.02-3build2
+  libuuid1:
+    md5: 315eaa7f81acbc1f734333a472be3a2f
+    version: 2.17.2-0ubuntu1.10.04.2
+  libuuid1-udeb:
+    md5: dd96e2100552425b35ffa38c0b3cb08f
+    version: 2.17.2-0ubuntu1
+  libv4l-0:
+    md5: 7c5017e8ee34c5e775c807ebafe4d588
+    version: 0.6.4-1ubuntu1
+  libv4l-dev:
+    md5: da0b0dfa895882da18347d42202ecd3f
+    version: 0.6.4-1ubuntu1
+  libv8-2.0.3:
+    md5: d885ed6540d8d70f2d8847c40317adde
+    version: 2.0.3-2
+  libv8-dev:
+    md5: 2176663e0b088089992901b18800338b
+    version: 2.0.3-2
+  libvisual-0.4-0:
+    md5: 28d21e01b09c4fa4ed840247b5dd7bf2
+    version: 0.4.0-2.1+ubuntu2
+  libvisual-0.4-plugins:
+    md5: 2dbc3f379abf134faf6ecb4411afc1d0
+    version: 0.4.0.dfsg.1-2ubuntu5
+  libvorbis0a:
+    md5: 24e829c2ee29723c9f1920e1597d2c64
+    version: 1.2.3-3ubuntu1.1
+  libvorbisenc2:
+    md5: 6abde7584d8462714b87c6df31767355
+    version: 1.2.3-3ubuntu1.1
+  libvorbisfile3:
+    md5: 9033f8fa0adbd81c79a7d43b69ae621d
+    version: 1.2.3-3ubuntu1.1
+  libvte-common:
+    md5: 3362a9b7570880c5f121d45cf45f1635
+    version: 1:0.23.5-0ubuntu1.1
+  libvte9:
+    md5: bf13b0ef86f2cb016f875925d8ea1cb6
+    version: 1:0.23.5-0ubuntu1.1
+  libvte9-udeb:
+    md5: ae4781a997abd7d27d6f3f069eb13dff
+    version: 1:0.23.5-0ubuntu1
+  libvtk5-dev:
+    md5: 4b64a5b609dfe064b1105ed2ecbac5af
+    version: 5.2.1-14ubuntu4
+  libvtk5-qt4-dev:
+    md5: 14f72c9883924920d1b7544bc3ef3562
+    version: 5.2.1-14ubuntu4
+  libvtk5.2:
+    md5: df54e5de028afdb5c4384bc9766e80ca
+    version: 5.2.1-14ubuntu4
+  libvtk5.2-qt4:
+    md5: 72e4481fc2eea1afa974da3bc7df1867
+    version: 5.2.1-14ubuntu4
+  libwavpack1:
+    md5: f67ad6c6630ac4db9828d11782a36e86
+    version: 4.60.1-1
+  libwbclient0:
+    md5: dcfa67750f611429623716f270af86e4
+    version: 2:3.4.7~dfsg-1ubuntu3.10
+  libwebkit-1.0-2:
+    md5: 0fe42f68d81e293607b2f1161a08e07f
+    version: 1.2.7-0ubuntu0.10.04.1
+  libwebkit-1.0-common:
+    md5: 34503fa5e1fa6451887d58ea1348ae0f
+    version: 1.2.7-0ubuntu0.10.04.1
+  libwmf-dev:
+    md5: ee8ed8b542bc248b7c6317bfd62e86a8
+    version: 0.2.8.4-6.1ubuntu2
+  libwmf0.2-7:
+    md5: 1340db159f944c71ebc86661e997d1e2
+    version: 0.2.8.4-6.1ubuntu2
+  libwnck-common:
+    md5: 02a1aa71a90ed162e50e681dabc83ee3
+    version: 1:2.30.0-0ubuntu1
+  libwnck22:
+    md5: 0d2035ce41197edb07453544aa8455a0
+    version: 1:2.30.0-0ubuntu1
+  libwpd8c2a:
+    md5: 2fd1b0709f4a719b45b9b08407ec0a23
+    version: 0.8.14-1build1
+  libwps-0.1-1:
+    md5: a160360f38a66f76d5fe70b4455e8d4f
+    version: 0.1.2-1build1
+  libwrap0:
+    md5: c6d5dcbaf35ff68325f79a6edf3b6be7
+    version: 7.6.q-18
+  libwww-perl:
+    md5: 12f23927839b325c931ac066db26cf77
+    version: 5.834-1ubuntu0.1
+  libwxbase2.8-0:
+    md5: 8d590d347dd977067aa90b79046dc78d
+    version: 2.8.10.1-0ubuntu1.2
+  libwxbase2.8-dev:
+    md5: df9f25c1ceb45ca9b13fa22634bb57a6
+    version: 2.8.10.1-0ubuntu1.2
+  libwxgtk2.8-0:
+    md5: 4dc4218da4c78b4e7753ffdf30746b9f
+    version: 2.8.10.1-0ubuntu1.2
+  libwxgtk2.8-dev:
+    md5: 4cd4dd8a332f04ce71edf8266011861f
+    version: 2.8.10.1-0ubuntu1.2
+  libx11-6:
+    md5: 079e3dc62c0c6a62e8bd627ab70ffda7
+    version: 2:1.3.2-1ubuntu3
+  libx11-data:
+    md5: 4131c82c28065ba45ab0f8bb14a8cf91
+    version: 2:1.3.2-1ubuntu3
+  libx11-dev:
+    md5: 83409fb743e472ed3b7c02b5ca96654d
+    version: 2:1.3.2-1ubuntu3
+  libx264-85:
+    md5: 7879eaef9db461dba3a1e0c04fd09f13
+    version: 2:0.85.1448+git1a6d32-4
+  libx86-1:
+    md5: ff2d9d4928ffed56c4350fce3d00d57c
+    version: 1.1+ds1-6
+  libxapian15:
+    md5: 26f79ceecba383ffd0ec3f1cc0527418
+    version: 1.0.18-1
+  libxau-dev:
+    md5: b9c0526bebecc4531a434f9efd0b2c5e
+    version: 1:1.0.5-1
+  libxau6:
+    md5: bbac5f070ebf6e506edbd47ac555734e
+    version: 1:1.0.5-1
+  libxaw7:
+    md5: 4f50e30a6d2cd8c0a21bd9c50289f4e2
+    version: 2:1.0.7-1
+  libxaw7-dev:
+    md5: 2f23a26c70dbe40aa84576f468506dc4
+    version: 2:1.0.7-1
+  libxcb-atom1:
+    md5: 598d25d8be396b68743475913fa6cd6e
+    version: 0.3.6-1build1
+  libxcb-aux0:
+    md5: a35d570e9231a01ff6de0ec872638787
+    version: 0.3.6-1build1
+  libxcb-event1:
+    md5: ae26a41b206005c6dc89f813104c83cc
+    version: 0.3.6-1build1
+  libxcb-render-util0:
+    md5: 1fed37dde027e88689abb7dcb608327f
+    version: 0.3.6-1build1
+  libxcb-render-util0-dev:
+    md5: d9d2703b5df1f7857bb0c76dd3918c5c
+    version: 0.3.6-1build1
+  libxcb-render0:
+    md5: 9924981897ead9a0fb119e215c3137e3
+    version: 1.5-2
+  libxcb-render0-dev:
+    md5: a1c1ba53e3c24b0d6e35ba3d452cf454
+    version: 1.5-2
+  libxcb1:
+    md5: e0025f3c724df63cc835d7ba2bf408aa
+    version: 1.5-2
+  libxcb1-dev:
+    md5: 32cca12007043844db11cde22b8f5eb1
+    version: 1.5-2
+  libxcomposite-dev:
+    md5: 8f8fbe0e91f989f538c62b02f9eb8bff
+    version: 1:0.4.1-1
+  libxcomposite1:
+    md5: 0c277aa0d25f34a65017524f071e92d5
+    version: 1:0.4.1-1
+  libxcursor-dev:
+    md5: 64a200eca5559140a437e2895318dd1a
+    version: 1:1.1.10-1
+  libxcursor1:
+    md5: d967e3c04677ec7b2d4027cf59b9db25
+    version: 1:1.1.10-1
+  libxdamage-dev:
+    md5: 965d4c58ccc4fbc8d846a46aaa8d9b2b
+    version: 1:1.1.2-1
+  libxdamage1:
+    md5: 6101d9bc8ba662d7bef0d223c89ffade
+    version: 1:1.1.2-1
+  libxdmcp-dev:
+    md5: 2144c74e2037f5666deb29d74dba1d92
+    version: 1:1.0.3-1
+  libxdmcp6:
+    md5: 4ea5f73f810aaa6e18e3777bea9aa03b
+    version: 1:1.0.3-1
+  libxerces2-java:
+    md5: 3b6768518d0f8f14c191c64050908d17
+    version: 2.9.1-4ubuntu1
+  libxext-dev:
+    md5: d67f3d3168e5cce841fab8159db719ca
+    version: 2:1.1.1-2
+  libxext6:
+    md5: 495ddc386ffe06fa19f51cc4af7467da
+    version: 2:1.1.1-2
+  libxfixes-dev:
+    md5: 2f4d6dc876f1cafdc733b8edfffd02f1
+    version: 1:4.0.4-1
+  libxfixes3:
+    md5: b2e0f371be9be4aaa4f780bbf49f4d7d
+    version: 1:4.0.4-1
+  libxfont1:
+    md5: ffc310afa1bd6b84afe13afad9c8db8e
+    version: 1:1.4.1-1ubuntu0.1
+  libxft-dev:
+    md5: 9f2e5b2cefc2bf302b41b1d49216e4dd
+    version: 2.1.14-1ubuntu1
+  libxft2:
+    md5: ee542cd7e699ba3ad55f65905aadfcfd
+    version: 2.1.14-1ubuntu1
+  libxi-dev:
+    md5: 5490dfa1b0ab420b8dd60a428960cd66
+    version: 2:1.3-3
+  libxi6:
+    md5: 67b30793865af0e6ee14dcf649297c24
+    version: 2:1.3-3
+  libxinerama-dev:
+    md5: b25c75a270b55feaf8b5e74b311970c0
+    version: 2:1.1-2
+  libxinerama1:
+    md5: 55f276c742f2933bea3e638b57ee790d
+    version: 2:1.1-2
+  libxkbfile1:
+    md5: 508b09795ec343c62b8501af2223a305
+    version: 1:1.0.6-1
+  libxklavier16:
+    md5: 1d35619c0b8d751464bb5245767c6426
+    version: 5.0-0ubuntu1
+  libxml-libxml-perl:
+    md5: b17ea3b5af50edfedf95539cc13c7fff
+    version: 1.70.ds-1
+  libxml-namespacesupport-perl:
+    md5: 101decc7508b5febeaff9b5baaa5b0a8
+    version: 1.09-3
+  libxml-parser-perl:
+    md5: c784c08805144819d4ad1a969cb6077d
+    version: 2.36-1.1build3
+  libxml-sax-perl:
+    md5: 9fd96114c95ed643635ee55576ec8268
+    version: 0.96+dfsg-2
+  libxml-twig-perl:
+    md5: 3df921df814f0ff9ace369c7b8df0e8b
+    version: 1:3.32-3ubuntu1
+  libxml-xpath-perl:
+    md5: 7d194787381f448a096cdd3fd053562b
+    version: 1.13-7
+  libxml2:
+    md5: 709eb21ea3656f8f183f9c60765cce7f
+    version: 2.7.6.dfsg-1ubuntu1.6
+  libxml2-dev:
+    md5: 894e2672ad4ca9823b2ade67bb0b6f93
+    version: 2.7.6.dfsg-1ubuntu1.6
+  libxml2-udeb:
+    md5: 93a5408438b51e4107db0f59de683290
+    version: 2.7.6.dfsg-1ubuntu1
+  libxml2-utils:
+    md5: cad49281511a3421350db0ef873eb5d6
+    version: 2.7.6.dfsg-1ubuntu1.6
+  libxmu-dev:
+    md5: a9f0ba3e7bcba3f4f20f7b9eb9c6095d
+    version: 2:1.0.5-1
+  libxmu-headers:
+    md5: 8c0fc2b687d34be3723f62192cc23b13
+    version: 2:1.0.5-1
+  libxmu6:
+    md5: 92f3f6ed6082346fdabfc08ced402ec8
+    version: 2:1.0.5-1
+  libxmuu1:
+    md5: f1ce7cb227f907450fc4433d2207d8b0
+    version: 2:1.0.5-1
+  libxom-java:
+    md5: 140818a5b2a1f55391473d13da6d7c01
+    version: 1.2.1-1
+  libxp-dev:
+    md5: 2bf35ed1319f29da2d3d17f30e9767db
+    version: 1:1.0.0.xsf1-2build1
+  libxp6:
+    md5: 2eaeb4f9aab2fdac818671143604daa6
+    version: 1:1.0.0.xsf1-2build1
+  libxpm-dev:
+    md5: fa830d015ed560ffd7f5fcc674e72335
+    version: 1:3.5.8-1
+  libxpm4:
+    md5: 8888e5bdc26824fa044b79bbb17e77dd
+    version: 1:3.5.8-1
+  libxpp3-java:
+    md5: d53cc1c69d2a5ac2371275e861dd4596
+    version: 1.1.4c-1
+  libxrandr-dev:
+    md5: 67bd2116a426b0813e56996623bfac8c
+    version: 2:1.3.0-3
+  libxrandr2:
+    md5: 8714a2ab86b65e8ca923b2627e09836b
+    version: 2:1.3.0-3
+  libxrender-dev:
+    md5: 00366f4f4d39f81de4c922c2fef83d66
+    version: 1:0.9.5-1
+  libxrender1:
+    md5: 2ebac0a26e0033d153a24d080a51af11
+    version: 1:0.9.5-1
+  libxres1:
+    md5: 152f82c5b091eac7d749d5fdc1de39b3
+    version: 2:1.0.4-1
+  libxslt1-dev:
+    md5: caf2e97e99cd5d351c7648dfeef181df
+    version: 1.1.26-1ubuntu1
+  libxslt1.1:
+    md5: 39c2a28e74f1c75167c957beb698c049
+    version: 1.1.26-1ubuntu1
+  libxss-dev:
+    md5: 2106698e25228d5c19f52557d75ed460
+    version: 1:1.2.0-2
+  libxss1:
+    md5: f0b67a77566cc6677d1ce4f016243fb7
+    version: 1:1.2.0-2
+  libxstream-java:
+    md5: bc8674010a212b0fa8493782b2d759a8
+    version: 1.3.1-6
+  libxt-dev:
+    md5: 23bf77f43e67870db1325b668902ece5
+    version: 1:1.0.7-1
+  libxt6:
+    md5: 0afedf6b8f434d09baff74f9b9df9cae
+    version: 1:1.0.7-1
+  libxtst6:
+    md5: 44dc5e0899f34c3a098dcd4999c75e94
+    version: 2:1.1.0-2
+  libxv1:
+    md5: a6e6228258f547618da0631b15f42bf8
+    version: 2:1.0.5-1
+  libxvmc1:
+    md5: 1889358388ba996004b9025706c80d4d
+    version: 2:1.0.5-1ubuntu1
+  libxxf86dga1:
+    md5: 1a3c92ad5a80a3f4f06d79e06b164537
+    version: 2:1.1.1-2
+  libxxf86misc1:
+    md5: a9cff9c957f941a266004fdca11808e9
+    version: 1:1.0.2-1
+  libxxf86vm-dev:
+    md5: 4464c1d8e7f8b72bc24a49ce8707cdbc
+    version: 1:1.1.0-2
+  libxxf86vm1:
+    md5: 960fddea85897dae1ad2d1b69c9a3f12
+    version: 1:1.1.0-2
+  libyaml-0-2:
+    md5: 5086d4004059bf227d354210d3dbbbe3
+    version: 0.1.3-1
+  libyaml-dev:
+    md5: 6a4f6932897c851b9a9579870bc9b51d
+    version: 0.1.3-1
+  libzzip-0-13:
+    md5: eb26335c88c84c76d18080a04fb813b2
+    version: 0.13.56-1
+  libzzip-dev:
+    md5: 0c827f9b85d5c331373728216b2ca97b
+    version: 0.13.56-1
+  light-themes:
+    md5: a3ece66371f44730afe3d1b72c238e2b
+    version: 0.1.6.6
+  lilo-installer:
+    md5: 872cd068eb1595901782f65780a9004e
+    version: 1.30ubuntu1
+  linux-firmware:
+    md5: 13cecb6b429867b4bfa188fd8e39b539
+    version: 1.34.14
+  linux-headers-2.6.31-10-rt-pr2:
+    md5: 565f45d42999307e7b0003882e0fe843
+    version: 2.6.31-10.153
+  linux-headers-2.6.32-25:
+    md5: cdc2d76c152266d86e0f25323c030936
+    version: 2.6.32-25.45
+  linux-headers-2.6.32-25-generic:
+    md5: 2db7a3f30f6f6c0e5b54851652ce3444
+    version: 2.6.32-25.45
+  linux-headers-2.6.32-41:
+    md5: 2fc8c992f250cecd4578f18cf3e9fbc7
+    version: 2.6.32-41.94
+  linux-headers-2.6.32-41-generic:
+    md5: 80b31dbab969382bb1846763603c13ba
+    version: 2.6.32-41.94
+  linux-headers-2.6.32-42:
+    md5: c686bd3f0bc726e905003cb9ad68327a
+    version: 2.6.32-42.96
+  linux-headers-2.6.32-42-generic:
+    md5: ea5d2049e9f6e98eaa01cb989a899c57
+    version: 2.6.32-42.96
+  linux-headers-2.6.32-43:
+    md5: 55242324f4eace0a57895efc181f1f2e
+    version: 2.6.32-43.97
+  linux-headers-2.6.32-43-generic:
+    md5: ab4d95c2fdd5d762ab1e0755ee717ac0
+    version: 2.6.32-43.97
+  linux-headers-3.0.6-pr2:
+    md5: 656508f43f1141b37115658cd60b7222
+    version: '6'
+  linux-headers-3.0.6-rt17-pr2:
+    md5: e567b57b1e160318687d05ba15d617ab
+    version: '8'
+  linux-headers-generic:
+    md5: 2ae17b9538f2b9e46b007dd4291830dc
+    version: 2.6.32.43.50
+  linux-image-2.6.31-10-rt-pr2:
+    md5: c2c84b4bbf0b99dc16a528166dba7684
+    version: 2.6.31-10.153
+  linux-image-3.0.6-pr2:
+    md5: 9260eb75aa6ff52aeb7dc34f85520cd7
+    version: '6'
+  linux-image-3.0.6-rt17-pr2:
+    md5: 4aede63843374b038e3a45039714ea82
+    version: '8'
+  linux-libc-dev:
+    md5: 3651129c8e3e3c90e5a59487c251b688
+    version: 2.6.32-43.97
+  linux-rt-headers-2.6.31-10-pr2:
+    md5: 51c027ac83be0d33ea7baf055590ab51
+    version: 2.6.31-10.153
+  linux-sound-base:
+    md5: 6210c996341622654b69fd7a5319478b
+    version: 1.0.22.1+dfsg-0ubuntu3
+  linux-source-3.0.6-pr2:
+    md5: 5e453fc428a15756cb1769bcf43280b4
+    version: '6'
+  linux-source-3.0.6-rt17-pr2:
+    md5: c8652b19950a9416b12283a86c3ed293
+    version: '8'
+  live-installer:
+    md5: b87ed17d817f374c553b89ce7aed88e4
+    version: 13+ubuntu1
+  lm-sensors:
+    md5: 6454eb330e702d9b5017aae777226964
+    version: 1:3.1.2-2
+  load-cdrom:
+    md5: 7aaf49e3a5ce64bce986cb24fb8fad7d
+    version: '1.19'
+  load-iso:
+    md5: 4525c887fca55aa900102d276583c216
+    version: 1.28ubuntu2
+  load-media:
+    md5: a8e196fe19dfc38bc352f1869d2195d4
+    version: '1.20'
+  localechooser:
+    md5: 4404d177bc9a34cf9511c0119c7517d6
+    version: 2.12ubuntu3
+  locales:
+    md5: c1f260d0cbe516ee31bd621f8e1e79cf
+    version: 2.11+git20100304-3
+  lockfile-progs:
+    md5: 5c0c52436ef2bfecd1bd52ddc1b67026
+    version: 0.1.13ubuntu1
+  login:
+    md5: 3c8b86ff34b431a45bfa0bf24478142f
+    version: 1:4.1.4.2-1ubuntu2.2
+  logrotate:
+    md5: 1de9b4c396e03b9a44b5903dbc6099a7
+    version: 3.7.8-4ubuntu2.2
+  lowmem:
+    md5: b1cac7ff161efca215e86895a3884e8a
+    version: 1.31ubuntu2
+  lowmemcheck:
+    md5: 2d4b2071dec739043a4c0fbca88e593c
+    version: 1.31ubuntu2
+  lsb-base:
+    md5: d1974b02056ff7192866167f0299dca2
+    version: 4.0-0ubuntu8
+  lsb-release:
+    md5: c3de5d1eb9c6bd7f50b64ed9232dd79a
+    version: 4.0-0ubuntu8
+  lsb-release-udeb:
+    md5: 9897e3e89f97551a954176b2165e370f
+    version: 5.0.0ubuntu20
+  lshw:
+    md5: 3a93671eb0c36fc318fcfce7485886bf
+    version: 02.14-1build1
+  lsof:
+    md5: 2e104bb7b1e42214cd45985bd45837ee
+    version: 4.81.dfsg.1-1build1
+  ltrace:
+    md5: 64ae065ff17f8ca6bbc7141d776ea7cf
+    version: 0.5.3-2ubuntu3
+  ltsp-client-builder:
+    md5: 7e647b6aeca87ab9f6fc252af07613c7
+    version: 5.2.1-0ubuntu9
+  luatex:
+    md5: da1e461deee30ccde07791761e633d03
+    version: 0.50.0-1
+  lvm2:
+    md5: d67ebe9d1c746c81f27a6e3ac1793de9
+    version: 2.02.54-1ubuntu4.1
+  lvm2-udeb:
+    md5: 46d39d63c303dd62e273db6424f68662
+    version: 2.02.54-1ubuntu4
+  lzma:
+    md5: 5f7815afdcf0d1dd3275112f4f42bb06
+    version: 4.43-14ubuntu2
+  m4:
+    md5: 3942a2b118267d17f8deae6f89f56842
+    version: 1.4.13-3
+  main-menu:
+    md5: 8957015e6c61c027538bbe82771cdaaa
+    version: 1.30ubuntu1
+  make:
+    md5: e0dea762c5ab7b17c347f71c505c2ca5
+    version: 3.81-7ubuntu1
+  makedev:
+    md5: 91da7657b2bfa87d595570ff018f090f
+    version: 2.3.1-89ubuntu1
+  man-db:
+    md5: bf0fc33c4a89c02497ea223367382288
+    version: 2.5.7-2ubuntu1
+  manpages:
+    md5: 3f4437c8fe97ca01cebb6a1fbb9dfbe5
+    version: 3.23-1
+  mawk:
+    md5: 8f4caa9b63cc35e04d23d5d7b4c06026
+    version: 1.3.3-15ubuntu2
+  md-modules-2.6.32-21-generic-di:
+    md5: 1ccacf7542b1cd4f42f838459c86a1e3
+    version: 2.6.32-21.32
+  mdadm-udeb:
+    md5: 21052dc59c168a09a86d4d9cea1ff8a8
+    version: 2.6.7.1-1ubuntu15
+  media-retriever:
+    md5: f19af9c7a470bea0c83063377a1e1e8a
+    version: '1.20'
+  memtest86+:
+    md5: 892fc85797e286fb29e224ffa1f78be6
+    version: 4.00-2ubuntu3
+  mercurial:
+    md5: b91ccb0887c07a9a781348bddb179131
+    version: 1.4.3-1
+  mercurial-common:
+    md5: 3df0bcd2ea881a1bad6f0824538a56d2
+    version: 1.4.3-1
+  mesa-common-dev:
+    md5: a98bbef088a75670911769a54337c51f
+    version: 7.7.1-1ubuntu3.1
+  message-modules-2.6.32-21-generic-di:
+    md5: 48073de44c8d313254d3de48f0c33568
+    version: 2.6.32-21.32
+  metacity:
+    md5: 377cc0db1ba192ab0970478b1b391be2
+    version: 1:2.30.1-0ubuntu1.1
+  metacity-common:
+    md5: f2abc89d3492bb490f8d1a680af2e3cf
+    version: 1:2.30.1-0ubuntu1.1
+  migration-assistant:
+    md5: ad14f012cd2905529cc5081634cee77f
+    version: 0.6.5
+  mii-diag-udeb:
+    md5: a821d1bb791946d7ca7cba4b1c509c94
+    version: 2.11-3
+  mime-support:
+    md5: da80c5b45bffef9d6071dfc19e6592df
+    version: 3.48-1ubuntu1
+  mkreiserfs-udeb:
+    md5: 52ddaa9829c62c97a676c46621330982
+    version: 1:3.6.21-1build1
+  mktemp:
+    md5: b566065e47528e5f32dafd54b34af3c9
+    version: 7.4-2ubuntu3
+  mlocate:
+    md5: 6fc677c1b1495b942692c537af3649b1
+    version: 0.22.2-1ubuntu1
+  module-init-tools:
+    md5: 9a50e2d18e982a48688449862e3fccd2
+    version: 3.11.1-2ubuntu1
+  module-init-tools-udeb:
+    md5: e5a210801ad4198238421587cce44bf5
+    version: 3.11.1-2ubuntu1
+  mount:
+    md5: f897aa8640b190d196d116f31d64ff7b
+    version: 2.17.2-0ubuntu1.10.04.2
+  mountall:
+    md5: a761751b72f0bb99d2c9850961681e8c
+    version: 2.15.3
+  mountmedia:
+    md5: c6c6a524dc8924407425017cc8ec2769
+    version: 0.19ubuntu2
+  mouse-modules-2.6.32-21-generic-di:
+    md5: 3554d7fa4cfa59dd983aca6ba9079bd0
+    version: 2.6.32-21.32
+  mousetweaks:
+    md5: 50847ce5fa9a015179054d5cfad37af9
+    version: 2.30.0-0ubuntu1
+  mpi-default-dev:
+    md5: ca137fb8ed2c718df0a587668d56f073
+    version: '0.6'
+  mtools:
+    md5: cd2bf16bee0a213b08c89d3abd627ab0
+    version: 4.0.10-1ubuntu1
+  mtr-tiny:
+    md5: cbe2b9d4e6c7584bae301f12604a5b1d
+    version: 0.75-2build1
+  multipath-udeb:
+    md5: 8ecd05569e6735ebb0063d4d6ebe200a
+    version: 0.4.8-14ubuntu4
+  myspell-en-au:
+    md5: 76a4060deb478c1f45b715a3680529a1
+    version: 2.1-5
+  myspell-en-gb:
+    md5: 209018b83d08e8bd8cfef6c8d736a2a7
+    version: 1:3.2.0-3ubuntu3.1
+  myspell-en-za:
+    md5: 42490041976f88078a616a041e7507c1
+    version: 1:3.2.0-3ubuntu3.1
+  mysql-common:
+    md5: 1a7ed198ca76dd436b11492f43c0657f
+    version: 5.1.63-0ubuntu0.10.04.1
+  nano:
+    md5: 2bacc5ec4f49743362b321aeff83c385
+    version: 2.2.2-1
+  nano-udeb:
+    md5: 7bb9b2db5445759daf90324b7c5da8c0
+    version: 2.2.2-1
+  nautilus:
+    md5: 7dd57f836718b67d47506fd3556716e0
+    version: 1:2.30.1-0ubuntu1.2
+  nautilus-data:
+    md5: ef33f35cb277d6815f9373b163f25592
+    version: 1:2.30.1-0ubuntu1.2
+  ncurses-base:
+    md5: 671e56feaea133e03af5fcc2a927e9bf
+    version: 5.7+20090803-2ubuntu3
+  ncurses-bin:
+    md5: f7742fedc4726dad54c072c1805ba1ae
+    version: 5.7+20090803-2ubuntu3
+  net-retriever:
+    md5: ccb21bc94b4a32988c5ea160fa236c33
+    version: 1.24ubuntu2
+  net-tools:
+    md5: 54ad64799a660cec42ca3de43977ff80
+    version: 1.60-23ubuntu2
+  netbase:
+    md5: b6cedc5f3b886356632b5642f6fde66a
+    version: 4.35ubuntu3
+  netcat:
+    md5: fb0fcfddcbc9082cebd99e2191ee4e05
+    version: 1.10-38
+  netcat-openbsd:
+    md5: cb760242d9394e05d94d27f2e3884767
+    version: 1.89-3ubuntu2
+  netcat-traditional:
+    md5: 69f387ffceb690ec21293473ba8d2fd4
+    version: 1.10-38
+  netcfg:
+    md5: 6a83579f6d94286f996be81cad4a5c55
+    version: 1.51ubuntu2
+  netperf:
+    md5: 70171e18df5d607928de765994a77b6f
+    version: 2.4.4-5ubuntu2
+  network-console:
+    md5: 4a300ad27b84be5e41014b87ca5490c5
+    version: 1.24ubuntu1
+  network-preseed:
+    md5: 2dc02232581c9883456761842d7f6054
+    version: '1.43'
+  nfs-common:
+    md5: 42f166f3b7e7f7833c2cb3250710b0af
+    version: 1:1.2.0-4ubuntu4.2
+  nfs-kernel-server:
+    md5: 7094230a50edb23657491363d2e8c638
+    version: 1:1.2.0-4ubuntu4.2
+  nfs-modules-2.6.32-21-generic-di:
+    md5: 06557ed8f92f814c98bed819be5155bf
+    version: 2.6.32-21.32
+  nic-firmware:
+    md5: 58d22cb944b4ec2beb9900540d89f4d4
+    version: '1.34'
+  nic-modules-2.6.32-21-generic-di:
+    md5: bcfc6060c86d83f81df9ba61aa6602fa
+    version: 2.6.32-21.32
+  nic-pcmcia-modules-2.6.32-21-generic-di:
+    md5: 4f22b96db0f4481802f1393d93468d7a
+    version: 2.6.32-21.32
+  nic-shared-modules-2.6.32-21-generic-di:
+    md5: 1034a3dd278c01b57bc50dcb5cbd571c
+    version: 2.6.32-21.32
+  nic-usb-modules-2.6.32-21-generic-di:
+    md5: be1bb2e11be06a13a5cbb11743c41972
+    version: 2.6.32-21.32
+  nite-dev:
+    md5: 3983b6075b21e9bc2588c35ae6585e55
+    version: 1.3.1.5~lucid
+  nobootloader:
+    md5: e1d4caffeda043824ce0f683341f7d15
+    version: '1.25'
+  notification-daemon:
+    md5: 4204bbbe3b3eb73da08048c3785fb2e5
+    version: 0.4.0-2ubuntu2
+  ntfs-3g:
+    md5: 5f23bd4124d90987d007553df714d486
+    version: 1:2010.3.6-1ubuntu1
+  ntfs-3g-udeb:
+    md5: 50065ae1067726f21bee357f6adc5471
+    version: 1:2010.3.6-1ubuntu1
+  ntfsprogs-udeb:
+    md5: f281cc848ae72b58f40f1136c0f26c21
+    version: 2.0.0-1ubuntu4
+  ntpdate:
+    md5: 511af20ad08e832a13acf6eb478577d9
+    version: 1:4.2.4p8+dfsg-1ubuntu2.1
+  nvidia-cg-toolkit:
+    md5: 6988ddbd4d12366d8cf4f9facdef7b53
+    version: 2.1.0017.deb1+nmu1
+  nvidia-current:
+    md5: c6828fd99561c8c646217f852a3b947b
+    version: 195.36.24-0ubuntu1~10.04.3
+  nvidia-settings:
+    md5: 2b247c3583bd539c68509f071ef7b68f
+    version: 195.36.08-0ubuntu2
+  obex-data-server:
+    md5: aba24d570ccba0adb8349f2496db8239
+    version: 0.4.5-1
+  octave3.0:
+    md5: 011a0f651b9e1de6c15f3932b50319f9
+    version: 1:3.0.5-7ubuntu2
+  octave3.0-common:
+    md5: 4abb39cea6d5645cfc87e7024eb4a766
+    version: 1:3.0.5-7ubuntu2
+  octave3.0-headers:
+    md5: 516362faf4a7a28f4627f71112443a9b
+    version: 1:3.0.5-7ubuntu2
+  odbcinst:
+    md5: b19943ae34c7f3643b1116625ddeffd3
+    version: 2.2.11-21
+  odbcinst1debian1:
+    md5: fecdf8298e1770671933aecb0245150a
+    version: 2.2.11-21
+  oem-config-check:
+    md5: 91c68b90b79c9d6be4e39f58e2f28061
+    version: 2.2.23
+  oem-config-udeb:
+    md5: 53afc650d3049ae947a8c8fac9a4745f
+    version: 2.2.23
+  oldsys-preseed:
+    md5: 695bf5cb1a32b2d2814e0ded91b802c3
+    version: '3.10'
+  omniidl4:
+    md5: 89d13d167fb3aafad4a2c4a8c67f1a73
+    version: 4.1.2-1ubuntu2
+  omniorb4:
+    md5: 0226804a8fd361838eef0ba6c84b4383
+    version: 4.1.2-1ubuntu2
+  omniorb4-nameserver:
+    md5: cba1b2b6d590a0a97a8a9ee5fc4f93dc
+    version: 4.1.2-1ubuntu2
+  open-iscsi-udeb:
+    md5: 6b42152f95d7cd99bfdc2d6db62a5c15
+    version: 2.0.871-0ubuntu4
+  openbsd-inetd:
+    md5: 045a71ec71bd5ea6555739b7468f2962
+    version: 0.20080125-4ubuntu2
+  openjdk-6-jdk:
+    md5: 25e7abbbf2772ba11b89f819588beb01
+    version: 6b24-1.11.4-1ubuntu0.10.04.1
+  openjdk-6-jre:
+    md5: 1b11bf96266b4595b3c9105eae626b3c
+    version: 6b24-1.11.4-1ubuntu0.10.04.1
+  openjdk-6-jre-headless:
+    md5: 674164dee9b986c53fc398fcc9800aaa
+    version: 6b24-1.11.4-1ubuntu0.10.04.1
+  openjdk-6-jre-lib:
+    md5: fdbe172c853b4979ee7c7a1b49c6259e
+    version: 6b24-1.11.4-1ubuntu0.10.04.1
+  openmpi-common:
+    md5: e334a672411aef2a16b59bfecaa84a65
+    version: 1.4.1-2
+  openni-dev:
+    md5: a922ce7c5d0ebc17598043bf2ac46f0b
+    version: 1.1.0.41~lucid
+  openssh-client:
+    md5: 8b45355f63b51ea418a66be58023ea3a
+    version: 1:5.3p1-3ubuntu7
+  openssh-client-udeb:
+    md5: 519501cb659a3e2680ded7c04ac857dd
+    version: 1:5.3p1-3ubuntu3
+  openssh-server:
+    md5: 77736659214a95f319a1fc8c931d96db
+    version: 1:5.3p1-3ubuntu7
+  openssh-server-udeb:
+    md5: 58383f4a58dd4ba057b132c10530c8ae
+    version: 1:5.3p1-3ubuntu3
+  openssl:
+    md5: bd12913fce784cc8c87439f1885e0695
+    version: 0.9.8k-7ubuntu8.13
+  openssl-blacklist:
+    md5: e4604cd37a629d1d85730ee130de0e73
+    version: 0.5-2
+  openvpn:
+    md5: 74241410502b9612bf8d6a159e77d630
+    version: 2.1.0-1ubuntu1.1
+  openvpn-blacklist:
+    md5: 1683c81457973e0c673ec3d6c37a8564
+    version: '0.4'
+  os-prober-udeb:
+    md5: cdee036b9ff76dec4271bb2c6c21e1c2
+    version: '1.38'
+  parport-modules-2.6.32-21-generic-di:
+    md5: 05f7634ead48b3062cf27c3d8204cced
+    version: 2.6.32-21.32
+  partconf-find-partitions:
+    md5: 84c3b38783ed9e9ed34dd8fe86b66bf4
+    version: 1.32ubuntu2
+  partconf-mkfstab:
+    md5: 99d3d4f65e11e34dceeb155f6a9cddf8
+    version: 1.32ubuntu2
+  parted:
+    md5: 7896c56798c4fa8bfd6a8244debabd1e
+    version: 2.2-5ubuntu5.2
+  parted-udeb:
+    md5: 07371eca6f4a9f8dcc4a25ab5a922743
+    version: 2.2-5ubuntu5
+  partman-auto:
+    md5: a8b50accf573d5d58a6be929904b6207
+    version: 89ubuntu8
+  partman-auto-crypto:
+    md5: f42558fd52594659bdcd55385295574a
+    version: 12ubuntu1
+  partman-auto-loop:
+    md5: 3b646d2daad4755a3f8e54c4c20a766f
+    version: 0ubuntu18
+  partman-auto-lvm:
+    md5: 99b54a77bafcf3e3e5a93cd4990b65bb
+    version: 33ubuntu4
+  partman-auto-raid:
+    md5: 5518fed37d06c3a033f9670cba2563e4
+    version: 15ubuntu1
+  partman-base:
+    md5: 1717c51159ee0ca9111730ba4bce029a
+    version: 139ubuntu6
+  partman-basicfilesystems:
+    md5: 161723d89d51e7fef5ec814923afc47f
+    version: 63ubuntu4
+  partman-basicmethods:
+    md5: 73aae4c514757c903e710ff2f924d420
+    version: 43ubuntu2
+  partman-crypto:
+    md5: 3795308c10015a1e97a50ba341662157
+    version: 40ubuntu5
+  partman-crypto-dm:
+    md5: 7ba1a4aa174e3dd0e168c529488445a9
+    version: 40ubuntu5
+  partman-efi:
+    md5: 0bae9989251b4cd63684f381510dd662
+    version: 20ubuntu1
+  partman-ext3:
+    md5: 94528187178e2280fbd67f2d1a5c461e
+    version: 58ubuntu3
+  partman-iscsi:
+    md5: 547aa5840fb5bc9c4ab070beafb3d87e
+    version: '14'
+  partman-jfs:
+    md5: 586bcac6ef6b2a023b334ce1007b715a
+    version: '30'
+  partman-lvm:
+    md5: 9277b421e103136e58f41abbd3c830da
+    version: 69ubuntu1
+  partman-md:
+    md5: 09bab69587494512f79c654b98387b31
+    version: 49ubuntu1
+  partman-multipath:
+    md5: 56775cd0fa1cd09154377d8c02d74e54
+    version: '2'
+  partman-partitioning:
+    md5: 30c8241d9309c38220d16d395e04fa9a
+    version: 72ubuntu4
+  partman-reiserfs:
+    md5: 1989bdccf5d0b4a93b41e23955bca0d5
+    version: '45'
+  partman-target:
+    md5: 32cab840b237ca887930bd37333d9d9a
+    version: 64ubuntu9
+  partman-utils:
+    md5: 9f605422fd31917f8630a4d7f0f307dd
+    version: 139ubuntu6
+  partman-xfs:
+    md5: 0a3ca78ee3ad1b73f5e7ee7ed63facc8
+    version: '44'
+  passwd:
+    md5: 60cd08b5dde3b45130d6828e9c6db01d
+    version: 1:4.1.4.2-1ubuntu2.2
+  pata-modules-2.6.32-21-generic-di:
+    md5: 6d1fd8e13f75061e5d2234cc3e9277c9
+    version: 2.6.32-21.32
+  patch:
+    md5: e02768f74ebdde7e1720d971e524c6f7
+    version: 2.6-2ubuntu1
+  pciutils:
+    md5: 598648e1ad5771cbf7191e003ba8fedc
+    version: 1:3.0.0-4ubuntu17
+  pciutils-udeb:
+    md5: d75b62b0d530156f731f178e8649b637
+    version: 1:3.0.0-4ubuntu17
+  pcmcia-modules-2.6.32-21-generic-di:
+    md5: ee90b64d2e7d0574f16191bfa3d1c587
+    version: 2.6.32-21.32
+  pcmcia-storage-modules-2.6.32-21-generic-di:
+    md5: 67a1b1c0454f06fefb49959cdf9cee98
+    version: 2.6.32-21.32
+  pcmciautils-udeb:
+    md5: 5ea4bc7483b3a7724d6faf2983a070ba
+    version: 014-4ubuntu4
+  perl:
+    md5: abeff7931d0edf5e24b3bf43f77fd7a6
+    version: 5.10.1-8ubuntu2.1
+  perl-base:
+    md5: 29c2cd1726b58a660c5e774e6f0bd511
+    version: 5.10.1-8ubuntu2.1
+  perl-modules:
+    md5: 58ca0fe6ed910f8caa0f7bcecc6f7883
+    version: 5.10.1-8ubuntu2.1
+  pkg-config:
+    md5: f252df1fe5412cbc1c5c3363e43974c0
+    version: 0.22-1build2
+  pkgsel:
+    md5: 88be49ea4fed04df87fd62f360624eb3
+    version: 0.25ubuntu7
+  plip-modules-2.6.32-21-generic-di:
+    md5: 338910968e72e3fce7164253df1b4b01
+    version: 2.6.32-21.32
+  plymouth:
+    md5: fc3021851fdce4bd61bec6c392144caf
+    version: 0.8.2-2ubuntu2.2
+  pm-utils:
+    md5: fbb4adf44318ab4c9bd35ca6bb8f4394
+    version: 1.3.0-1ubuntu3
+  po-debconf:
+    md5: 90e2636e86cd79cfce39e1dd9138154e
+    version: 1.0.16
+  policykit:
+    md5: 214ae88a8c60065a7ae64f70dccbda9c
+    version: 0.9-4ubuntu2
+  policykit-1:
+    md5: 7c4b9d318e7e70127032a2f63eb37a13
+    version: 0.96-2ubuntu0.1
+  policykit-1-gnome:
+    md5: e91a6a570ad3e6ade53373d77a25dba7
+    version: 0.96-2ubuntu2
+  policykit-gnome:
+    md5: 44a6ba8a3dd32503ee78f4b7a3b9cf14
+    version: 0.9.2-2ubuntu2
+  popularity-contest:
+    md5: bf5f365f32955bd5a5fb1a1431003112
+    version: 1.48ubuntu1
+  portmap:
+    md5: 9fdabfac271ff409b6dd04b4908ccc12
+    version: 6.0.0-1ubuntu2.2
+  postfix:
+    md5: efd252c98696454bb25e90171ce53c84
+    version: 2.7.0-1ubuntu0.2
+  powermgmt-base:
+    md5: 52d2133494027e4c7b195b4552f87623
+    version: '1.31'
+  ppp:
+    md5: 132aa0a4cb018e75c00d8998c1d89cd6
+    version: 2.4.5~git20081126t100229-0ubuntu3
+  ppp-modules-2.6.32-21-generic-di:
+    md5: 7cfcf0b0f8c112dc59f85f181619eb78
+    version: 2.6.32-21.32
+  ppp-udeb:
+    md5: afa04d5dc7f6ef1826a60c1d6479bd9f
+    version: 2.4.5~git20081126t100229-0ubuntu3
+  pppconfig:
+    md5: caae93b695cce911ff701a91cfd275a5
+    version: 2.3.18ubuntu2
+  pppoeconf:
+    md5: 8c1e82fa6d089f6581d98deef831ff0f
+    version: 1.19ubuntu1
+  pr2-basestation:
+    md5: e9b2df4e77a319220a148e70446febb7
+    version: 0.5.39
+  pr2-bios-bmc-images:
+    md5: 5c7bd3579415daf5ab206e39e889dc8b
+    version: 0.5.0
+  pr2-chrony:
+    md5: 7cf759bb5213b6bc84f0563c4ac9184c
+    version: 0.5.3
+  pr2-ckill:
+    md5: 25d9101001d35bd32edc9de0516d12c3
+    version: 0.5.5
+  pr2-core:
+    md5: 6a39d78a266e94c3a73644fe30836bd8
+    version: 0.5.37
+  pr2-core-fuerte:
+    md5: c800314156087c00df156d14d9a7abf1
+    version: 0.1.4
+  pr2-ctr350:
+    md5: 6cb51dc771e9ba6c0da2fba284059688
+    version: 0.5.1
+  pr2-environment:
+    md5: fe298839659cc7061241a15d495c40e4
+    version: 0.5.59
+  pr2-grant:
+    md5: 0469a8b811bfd05f2bd0e413259030d7
+    version: 0.5.6
+  pr2-installer:
+    md5: c2af7224750f9452e34c42467559f2de
+    version: 0.5.22
+  pr2-iptables.d:
+    md5: e1e6c89f6205b63c4e8aea68146a07f2
+    version: 0.5.0
+  pr2-netboot:
+    md5: e0d6c444eaeea7a839497303e4d7d2fe
+    version: 0.5.27
+  pr2-netconsole:
+    md5: f1cee952ea14c9ff98de53223a9202c4
+    version: 0.5.13
+  pr2-network:
+    md5: c8f6ec9bf326a7261ad1d325ea01f144
+    version: 0.5.38
+  pr2-repo:
+    md5: 2057dd83983c5ae413f4d7c4162a1f23
+    version: 0.5.0
+  pr2-repo-basestation:
+    md5: 46c9fe8a845ba3219e270e805936a62f
+    version: 0.5.1
+  pr2-repo-pr2:
+    md5: 84606da8825a54e89eefd054956990a5
+    version: 0.5.1
+  pr2-sendhwlog:
+    md5: a9eafeb702b391d6e1cd38fcd8cdee7c
+    version: 0.5.2
+  pr2-stress:
+    md5: 77995dcf0aeabac1eaa72e83e072e2d9
+    version: 0.5.0
+  pr2-sysros:
+    md5: 4cb890cb63b9df6df26a0f185e81d1c3
+    version: 0.5.4
+  pr2-systemcheck:
+    md5: 6e8d12a90e071d8e1b539d50a902ed20
+    version: 0.5.0
+  pr2-udev:
+    md5: 5798fba0ddd9d744f0e8976bb411f989
+    version: 0.5.0
+  pr2-userdisk:
+    md5: 1c3df7fcd472eb37c91f80c0fbc34ff9
+    version: 0.5.15
+  pr2-users:
+    md5: fcd867c05d8a1797315e551fb9ca67b1
+    version: 0.5.0
+  pr2-webui:
+    md5: bb5a9f2682c16197983f50064705543c
+    version: 0.5.7
+  pr2-wrt610n:
+    md5: 8610eccd2fc6be2437deb969af03d1d1
+    version: 0.5.2
+  preseed-common:
+    md5: ba9478863fea43e2aeac0f8bb6f46a1f
+    version: '1.43'
+  procps:
+    md5: f451d92c74bd07dee62a104cf04ddeca
+    version: 1:3.2.8-1ubuntu4.3
+  ps-engine:
+    md5: ace603ffc8c5b5bf19cfd6f692806a7a
+    version: 5.0.1.32~lucid
+  psfontmgr:
+    md5: c97a52fb7d37e97232f70472f3cef081
+    version: 0.11.10-4ubuntu1
+  psmisc:
+    md5: 8f51844431b3a2dcf675ef1a7f255573
+    version: 22.10-1
+  python:
+    md5: 457b6f467e45287b8430833ec7d2f9ec
+    version: 2.6.5-0ubuntu1
+  python-antlr:
+    md5: dc75a83c17c0d799c76e7a228bd90aaa
+    version: 2.7.7-15ubuntu1
+  python-apt:
+    md5: ef32d53e09ce589464205c096f65c582
+    version: 0.7.94.2ubuntu6.4
+  python-aptdaemon:
+    md5: 1e3fe9cfd38801ba80b08d80de38516b
+    version: 0.11+bzr345-0ubuntu4.1
+  python-aptdaemon-gtk:
+    md5: 38d586a4b474b006f962244a1cef5dad
+    version: 0.11+bzr345-0ubuntu4.1
+  python-argparse:
+    md5: 8603f69d608296733660528d037b68eb
+    version: 1.1-1
+  python-bluez:
+    md5: c1cf7ef7dd06a95d4c4e23c755e08e49
+    version: 0.18-1
+  python-cairo:
+    md5: aa162619e2eec28d9222429591caafe4
+    version: 1.8.8-1
+  python-central:
+    md5: 2a858ed340f137616beb4383ce77a18b
+    version: 0.6.15ubuntu1
+  python-clearsilver:
+    md5: fcc0c6f9d6e7541f6c0a83951943cf7b
+    version: 0.10.4-1.4
+  python-clientform:
+    md5: 785e83d032bde5cfc4d8adefca6700e6
+    version: 0.2.10-2.1
+  python-configobj:
+    md5: d51a318f1783989e84a1c62b66947d2b
+    version: 4.7.1-1
+  python-crypto:
+    md5: 048b28f81cef386bbbe70ad798fa01bf
+    version: 2.0.1+dfsg1-4ubuntu2.2
+  python-cwiid:
+    md5: 4c53c6ba1c1250586467f1f86a967b07
+    version: 0.6.00+svn201-2
+  python-dateutil:
+    md5: 0909716488c6245fd73a34e4c995586f
+    version: 1.4.1-3
+  python-dbus:
+    md5: 7ad12d5542a7ea3204e52c89bfed8374
+    version: 0.83.0-1ubuntu3
+  python-debian:
+    md5: bf71d6ab0c6ef25bb774f8d319905ce7
+    version: 0.1.14ubuntu2
+  python-dev:
+    md5: a6e420e5fc47c5a6981fb37a5d3a5038
+    version: 2.6.5-0ubuntu1
+  python-docutils:
+    md5: b9ae86b02420fc22600ba82fabedb6e6
+    version: 0.6-3
+  python-egenix-mxdatetime:
+    md5: 41d42befa2ca471540905a3eb866223b
+    version: 3.1.3-2ubuntu1
+  python-egenix-mxtools:
+    md5: ae211d2a8e2b3377a6961bebf25c8a33
+    version: 3.1.3-2ubuntu1
+  python-empy:
+    md5: ee29bc6260476ba80aec198256db98ab
+    version: 3.3-6ubuntu1
+  python-epydoc:
+    md5: 443279eaafb4152c46d24f9730a9c8d2
+    version: 3.0.1-4
+  python-excelerator:
+    md5: bfea4cb229a93eb8ed27f83d2ddd10c9
+    version: 0.6.4.1-1
+  python-fuse:
+    md5: 943b65b7995ab82793a95eb03a615bd3
+    version: 2:0.2-2
+  python-gconf:
+    md5: 489cdaef1be43ca18988fa9ea1a1fb04
+    version: 2.28.0-1ubuntu1
+  python-gdbm:
+    md5: 10e42a54b95071fd3026f231853c6111
+    version: 2.6.5-0ubuntu2
+  python-glade2:
+    md5: 0dfeb17d23246c58df5a953d6b063af2
+    version: 2.17.0-0ubuntu2
+  python-gmenu:
+    md5: d3fa100eacf38dd06723803d14de6d66
+    version: 2.30.0-0ubuntu4
+  python-gnome2:
+    md5: 690b1713045352929603b94b3f27163f
+    version: 2.28.0-1ubuntu1
+  python-gnomecanvas:
+    md5: 22627455a66381d7b6624bc1fa2aab16
+    version: 2.28.0-1ubuntu1
+  python-gnupginterface:
+    md5: 91879bfcba5916a514782a4d8918f3bb
+    version: 0.3.2-9.1
+  python-gobject:
+    md5: f692b6f5233bd6e7c07f4639534dfb83
+    version: 2.21.1-0ubuntu3
+  python-gst0.10:
+    md5: 9ab5c414016c9adceba24b4bad4dec61
+    version: 0.10.18-1
+  python-gtk2:
+    md5: aaf5ddf1019c202f849bfaccd08ab62e
+    version: 2.17.0-0ubuntu2
+  python-imaging:
+    md5: 16e536e3c5cf7cc5d30ad0bc161e90f5
+    version: 1.1.7-1ubuntu0.1
+  python-jinja2:
+    md5: a979973d22c40cf0d936003865e732b9
+    version: 2.3.1-1
+  python-launchpad-integration:
+    md5: baa74906cc22aa7b3fa81e5affcecfc3
+    version: 0.1.35
+  python-libpcap:
+    md5: b9e25aabac1fa3e86ac1eb7054b8b96a
+    version: 0.6.2-0.1
+  python-libxml2:
+    md5: 0a083497f1645d4090b0703ee4e4087b
+    version: 2.7.6.dfsg-1ubuntu1.6
+  python-matplotlib:
+    md5: c55d8c665e40f241b6fa66a2d661eaaf
+    version: 0.99.1.2-3ubuntu1
+  python-matplotlib-data:
+    md5: 06fcc922d46ab29be56bae336711e7be
+    version: 0.99.1.2-3ubuntu1
+  python-mechanize:
+    md5: feb79d7be5b0ac4c4eec24bfc0c161d1
+    version: 0.1.11-1.1
+  python-minimal:
+    md5: 42a15f38743e705541e9f9b30042285b
+    version: 2.6.5-0ubuntu1
+  python-nose:
+    md5: 6384c283f99ce40b4f76032fa5273fa1
+    version: 0.11.1-1
+  python-numeric:
+    md5: a136e6e1e0a6c56e1f4f3ded4bd14c1d
+    version: 24.2-9ubuntu1
+  python-numpy:
+    md5: f95febc7641a42002e8b2fccb2730154
+    version: 1:1.3.0-3build1
+  python-opengl:
+    md5: bdb3b20290a6691567d325b46f6cbee8
+    version: 3.0.0-0ubuntu1
+  python-paramiko:
+    md5: 1e4092cdec8cf03e088a782a54292775
+    version: 1.7.6-2
+  python-pexpect:
+    md5: e22d749336b5816b838f6b43002a88d9
+    version: 2.3-1build1
+  python-pkg-resources:
+    md5: be03de0cd457d7397e914622fa216857
+    version: 0.6.10-4ubuntu1
+  python-psycopg2:
+    md5: dec7a2ab55db2d7fa0091e164e7bc9a1
+    version: 2.0.13-2ubuntu2
+  python-pycurl:
+    md5: 4ed23b69edd9026acf35e18f926184db
+    version: 7.19.0-3
+  python-pydot:
+    md5: 66b49fd38883103fe1cacf2481c9f26d
+    version: 1.0.2-1
+  python-pygame:
+    md5: e396306e162ff66ac0bee88770af4310
+    version: 1.9.1release-0ubuntu1
+  python-pygments:
+    md5: 09ce578ad910eed634988eda2394fde6
+    version: 1.2.2+dfsg-1ubuntu1
+  python-pygraphviz:
+    md5: 03fb7d596d8a8b8229c396866d6ad85c
+    version: 0.99-2ubuntu1
+  python-pyorbit:
+    md5: 5d4da3d146426ece727def08d93531b0
+    version: 2.24.0-5ubuntu3
+  python-pyparsing:
+    md5: 742ac6b98f7bcd58a44a69a55c27b57b
+    version: 1.5.2-1ubuntu1
+  python-pyproj:
+    md5: 859958acce26a0f79da3947a40be1f89
+    version: 1.8.6-0ubuntu1
+  python-pyproj-data:
+    md5: bf08e4b79d3e9809ded76b8f8a47c17b
+    version: 1.8.6-0ubuntu1
+  python-pysnmp-common:
+    md5: 681566ac9f0c6a76425b6e1bc0ea0957
+    version: 4.1.9a-1ubuntu0.10.04.2
+  python-pysnmp2:
+    md5: 946d576d0da9cfac3c736b3ca47c53c0
+    version: 2.0.9-2
+  python-qt4:
+    md5: 085a6af45acec5f8075dc9f5c18a1c91
+    version: 4.7.2-0ubuntu1.1
+  python-qt4-dev:
+    md5: 1214ffaa9e1509259ecef37771e1c97f
+    version: 4.7.2-0ubuntu1.1
+  python-qt4-gl:
+    md5: b83e0c61246a55a8ae7164b28be65cb4
+    version: 4.7.2-0ubuntu1.1
+  python-qwt5-qt4:
+    md5: e5a01ed93083bb35c6e12ee87d448c06
+    version: 5.2.1~cvs20091107+dfsg-2build1
+  python-roman:
+    md5: 40895da397e432ed37563b57fad62c56
+    version: 0.6-3
+  python-rospkg:
+    md5: 968074d59c9b63c7b64f9a973ce21aa2
+    version: 1.0.6-1
+  python-scapy:
+    md5: a0d774870b1161e5d88e6b9845e04a91
+    version: 2.0.1-1
+  python-scipy:
+    md5: b279be1c0483092f9b216121f3dee866
+    version: 0.7.0-2ubuntu0.1
+  python-serial:
+    md5: 73078052ac257a41ce4b663330d509a6
+    version: 2.3-1
+  python-setuptools:
+    md5: 81a08764f430e189d51a26f66c0e4280
+    version: 0.6.10-4ubuntu1
+  python-sexy:
+    md5: 41f5d17b666c14abc1cd424e8ce378a8
+    version: 0.1.9-1ubuntu3
+  python-sip:
+    md5: d6daed0c0d1bf75caf7cb58582116a15
+    version: 4.10.1-0ubuntu1
+  python-sip-dev:
+    md5: 49c5896c61f32ab1e0346963c6a4f5df
+    version: 4.10.1-0ubuntu1
+  python-sip4:
+    md5: bdbf850226c4b2d6da5f1b465f63dd16
+    version: 4.10.1-0ubuntu1
+  python-sip4-dev:
+    md5: f510d0c73fecaa58e33624a7d81e1373
+    version: 4.10.1-0ubuntu1
+  python-software-properties:
+    md5: 662c17cb964aa8ecf5e43f8b7d1b6e87
+    version: 0.75.10.3
+  python-sphinx:
+    md5: 1e11abf39d42b2afa7e6c91dd0d5d2f5
+    version: 0.6.4-1
+  python-support:
+    md5: 7e05747ff7932329f134fb5b2c3b93bd
+    version: 1.0.4ubuntu1
+  python-svn:
+    md5: 38d2ccc964a2343f6bf7164b676d9ded
+    version: 1.7.2-2ubuntu1
+  python-tk:
+    md5: 2b86af5536f5d41148c354954587467e
+    version: 2.6.5-0ubuntu2
+  python-twisted-bin:
+    md5: c2cb5483e5e14fa151c8bf25705cf959
+    version: 10.0.0-2ubuntu2
+  python-twisted-core:
+    md5: 2e9548686e79a4bc3d1b5567e4ee8413
+    version: 10.0.0-2ubuntu2
+  python-tz:
+    md5: ffffd769c919ce652620c36c90db58e9
+    version: 2010b-1ubuntu0.10.04.1
+  python-usb:
+    md5: e97f03474e49cbec3fd1b6b65212c636
+    version: 0.4.2-2
+  python-vte:
+    md5: a22e380ba799ea4a964cbf462dc242a7
+    version: 1:0.23.5-0ubuntu1.1
+  python-vtk:
+    md5: 4d51354e7a5fb24a49cc8e250d632540
+    version: 5.2.1-14ubuntu4
+  python-webkit:
+    md5: 79d8f0ce85dd55a98802fae5841f238f
+    version: 1.1.7-1
+  python-wxgtk2.8:
+    md5: d2ec7e5ffc72dea72cdebe7dd1c68f32
+    version: 2.8.10.1-0ubuntu1.2
+  python-wxversion:
+    md5: 87bcaa2209691dd53e52441e6df08b46
+    version: 2.8.10.1-0ubuntu1.2
+  python-xapian:
+    md5: d8059a9f3469a633c1b5cd587ea79bf4
+    version: 1.0.17-1ubuntu1
+  python-xdg:
+    md5: 29e37d3b832713526167de2720635f28
+    version: 0.18-1ubuntu2
+  python-xkit:
+    md5: 99fc03d43e471752731434b3f556afd9
+    version: 0.4.2.2
+  python-yaml:
+    md5: d3091944e70f78a5ccb9397457093b0c
+    version: 3.09-2build1
+  python-zope.interface:
+    md5: 14dc401058a71b0ca67c484299861f8e
+    version: 3.5.3-1ubuntu2
+  python2.6:
+    md5: 1bc5efccfe02bb0a5dac43a47faee9eb
+    version: 2.6.5-1ubuntu6
+  python2.6-dev:
+    md5: 8afb7f5fe4c1e5d5e7f0595a783b650f
+    version: 2.6.5-1ubuntu6
+  python2.6-minimal:
+    md5: ac06b656058c9a53b9fe7cad06951838
+    version: 2.6.5-1ubuntu6
+  qt4-dev-tools:
+    md5: e326f56ae936e77489a1056bc9751d1d
+    version: 4:4.6.2-0ubuntu5.4
+  qt4-qmake:
+    md5: ac155b12dfae8fd88246bdb374575d88
+    version: 4:4.6.2-0ubuntu5.4
+  radeontool:
+    md5: ebf8e5a59e3417a850aaa210b994aceb
+    version: 1.6.1-0ubuntu1
+  rarian-compat:
+    md5: 059dd15ee6e288afddeefb176fd4a7dc
+    version: 0.8.1-4ubuntu1
+  rdate-udeb:
+    md5: 40be058187deea0ec28b3122fa2f48a1
+    version: 1:1.2-4build1
+  rdoc1.8:
+    md5: 02ec14092744f9e5a88576cd28ed3b3d
+    version: 1.8.7.249-2ubuntu0.1
+  readline-common:
+    md5: a2b5aa09891f173ca3e36ed9c8270dd8
+    version: 6.1-1
+  realpath:
+    md5: 060e30287e2829b2e8af2423f18a9831
+    version: 1.15build1
+  redboot-tools-udeb:
+    md5: 6bbeb599dd2b44702bca76e4176955a3
+    version: 0.7build1
+  reiserfsprogs:
+    md5: e0bdec71b6ceaa37cf0616210422968f
+    version: 1:3.6.21-1build1
+  reiserfsprogs-udeb:
+    md5: a74d224bbfda13353b895f5bce020fb4
+    version: 1:3.6.21-1build1
+  reprepro:
+    md5: a343c6202acbb2c015308d414eb9c937
+    version: 4.0.2-1
+  rescue-check:
+    md5: 1f466e3083b4476c97d5a2b654a08168
+    version: '1.21'
+  rescue-mode:
+    md5: aaf557eb06d6a12da6afc4891efb02f6
+    version: '1.21'
+  rootskel:
+    md5: 8061849535d0b8dfccd545718fff7e39
+    version: 1.81ubuntu3
+  rootskel-bootfloppy:
+    md5: 76f7f8dff9118102292bfaea2c4c6460
+    version: 1.81ubuntu3
+  rootskel-gtk:
+    md5: d9c1d3c2b2183dc389d6da178464131a
+    version: 1.17ubuntu1
+  ros-fuerte-actionlib:
+    md5: e5c11b5e255d743c10bcee011bfae63c
+    version: 1.8.7-0lucid-20120908-1917-+0000
+  ros-fuerte-arm-navigation:
+    md5: 4f0504e10121b4e8e89a80efc52940e5
+    version: 1.1.11-s1348600422~lucid
+  ros-fuerte-arm-navigation-experimental:
+    md5: 5f52bf10419a7d1ff3ff83c2ec0cd3f0
+    version: 0.5.7-s1348608317~lucid
+  ros-fuerte-audio-common:
+    md5: 8d4bfb0e7212aa2a8cef8c41627dfdcc
+    version: 0.1.9-s1348595024~lucid
+  ros-fuerte-bfl:
+    md5: 51614b69e998900b7314f8dd49b3f150
+    version: 0.1.0-s1347124307~lucid
+  ros-fuerte-bond-core:
+    md5: cc92f9b86550f4ce34a8ee38b1741570
+    version: 1.6.3-s1347131241~lucid
+  ros-fuerte-bullet:
+    md5: 7ba31e4f36aaf70dfef026d427d92f66
+    version: 2.79-s1347124361~lucid
+  ros-fuerte-calibration:
+    md5: 95c65f254b2e5ecc925c3666b888ce7b
+    version: 0.9.5-s1348613931~lucid
+  ros-fuerte-camera-drivers:
+    md5: ae04800f8d32766c003eb7b403150d24
+    version: 1.8.0-s1347148006~lucid
+  ros-fuerte-camera1394:
+    md5: 06efd6a2d38e96d014678ee1fe425ed6
+    version: 1.8.0-s1347143577~lucid
+  ros-fuerte-catkin:
+    md5: 28bd6d596e833a679f482a1509d684d8
+    version: 0.4.5-0lucid-20120908-1619-+0000
+  ros-fuerte-common:
+    md5: efd4d6307d898c6fd3e144e3a57fbbb8
+    version: 1.8.0-s1347136668~lucid
+  ros-fuerte-common-msgs:
+    md5: d4bc7c81c2e2fcb8332441392c583095
+    version: 1.8.13-0lucid-20120908-1754-+0000
+  ros-fuerte-common-rosdeps:
+    md5: 3d9e970deec2ff2d5c507c49d99e2bf1
+    version: 1.2.0-s1347123179~lucid
+  ros-fuerte-common-tutorials:
+    md5: 1c5513549cb8302a17edac1c5faad41c
+    version: 0.2.3-s1348603788~lucid
+  ros-fuerte-control:
+    md5: 43c02edb7ca0a3d07825229e4975bee4
+    version: 1.0.1-s1347131139~lucid
+  ros-fuerte-diagnostics:
+    md5: adb0a84560735ea85a4627c415fd3cf1
+    version: 1.6.4-s1347136001~lucid
+  ros-fuerte-diagnostics-monitors:
+    md5: 2752fdc17256bc15654c53b91859a17f
+    version: 1.4.3-s1347136026~lucid
+  ros-fuerte-driver-common:
+    md5: 27f8beebeadea344c4f181ca21be74da
+    version: 1.4.0-s1347139693~lucid
+  ros-fuerte-dynamic-reconfigure:
+    md5: 9e2e540408a0e49b0c155f40c9ef13de
+    version: 1.4.2-s1347131143~lucid
+  ros-fuerte-executive-smach:
+    md5: f85147b6ed795acf24af8faad7d85751
+    version: 1.2.0-s1347136590~lucid
+  ros-fuerte-executive-smach-visualization:
+    md5: d21ea1f55ac499f723e84af052e5924b
+    version: 1.0.2-s1347140566~lucid
+  ros-fuerte-filters:
+    md5: c1dc28f998db05643bc2dd24c738034c
+    version: 1.6.0-s1347135905~lucid
+  ros-fuerte-flann:
+    md5: 8b886ce25c13cc57448d71a6fdf0f56f
+    version: 1.7.1-8lucid-20120813-1209-+0000
+  ros-fuerte-flirtlib:
+    md5: 23d24e6d52f0d58334829cfc34cf3d7a
+    version: 0.1.4-0lucid-20120908-1625-+0000
+  ros-fuerte-gencpp:
+    md5: 86021749f432cdd8d59a3a21d7c8e1dc
+    version: 0.3.4-0lucid-20120908-1639-+0000
+  ros-fuerte-genlisp:
+    md5: 12d87b7c0786634b89d7834df8bf7052
+    version: 0.3.3-0lucid-20120908-1639-+0000
+  ros-fuerte-genmsg:
+    md5: d5406ef5a494b4e76d81b065f0ae29f9
+    version: 0.3.10-0lucid-20120908-1624-+0000
+  ros-fuerte-genpy:
+    md5: 29d2f341c5135f877f5a1bd72e162a4f
+    version: 0.3.7-0lucid-20120908-1639-+0000
+  ros-fuerte-geometry:
+    md5: a1940c9283963fae960daf33ee994984
+    version: 1.8.2-s1347131302~lucid
+  ros-fuerte-geometry-experimental:
+    md5: 11707c07a39ad9de00ef2a6c057648d7
+    version: 0.2.3-s1347136591~lucid
+  ros-fuerte-geometry-tutorials:
+    md5: e36e523af64a7e9f4a9db8e7e6bb5066
+    version: 0.1.3-s1348603965~lucid
+  ros-fuerte-geometry-visualization:
+    md5: 802411ed072e0afdf164aaf0b594dbb4
+    version: 0.1.1-s1347141411~lucid
+  ros-fuerte-image-common:
+    md5: 729c1129593e9c609534635773f7e2d3
+    version: 1.8.0-s1347135908~lucid
+  ros-fuerte-image-pipeline:
+    md5: c09ec9daad4413e2cb34955756c45820
+    version: 1.8.5-s1348608944~lucid
+  ros-fuerte-image-transport-plugins:
+    md5: edf8c4b8ac180e17f74697fe363b2f11
+    version: 1.8.2-s1348608853~lucid
+  ros-fuerte-imu-drivers:
+    md5: 3e85f261b625dffa1d05258a14cbd232
+    version: 1.4.0-s1347138964~lucid
+  ros-fuerte-industrial:
+    md5: fb30f1b8e65d52b42553ad31dd0e94ff
+    version: 0.2.0-s1348619474~lucid
+  ros-fuerte-joystick-drivers:
+    md5: 2ceeb1022521c560fe4c3528db72c09a
+    version: 1.8.0-s1347138638~lucid
+  ros-fuerte-langs:
+    md5: a249e1f5b7f97a23749a4833b8c547a5
+    version: 0.3.5-0lucid-20120908-1710-+0000
+  ros-fuerte-langs-dev:
+    md5: 3df74312da5c991ee1c8509a28a5b338
+    version: 0.1.3-0lucid-20120908-1646-+0000
+  ros-fuerte-laser-drivers:
+    md5: 7f698b2caa4027fbea02ef07020df653
+    version: 1.6.0-s1347143712~lucid
+  ros-fuerte-laser-pipeline:
+    md5: a205987e31b103cf525fb176f54d9755
+    version: 1.4.4-s1347168025~lucid
+  ros-fuerte-linux-networking:
+    md5: 22127433366cacb6bf760a765a1f5648
+    version: 0.1.16-s1348603819~lucid
+  ros-fuerte-navigation:
+    md5: fb1b5928604483bda3dd348b3da842d9
+    version: 1.8.3-s1347169107~lucid
+  ros-fuerte-nodelet-core:
+    md5: d0ebe6783c69078e71aaf2ca26178352
+    version: 1.6.5-s1347136105~lucid
+  ros-fuerte-object-manipulation:
+    md5: 863de16d6e71bd95e2ec90522d13a52c
+    version: 0.6.6-s1348613478~lucid
+  ros-fuerte-octomap:
+    md5: 5f25b3e1131bae8a811b8fe9c768453d
+    version: 1.4.2-11lucid-20120827-1622-+0000
+  ros-fuerte-octomap-mapping:
+    md5: 5ac7865f509921d63258b39c373ee3bd
+    version: 0.4.5-s1348604932~lucid
+  ros-fuerte-octomap-msgs:
+    md5: 9529eb710379a3aa93c992923872c4fd
+    version: 0.1.4-0lucid-20120908-1829-+0000
+  ros-fuerte-octomap-ros:
+    md5: 463ede897a161ec158e09139c8f8c7b8
+    version: 0.1.1-s1347143431~lucid
+  ros-fuerte-ompl:
+    md5: a910e00679290d7d7dadb0e26e1bc75e
+    version: 0.11.1002045-0lucid-20120908-1624-+0000
+  ros-fuerte-opencv2:
+    md5: af94f151d9346922a6fb0bb08131a16e
+    version: 2.4.2-0lucid-20120908-1627-+0000
+  ros-fuerte-orocos-kinematics-dynamics:
+    md5: 8b34dfd01bf66a4b337d1e4244c3d0fd
+    version: 0.2.3-s1347124336~lucid
+  ros-fuerte-pcl:
+    md5: f6d3a43b1714fdd0e92f6184bc23887a
+    version: 1.5.2-7lucid-20120908-1830-+0000
+  ros-fuerte-perception-pcl:
+    md5: 782af532af0ea5293ab5ace8c17ba4ac
+    version: 1.2.3-s1347138785~lucid
+  ros-fuerte-physics-ode:
+    md5: a2cfbe29c94895cf79cb0751cee46595
+    version: 1.8.0-s1347123280~lucid
+  ros-fuerte-pluginlib:
+    md5: 70b723375a295b6ef7c61f49d3246a8b
+    version: 1.8.0-s1347131247~lucid
+  ros-fuerte-pr2:
+    md5: 9399b58b934717349b6d904abcd33c2b
+    version: 1.0.0-s1348644337~lucid
+  ros-fuerte-pr2-apps:
+    md5: d068b2cc76739cfb546f4e5183f69e85
+    version: 0.4.6-s1348612352~lucid
+  ros-fuerte-pr2-arm-navigation:
+    md5: 63b53d9c3f7055c991a9073dabea86ea
+    version: 0.5.2-s1348613803~lucid
+  ros-fuerte-pr2-calibration:
+    md5: 1ac9a6f68de20a1cbc65e40d965f7c81
+    version: 1.2.4-s1348618351~lucid
+  ros-fuerte-pr2-common:
+    md5: 8ee0f714a0bcc912f05174da35e7014b
+    version: 1.8.2-s1347141195~lucid
+  ros-fuerte-pr2-common-actions:
+    md5: 03729ac5e098092d703b3558cdc8c00d
+    version: 0.4.0-s1348607328~lucid
+  ros-fuerte-pr2-controllers:
+    md5: 8a92d5a11750ca69aa2470258567d4d5
+    version: 1.8.0-s1347962981~lucid
+  ros-fuerte-pr2-desktop:
+    md5: 04c257ffd483d9cd3a947d9319f92380
+    version: 1.0.0-s1348644337~lucid
+  ros-fuerte-pr2-ethercat-drivers:
+    md5: cc9d0f86c5b8d29549b5f4fe272f4b96
+    version: 1.7.1-s1347149451~lucid
+  ros-fuerte-pr2-gui:
+    md5: 880f4150d3566946d7a930de22055dd7
+    version: 1.0.4-s1347149424~lucid
+  ros-fuerte-pr2-kinematics:
+    md5: 1124775a9d1628fcbe9b0fcf06d8958b
+    version: 0.4.4-s1348604832~lucid
+  ros-fuerte-pr2-mechanism:
+    md5: f3d990a1e1da915f9fe8e1ed83d5aee2
+    version: 1.6.0-s1347146281~lucid
+  ros-fuerte-pr2-navigation:
+    md5: e340ce50fe902115df1fbd5a1c8016d1
+    version: 0.1.13-s1348617258~lucid
+  ros-fuerte-pr2-object-manipulation:
+    md5: 3b2db44a2766e4545b0811e4360c2f1d
+    version: 0.6.4-s1348619570~lucid
+  ros-fuerte-pr2-power-drivers:
+    md5: 25ea4694ae80dd72be6e47a45d23cccf
+    version: 1.0.9-s1347146212~lucid
+  ros-fuerte-pr2-robot:
+    md5: 432f1f5887d76b8b1e3d50b7b0ee3f82
+    version: 1.4.0-s1348614420~lucid
+  ros-fuerte-pr2-self-test:
+    md5: 927e3693060e61714b20919f1c5ba632
+    version: 0.4.0-s1348619015~lucid
+  ros-fuerte-pr2-simulator:
+    md5: 2da8e1757e9dc50f8813cb9deea9d935
+    version: 1.8.6-s1348613968~lucid
+  ros-fuerte-prosilica-driver:
+    md5: 7ef2320ea12b662d5dba038f5bbc1692
+    version: 1.8.0-s1347143549~lucid
+  ros-fuerte-protobuf:
+    md5: 0dd679e18692d3566dce4671d01f71fb
+    version: 0.1.0-s1347131602~lucid
+  ros-fuerte-python-qt-binding:
+    md5: 9cc3755cdb2191e7369f9fe35095205a
+    version: 0.1.9-s1348595394~lucid
+  ros-fuerte-robot-model:
+    md5: 37477a94ff295782133be326cc1848c8
+    version: 1.8.1-s1347136194~lucid
+  ros-fuerte-robot-model-tutorials:
+    md5: 320020d1d4ef37d0dcf8cae626e26310
+    version: 0.1.2-s1347123214~lucid
+  ros-fuerte-robot-model-visualization:
+    md5: 5cd21f6dab5e0158d49886ac6bdfd8cb
+    version: 0.1.2-s1347131476~lucid
+  ros-fuerte-ros:
+    md5: a296d3f7b2586710723e2dce8e7c3615
+    version: 1.8.10-0lucid-20120908-1640-+0000
+  ros-fuerte-ros-comm:
+    md5: 14cfa9e4d1896e23e3bd7454d4774d9a
+    version: 1.8.15-0lucid-20120908-1754-+0000
+  ros-fuerte-ros-realtime:
+    md5: ba242c7e1e2409129544f83e1ba69561
+    version: 0.5.3-s1347131567~lucid
+  ros-fuerte-ros-tutorials:
+    md5: 306441d633c52e630a89a5d7140d9ecb
+    version: 0.2.19-0lucid-20120925-1930-+0000
+  ros-fuerte-roscpp-core:
+    md5: f01073567be637447c46a16e3278df22
+    version: 0.2.6-0lucid-20120908-1651-+0000
+  ros-fuerte-rospack:
+    md5: 38c55d24cf68132aa11040584c48ed1c
+    version: 2.0.13-1lucid-20120908-1625-+0000
+  ros-fuerte-rx:
+    md5: 0c27d2561403ffbf1ddfb77e67528463
+    version: 1.8.9-0lucid-20120908-1907-+0000
+  ros-fuerte-sbpl:
+    md5: 1d47d5e75a6291dddbcf503386efa56e
+    version: 1.1.0-5lucid-20120908-1904-+0000
+  ros-fuerte-simulator-gazebo:
+    md5: 0fc0f4f3fa2c3de12c14eecabafcc8a1
+    version: 1.6.16-s1347143817~lucid
+  ros-fuerte-slam-gmapping:
+    md5: 48d13cb0ff2959276f1484fc4e1bc090
+    version: 1.2.7-s1347170278~lucid
+  ros-fuerte-sql-database:
+    md5: 47630405d440015ef0aac16da3693fa5
+    version: 0.3.0-s1347131568~lucid
+  ros-fuerte-stage:
+    md5: eebfaf0d0aaa9941eb8579ab110a9cd8
+    version: 1.6.6-s1347136232~lucid
+  ros-fuerte-std-msgs:
+    md5: deae3cfcbc23f4a3ed29d1f1ec182066
+    version: 0.4.11-0lucid-20120908-1725-+0000
+  ros-fuerte-swig-wx:
+    md5: 4a7286acd4730f025bfef62fd1cb14c8
+    version: 1.3.29-3lucid-20120908-1627-+0000
+  ros-fuerte-vision-opencv:
+    md5: 705b78c0c207d6d5951e4308ed9a7342
+    version: 1.8.6-s1348605352~lucid
+  ros-fuerte-visualization:
+    md5: 7d4f0fb40502dbe09ff308814f33de1b
+    version: 1.8.14-s1348597328~lucid
+  ros-fuerte-visualization-common:
+    md5: 26352bc42d2d1d4618e04584445dafdc
+    version: 1.8.4-s1347131658~lucid
+  ros-fuerte-visualization-tutorials:
+    md5: 7329f9f0beefc88a678b193d04117a26
+    version: 0.6.3-s1348600651~lucid
+  ros-fuerte-warehousewg:
+    md5: 2380b4e81c6ab6f8b5ef2ff9b7c26374
+    version: 0.6.5-s1348594904~lucid
+  ros-fuerte-web-interface:
+    md5: 3fd2826849800a0c445dd399977e0db7
+    version: 0.5.0-s1348608921~lucid
+  ros-fuerte-wge100-driver:
+    md5: 8facd3c16e48d98b3eec955901231247
+    version: 1.7.3-s1347143547~lucid
+  ros-fuerte-wifi-drivers:
+    md5: acc732ab9b165d504fa54254560099ca
+    version: 0.1.5-s1347146260~lucid
+  ros-fuerte-xacro:
+    md5: 19e8f7a1c1702bf72d56d38af149c555
+    version: 1.6.1-s1347131788~lucid
+  ros-repo:
+    md5: af65050c84395fdab23f0e0589bbc350
+    version: 0.5.0
+  rsync:
+    md5: e6c385c7babc909dded6774c75dbde27
+    version: 3.0.7-1ubuntu1.1
+  rsyslog:
+    md5: 0d29f5b37953b0d2f0de61c62548f05f
+    version: 4.2.0-2ubuntu8.1
+  ruby:
+    md5: 4c967bde416628024e9e7436af28b51e
+    version: '4.2'
+  ruby1.8:
+    md5: a8a243a723c73c35846042fc2d96433b
+    version: 1.8.7.249-2ubuntu0.1
+  ruby1.8-dev:
+    md5: 831b4e3ce549262694694e06fe7c143b
+    version: 1.8.7.249-2ubuntu0.1
+  rubygems1.8:
+    md5: 80dd13e4a5ef0d551b247b897e32e4ec
+    version: 1.3.5-1ubuntu2
+  sata-modules-2.6.32-21-generic-di:
+    md5: f439d2af30d0240d3d6b75ac533122f5
+    version: 2.6.32-21.32
+  save-logs:
+    md5: a883044dc661e71a462773178fd8aa75
+    version: 2.39ubuntu4
+  sbcl:
+    md5: 7fe4539238c4794d04f80c91a6a92fca
+    version: 1:1.0.29.11-1ubuntu1
+  scons:
+    md5: 4cae30d34cc25abb78df97900b3763b0
+    version: 1.2.0.d20100117-1
+  screen:
+    md5: 75c1ecc864836d468efa056f9ce9d26e
+    version: 4.0.3-14ubuntu1.2
+  screen-resolution-extra:
+    md5: bc455ed5e0c866180ac8bdf46cd63385
+    version: '0.13'
+  scrollkeeper:
+    md5: d035a6a5bac3f718b3fd3f8eae92f4b9
+    version: 0.8.1-4ubuntu1
+  scsi-firmware:
+    md5: 60b7bfa882f9f97667db4174aeca40fa
+    version: '1.34'
+  scsi-modules-2.6.32-21-generic-di:
+    md5: f457c080c024d727df9689e5e4a2a0dc
+    version: 2.6.32-21.32
+  sed:
+    md5: f14d80888e293b2fae8e0379894c069b
+    version: 4.2.1-6
+  sensible-utils:
+    md5: 71f9fa222011db2b3465ab99194df130
+    version: 0.0.1ubuntu3
+  serial-modules-2.6.32-21-generic-di:
+    md5: 8d737b09b326044271288943439deb99
+    version: 2.6.32-21.32
+  sgml-base:
+    md5: f7ebb59ee57016445e4c08829d23ae03
+    version: '1.26'
+  sgml-data:
+    md5: e7f02c233287e49d51bb0f2fc8b341fb
+    version: 2.0.4
+  shared-mime-info:
+    md5: b67a51a17b86f8b18ddfd460522ea848
+    version: 0.71-1ubuntu2
+  sip4:
+    md5: acbbc49e67e42a2be6c870693aacc1df
+    version: 4.10.1-0ubuntu1
+  smartdimmer:
+    md5: 72d72bb08f270d1aa3680f70b98f51a4
+    version: 0.8b4-1ubuntu3
+  smartmontools:
+    md5: bde33bcc535d69e1f289c1b6edc806b6
+    version: 5.38-3ubuntu3
+  snmp:
+    md5: 7ca5c4c082d81363b03cbee24fa12c93
+    version: 5.4.2.1~dfsg0ubuntu1-0ubuntu2.2
+  snmpd:
+    md5: f32113e72ee296b3bc2e4b521f78453f
+    version: 5.4.2.1~dfsg0ubuntu1-0ubuntu2.2
+  software-center:
+    md5: 5475353023ca03160d811238972b5e6d
+    version: 2.0.7
+  software-properties-gtk:
+    md5: 442c6087b2513483d8edbf90475c6328
+    version: 0.75.10.3
+  spawn-fcgi:
+    md5: d8dec58ff9fca02e01c81853d9e6ceb4
+    version: 1.6.3-1
+  spidermonkey-bin:
+    md5: 808a23c9fb3944bc56af4871d7e3105c
+    version: 1.8.1.16+nobinonly-0ubuntu1
+  squashfs-modules-2.6.32-21-generic-di:
+    md5: 3dfc191754dec4baddef895c13f3a7c3
+    version: 2.6.32-21.32
+  ssl-cert:
+    md5: 42dc5f71de1e50119ad9650487192b68
+    version: 1.0.23ubuntu2
+  storage-core-modules-2.6.32-21-generic-di:
+    md5: 89898ffaca5adcbd99a49451cd623c68
+    version: 2.6.32-21.32
+  strace:
+    md5: be16aaabd81736c96efb9d7544231777
+    version: 4.5.19-2
+  strace-udeb:
+    md5: b3122495187a52d068669548975eb1bc
+    version: 4.5.19-2
+  subversion:
+    md5: 6ecb44887a15adec29ae19200f2e1dc7
+    version: 1.6.6dfsg-2ubuntu1.3
+  sudo:
+    md5: a80ac2b0a160aa6f3d7fcdf2ba406976
+    version: 1.7.2p1-1ubuntu5.4
+  sun-java6-jre:
+    md5: 662f6f4f0eeaa118934720b20735893a
+    version: 6.24-1build0.10.04.1
+  swi-prolog:
+    md5: dc8abebac75fcf96c970a0894ab7d3d4
+    version: 5.8.0-1
+  swi-prolog-clib:
+    md5: cf10f4a25777e23259f9b6d9cb492482
+    version: 5.8.0-1
+  swi-prolog-http:
+    md5: 93ee86c0712c6d19b58c28d7277c668f
+    version: 5.8.0-1
+  swi-prolog-odbc:
+    md5: 430b0581bc28fa5444f01cb839f9c1b9
+    version: 5.8.0-1
+  swi-prolog-semweb:
+    md5: 5db3a6f6e505074b4de300ef0731f3e1
+    version: 5.8.0-1
+  swi-prolog-sgml:
+    md5: 1a4d9475a6e8e1ea62686222a2179d2f
+    version: 5.8.0-1
+  swi-prolog-xpce:
+    md5: 6318d1bf918d78e8df5148d20deaead6
+    version: 5.8.0-1
+  synaptic:
+    md5: eb0dfcb7f0418089dc4cc36b0ab1a279
+    version: 0.63.1ubuntu7
+  sysklogd:
+    md5: 758d65b017fc50d2f356626beb1d237a
+    version: 1.5-5ubuntu4
+  syslinux:
+    md5: fbca80ab8870ed8a23f28f3528cb726f
+    version: 2:3.63+dfsg-2ubuntu3
+  sysstat:
+    md5: 52305423ac5be8db88460eec71bddb44
+    version: 9.0.6-2
+  system-tools-backends:
+    md5: ed10bd69ab4a1ac2bdc557c3b90d594a
+    version: 2.9.4-0ubuntu1.1
+  sysv-rc:
+    md5: 6e49a05fc229ac5817b5c5b60e6694e6
+    version: 2.87dsf-4ubuntu17.5
+  sysvinit-utils:
+    md5: aa01c775d773494c052f930e544fb251
+    version: 2.87dsf-4ubuntu17.5
+  tar:
+    md5: 95c9cf6a26f285ea70d0d8e85262defc
+    version: 1.22-2ubuntu1
+  tasksel:
+    md5: 86425a3a0a8fbb2afd7b3a2c91911cb6
+    version: 2.73ubuntu26
+  tasksel-data:
+    md5: 39037a1bc5c919e9dbeb40416b56bb72
+    version: 2.73ubuntu26
+  tcl8.5:
+    md5: 55373b02db8ac84c15af53e31d9cde1b
+    version: 8.5.8-2
+  tcl8.5-dev:
+    md5: 5bb3f70788bda882f1d9caa8b7449129
+    version: 8.5.8-2
+  tcpd:
+    md5: 6aa4ff769fb12b6f41f235d28fba4968
+    version: 7.6.q-18
+  tcpdump:
+    md5: 05f9e96a246f0649f9417601112bc956
+    version: 4.0.0-6ubuntu3
+  tcsh:
+    md5: a7bbb6c977124bc86d4daea60c7b7ef1
+    version: 6.17.00-3
+  telnet:
+    md5: e1925558bf8b6b3fc91db89ea27e17ef
+    version: 0.17-36build1
+  tex-common:
+    md5: 9193ff30b08769fc2830c34d7ba2e782
+    version: 2.06ubuntu0.1
+  texinfo:
+    md5: f246a3c2f5085fb840d928c9e3938598
+    version: 4.13a.dfsg.1-5ubuntu1
+  texlive-base:
+    md5: 3ae405c195aeee32f7f3a0b6cc5d17e7
+    version: 2009-7
+  texlive-binaries:
+    md5: ca82e81bd388526652ed8055d89a0b90
+    version: 2009-5ubuntu0.2
+  texlive-common:
+    md5: c369cfd00bbe15eea55c16537088c564
+    version: 2009-7
+  texlive-doc-base:
+    md5: 4b2425e63894d3de7d45758e5d975ac4
+    version: 2009-2
+  texlive-latex-base:
+    md5: 01cdb4cc6c9335b30b7f551fc0b8966e
+    version: 2009-7
+  thttpd:
+    md5: 83d89c2849864f39599cf569a8b17f2e
+    version: 2.25b-11
+  thunderbird:
+    md5: 77ea47bcc98a9b3227558e1344c2d55f
+    version: 15.0.1+build1-0ubuntu0.10.04.1
+  thunderbird-locale-en:
+    md5: 78184123a749bd93330057ea103fc000
+    version: 1:15.0.1+build1-0ubuntu0.10.04.1
+  thunderbird-locale-en-gb:
+    md5: 5626176cba6cd3cc5c2f4089ac317d30
+    version: 1:15.0.1+build1-0ubuntu0.10.04.1
+  time:
+    md5: f8363fe9898b61929e824ef4a0ec291e
+    version: 1.7-23build1
+  timelimit:
+    md5: 9ffbf3101b146356d6ea8c9399acd176
+    version: 1.5-1
+  tk8.5:
+    md5: 71dfa062d53971187d3fe620110c68a9
+    version: 8.5.8-1
+  tk8.5-dev:
+    md5: dfa60cbec4fa9064efc9b5e3c9aa273f
+    version: 8.5.8-1
+  tsconf:
+    md5: ff75ce5451d95f6f058ae273ad74cd42
+    version: 1.0-7build1
+  ttf-cjk-compact-udeb:
+    md5: 414e9357db3fcd0edae653ba6dad7bfe
+    version: 1.14ubuntu1
+  ttf-dejavu:
+    md5: 21f4c6a4af54deef0d1179aa716d5336
+    version: 2.30-2
+  ttf-dejavu-core:
+    md5: dd0936a786c5e845e4b8708f9b1ad123
+    version: 2.30-2
+  ttf-dejavu-extra:
+    md5: 4704f6ff88a536792276ad47ab27df73
+    version: 2.30-2
+  ttf-dejavu-mono-udeb:
+    md5: 1011f15a2eb5ad83e66540d6d5a04cbd
+    version: 2.30-2
+  ttf-dejavu-udeb:
+    md5: 401d00dfffae1a8cccb5a3607eabc65e
+    version: 2.30-2
+  ttf-farsiweb-udeb:
+    md5: bf6b222b7ada9decd20c54accea347b6
+    version: 0.4.dfsg-9
+  ttf-freefont-udeb:
+    md5: 455e89bd01a4a11658ba33d1edbbff44
+    version: 20090104-5
+  ttf-khmeros-udeb:
+    md5: 970fba6aac1dd8383eae481747495989
+    version: 5.0-3ubuntu1
+  ttf-liberation:
+    md5: d55369f6d06304107d3f0ef2c3ddac5a
+    version: 1.05.2.20091019-4
+  ttf-lyx:
+    md5: 814d01096d673d0149e9040ca9c74042
+    version: 1.6.5-1ubuntu1
+  ttf-malayalam-fonts-udeb:
+    md5: d20fe211e4723e3704c0d3c8c4c675fa
+    version: 1:0.5.8ubuntu2
+  ttf-opensymbol:
+    md5: 574a24b21c22938e1a1564d35f2cf433
+    version: 1:3.2.0-7ubuntu4.4
+  ttf-sil-abyssinica-udeb:
+    md5: e8de6ab2d796656c59a75347d304248e
+    version: 1.0-6
+  ttf-tamil-fonts-udeb:
+    md5: 8ac7ce3c022a56817c2d35738c3f7f2a
+    version: 1:0.5.8ubuntu2
+  ttf-thai-tlwg-udeb:
+    md5: 8824e8955bca32daec3c49f335398a04
+    version: 1:0.4.13-4
+  ttf-tmuni-udeb:
+    md5: 975421311435f601212ba9e253c23017
+    version: 1.901b-1
+  tzdata:
+    md5: 31bc1f74cfa216bb6d1c52e5be454fd3
+    version: 2012e-0ubuntu0.10.04
+  tzdata-java:
+    md5: 6793068119a091d9cdd3aea93239b496
+    version: 2012e-0ubuntu0.10.04
+  tzsetup-udeb:
+    md5: 8cc10653f64c608c3f259fdbfb25077e
+    version: 1:0.26ubuntu9
+  ubuntu-artwork:
+    md5: 4b013ece7a60ef884cefb1067eb97003
+    version: '53.5'
+  ubuntu-keyring:
+    md5: 6242bfea9071de8cbc3dd94578cf630e
+    version: 2010.11.09-pr2
+  ubuntu-keyring-udeb:
+    md5: b0187d989fd38c8eaf2b935a7181dd44
+    version: 2010.11.09
+  ubuntu-minimal:
+    md5: 8d62116bba8aba082e9bc0dae68d248d
+    version: '1.197'
+  ubuntu-mono:
+    md5: 1ee1d0f016355a4fd20ba91b3ceae21c
+    version: 0.0.18
+  ubuntu-standard:
+    md5: b84951453afb19df0a3bcc81a99aae8c
+    version: '1.197'
+  ubuntu-system-service:
+    md5: 3fb1b94f034e9ae223ecc25839fa6d17
+    version: 0.1.20.1
+  ubuntu-wallpapers:
+    md5: 6b5d3cbf6bbcd14f3dcb1aa26bba7070
+    version: 0.31.3
+  ucf:
+    md5: 43457f414820d46b87030c38dd31003d
+    version: '3.0025'
+  udev:
+    md5: 63cc4ff97d1ee7bba1bfc3e3f4052149
+    version: 151-12.3
+  udev-udeb:
+    md5: ae272589ecdfa20fc9fd720cd560f273
+    version: 151-12
+  udhcpc:
+    md5: 9352bc4c9ce962d8a668207d0794bd9b
+    version: 0.9.8cvs20050303-3
+  udisks:
+    md5: f3ab2c7e0721e6a4f1595f259a72c3d2
+    version: 1.0.1-1ubuntu1
+  udpkg:
+    md5: 345f68b76efb900bf64b61f9a13ef547
+    version: 1.08build1
+  ufw:
+    md5: 12b659c2991750740776e04e4df02d61
+    version: 0.30pre1-0ubuntu2
+  unattended-upgrades:
+    md5: ff827bfe6daa365682612481fb27f81c
+    version: 0.55ubuntu7
+  unionfs-fuse:
+    md5: 142a7d066c0937f485ef02c8a74908e1
+    version: 0.23.hg.20090611-1
+  unixodbc:
+    md5: 38c7d4cfc2a87d7d1388b4aee8005671
+    version: 2.2.11-21
+  uno-libs3:
+    md5: a62a6466aa460ef500318ab11eb702a6
+    version: 1.6.0+OOo3.2.0-7ubuntu4.4
+  unzip:
+    md5: a25f0a457820b5625128dfc0be161579
+    version: 6.0-1build1
+  update-inetd:
+    md5: b8e129523a8c13ff39692bf891d39cd2
+    version: 4.35ubuntu0.1
+  update-manager-core:
+    md5: f53d14fc02a58a6e3cb0f2ce23e95244
+    version: 1:0.134.12.1
+  update-motd:
+    md5: b9d88387900ed306fbb0cb28d9bf0941
+    version: 3.5-0ubuntu1
+  updates-modules-2.6.32-21-generic-di:
+    md5: d549a0e186dae07bb4c52deda987af74
+    version: 2.6.32-21.11
+  upstart:
+    md5: 3cce20aa414833f34e500a49bdcda954
+    version: 0.6.5-8
+  ure:
+    md5: 55924e9e250e5885a2a9db6c48c94485
+    version: 1.6.0+OOo3.2.0-7ubuntu4.4
+  ureadahead:
+    md5: b5b5ac06a15a8f84240b7376bbea8ecf
+    version: 0.100.0-4.1.3
+  usb-discover:
+    md5: cc896f4803551193e60f0c067bcd654e
+    version: 1.07ubuntu1
+  usb-modules-2.6.32-21-generic-di:
+    md5: 8f974ba71cb37b6c9cac252df81629f1
+    version: 2.6.32-21.32
+  usbmuxd:
+    md5: f3ae050b6de3bbfe769678164f2f7026
+    version: 1.0.2-1ubuntu2
+  usbutils:
+    md5: ce6dd45bdca6d1c8ad075c4d0f0ce3b3
+    version: 0.86-2ubuntu1
+  usbutils-udeb:
+    md5: d781384d998bfdb2ee72f26fd0289f02
+    version: 0.86-2ubuntu1
+  user-setup-udeb:
+    md5: eb0e9ccf8c11c7dfce64181cdb13ea7e
+    version: 1.28ubuntu7
+  util-linux:
+    md5: 2dea88a54dd58cc6bc5b9bf3b48f52b6
+    version: 2.17.2-0ubuntu1.10.04.2
+  util-linux-udeb:
+    md5: 20475babb27e5ec72ecaf010e6cff118
+    version: 2.17.2-0ubuntu1
+  uuid-dev:
+    md5: 999e0673d782a9450a5db60525f193dd
+    version: 2.17.2-0ubuntu1.10.04.2
+  uuid-runtime:
+    md5: 8547de897e164e8b4c2838d19a42d082
+    version: 2.17.2-0ubuntu1.10.04.2
+  vbetool:
+    md5: 19fb461206d5da201b49638edc6f4969
+    version: 1.1-2
+  vim:
+    md5: 7acf201e2215b8eb4fb14ee94a2f4f9a
+    version: 2:7.2.330-1ubuntu3
+  vim-common:
+    md5: 45e36088f0bc85170d9c637a18f08232
+    version: 2:7.2.330-1ubuntu3
+  vim-runtime:
+    md5: 3e498170143eab842607d42f20e27c72
+    version: 2:7.2.330-1ubuntu3
+  vim-tiny:
+    md5: 6e5e7ed69e8da69d63ef1b026774e87f
+    version: 2:7.2.330-1ubuntu3
+  virtio-modules-2.6.32-21-generic-di:
+    md5: 9f8729188d2f0fa7b161edcc028fc054
+    version: 2.6.32-21.32
+  vlan-modules-2.6.32-21-generic-di:
+    md5: 470bb800253d36988597182cc8e06108
+    version: 2.6.32-21.32
+  vlan-udeb:
+    md5: 1d9c4ca9e633d8a9bb83b13cb8641cc7
+    version: 1.9-3ubuntu3
+  w3m:
+    md5: 9544fbfc65ec94c775afb1547e5d2c6a
+    version: 0.5.2-2.1ubuntu1.2
+  wamerican:
+    md5: 67a443ce545f4256c37ad5d4381aa0c9
+    version: 6-3
+  watershed:
+    md5: 52a4324f043aadd46c00242c90f6461a
+    version: '5'
+  wbritish:
+    md5: 5d6f9b00c0890adcebddfb82044a550a
+    version: 6-3
+  wg-openvpn:
+    md5: 4fff90e2f8e68a087f196b1c07d8f04b
+    version: 2.1~rc19-2
+  wget:
+    md5: fca95e99bc1fbf4d33735d5774d082f5
+    version: 1.12-1.1ubuntu2.1
+  wget-udeb:
+    md5: 66319e4a7eaaa6c050c518be1e83c6f1
+    version: 1.12-1.1ubuntu2
+  whiptail:
+    md5: 25fc87252def8acb681db54ea074cb2a
+    version: 0.52.10-5ubuntu1
+  wireless-crda:
+    md5: 4b387d46766afb313b808767011d79a9
+    version: '1.12'
+  wireless-tools:
+    md5: 35611658abf997a1342de6bba4d8cf89
+    version: 30~pre9-3ubuntu4
+  wireless-tools-udeb:
+    md5: fd76b64333cea2f6c2bf7886fe8e3276
+    version: 30~pre9-3ubuntu4
+  wx2.8-headers:
+    md5: 3d0ddf97e9d8f61b0901b5c2ae76d7f3
+    version: 2.8.10.1-0ubuntu1.2
+  x-ttcidfont-conf:
+    md5: 4927221cf335a37f29e041690fa00f54
+    version: '32'
+  x11-apps:
+    md5: f6a9bfc0cdda27730b98fc90d050166a
+    version: 7.5+1ubuntu2
+  x11-common:
+    md5: 8b8a890f8afdc1a8a4d33cf5a7ff792a
+    version: 1:7.5+5ubuntu1.1
+  x11-session-utils:
+    md5: eb4fe7dd9b454cbf7c2475e37cbb3c35
+    version: 7.5+1
+  x11-utils:
+    md5: 73065383e9f0bd3a1b4e5d789b649336
+    version: 7.5+3
+  x11-xfs-utils:
+    md5: d836d3239095571529806b950434c75b
+    version: 7.4+1build2
+  x11-xkb-utils:
+    md5: ee3d3fdaf811157a1e2f8dfa572e8364
+    version: 7.5+1
+  x11-xserver-utils:
+    md5: db3596b0abcd26fe8569687bf790d016
+    version: 7.5+1ubuntu2.1
+  x11proto-composite-dev:
+    md5: 2a1873f348978edea29dc38630cdcabe
+    version: 1:0.4.1-1
+  x11proto-core-dev:
+    md5: eead81fcaf95793c88a6a9550e22a854
+    version: 7.0.16-1
+  x11proto-damage-dev:
+    md5: 60e3ddd4f8146f74a19e135a32c23dd2
+    version: 1:1.2.0-1
+  x11proto-fixes-dev:
+    md5: 53b321671543ef09f7a06cff10e7f4be
+    version: 1:4.1.1-2
+  x11proto-input-dev:
+    md5: 6b0ba265ed93df136863134be67a9bb9
+    version: 2.0-2
+  x11proto-kb-dev:
+    md5: 76aeb3d69089527f87a0fa8f1a6c5193
+    version: 1.0.4-1
+  x11proto-print-dev:
+    md5: d9568e9838e1298584b251ba38a95f5a
+    version: 1.0.3.xsf1-1
+  x11proto-randr-dev:
+    md5: 5537c5d20cb46f166efb6f4f14ac28ea
+    version: 1.3.1-1
+  x11proto-render-dev:
+    md5: 5b8909e430adcfe90ccdf0ecc3dc84da
+    version: 2:0.11-1
+  x11proto-scrnsaver-dev:
+    md5: 7d165791efd617441ae11b5b27c2bb41
+    version: 1.2.0-2
+  x11proto-xext-dev:
+    md5: 4684505d80b520376ff499b489227bff
+    version: 7.1.1-2
+  x11proto-xf86vidmode-dev:
+    md5: cf26b72fb9f23383998729666f6b92ce
+    version: 2.3-2
+  x11proto-xinerama-dev:
+    md5: 4aaecc5d8b5919f7b3602faab78fcc40
+    version: 1.2-2
+  xauth:
+    md5: b87495cf00eae99431b8d319bb422523
+    version: 1:1.0.4-1
+  xbitmaps:
+    md5: ed7a61d2e93a4cc71fba1308105f4443
+    version: 1.1.0-1
+  xdg-user-dirs:
+    md5: 05a9c0cb398ef213e2c3eb8658292182
+    version: 0.12-0ubuntu2
+  xfonts-100dpi:
+    md5: 6e1cdc1a0a66ffe562ee181761397743
+    version: 1:1.0.1
+  xfonts-75dpi:
+    md5: 4739b1194e8f80687eb6e380826ba81c
+    version: 1:1.0.1
+  xfonts-base:
+    md5: 154ce97d0ab7c99639fb11405398b1f2
+    version: 1:1.0.1
+  xfonts-encodings:
+    md5: 9ac02cf8c085470112ae8d80e8209582
+    version: 1:1.0.3-1
+  xfonts-scalable:
+    md5: e34793a9e539d875df1c3871b9bd76d1
+    version: 1:1.0.1-1
+  xfonts-utils:
+    md5: 65b25ae0083477baabf8731c40c972fe
+    version: 1:7.5+2
+  xfsprogs-udeb:
+    md5: ccded90223ace5dea98e388a7bdb06f7
+    version: 3.1.0ubuntu1
+  xinit:
+    md5: 13c180ee75d9bc42db6ae2d76c298276
+    version: 1.2.0-1
+  xinput:
+    md5: 8632cb791b10942266aa7394dd1028a4
+    version: 1.5.0-2ubuntu1
+  xkb-data:
+    md5: 755c3f6de15889ac4ba56afac917e945
+    version: 1.8-1ubuntu8.1~10.04.1
+  xlibmesa-gl-dev:
+    md5: 687a8280c21fe08c5083964555cb1846
+    version: 1:7.5+5ubuntu1.1
+  xml-core:
+    md5: c61218937e342f662832c62ff61578dd
+    version: '0.13'
+  xorg:
+    md5: f321797e86f7b783e89bb05de290e3a3
+    version: 1:7.5+5ubuntu1.1
+  xorg-docs-core:
+    md5: 9f780a6de57a09aeb8a926accbc937a3
+    version: 1:1.5-1
+  xserver-common:
+    md5: cc853651eb9a43929252abaf45739b8e
+    version: 2:1.7.6-2ubuntu7.11
+  xserver-xorg:
+    md5: 28d3354616d61f4ae0fe3d13dfebc472
+    version: 1:7.5+5ubuntu1.1
+  xserver-xorg-core:
+    md5: b426c9d25d900159f805cbbca76c7bcc
+    version: 2:1.7.6-2ubuntu7.11
+  xserver-xorg-input-all:
+    md5: ce97635e6126a62e7d6ddb859e9f3e74
+    version: 1:7.5+5ubuntu1.1
+  xserver-xorg-input-evdev:
+    md5: d686833755256df1278e64a9a1da782c
+    version: 1:2.3.2-5ubuntu1
+  xserver-xorg-input-evtouch:
+    md5: af4198fd6f18d3642ae8005e0b7f0a7e
+    version: 0.8.8-3build1
+  xserver-xorg-input-mouse:
+    md5: dc56febd47acbe9bc370f7723a87701c
+    version: 1:1.5.0-1
+  xserver-xorg-input-synaptics:
+    md5: f096d22edb586e19e630d066e3ce2f22
+    version: 1.2.2-1ubuntu4
+  xserver-xorg-input-vmmouse:
+    md5: 66681b9a528d706c8fb505ced4472191
+    version: 1:12.6.5-4ubuntu2
+  xserver-xorg-input-wacom:
+    md5: 5bb2921e1a03358389434bc2b60354cb
+    version: 1:0.10.5-0ubuntu4
+  xserver-xorg-video-all:
+    md5: 455f9748bf5f4b06af4f373c63fd25e7
+    version: 1:7.5+5ubuntu1.1
+  xserver-xorg-video-apm:
+    md5: a51d18a3742e868a1838f99278a79222
+    version: 1:1.2.2-1
+  xserver-xorg-video-ark:
+    md5: da712320cd235ca8fb15da388489b437
+    version: 1:0.7.2-1
+  xserver-xorg-video-ati:
+    md5: f746d2921d9eed836ff1064bce3acbfb
+    version: 1:6.13.0-1ubuntu5
+  xserver-xorg-video-chips:
+    md5: a740937ee2130a4fb143f76bed502966
+    version: 1:1.2.2-1
+  xserver-xorg-video-cirrus:
+    md5: f19f9a378d76b44421ad633e32ab567c
+    version: 1:1.3.2-1ubuntu1
+  xserver-xorg-video-fbdev:
+    md5: b766fb4e52b1707c8b28a9a00b00bcd9
+    version: 1:0.4.1-1ubuntu1
+  xserver-xorg-video-i128:
+    md5: 161ad8898ee04aae0c874b7407d58f75
+    version: 1:1.3.3-1
+  xserver-xorg-video-intel:
+    md5: 0512eab319fec5c2ea754ea4984510dd
+    version: 2:2.9.1-3ubuntu5
+  xserver-xorg-video-mach64:
+    md5: 0582d3d2ccf2e8ca3bf57428c581cd60
+    version: 6.8.2-2
+  xserver-xorg-video-mga:
+    md5: e629ef96c641e659b4e85cac87f8baef
+    version: 1:1.4.11.dfsg-2ubuntu1
+  xserver-xorg-video-neomagic:
+    md5: eb91377fb020f28b395b1327bb697d25
+    version: 1:1.2.4-2
+  xserver-xorg-video-nouveau:
+    md5: 737f96b0586144b63ee9250e65db1fef
+    version: 1:0.0.15+git20100219+9b4118d-0ubuntu5
+  xserver-xorg-video-nv:
+    md5: 2fb2ebf05167c5d81565e4b4ddbf92d7
+    version: 1:2.1.15-1ubuntu3
+  xserver-xorg-video-openchrome:
+    md5: 2b0231bccf6f5d0363914aba2e4aca54
+    version: 1:0.2.904+svn827-1
+  xserver-xorg-video-r128:
+    md5: 75cd6166cc913ae2210dac7ae14601e0
+    version: 6.8.1-2ubuntu1
+  xserver-xorg-video-radeon:
+    md5: 9d872771eb948628d5cbb47455dab4b6
+    version: 1:6.13.0-1ubuntu5
+  xserver-xorg-video-rendition:
+    md5: e44a1a8291a92e7f1968d09c35f0af08
+    version: 1:4.2.3-1
+  xserver-xorg-video-s3:
+    md5: 858218a5d0f1301171946c42b3791255
+    version: 1:0.6.3-1
+  xserver-xorg-video-s3virge:
+    md5: e745d5b605256cbc0aee7df77d074822
+    version: 1:1.10.4-1
+  xserver-xorg-video-savage:
+    md5: 9f12b6f51fb4fa9371cae0021194c4fb
+    version: 1:2.3.1-1ubuntu1
+  xserver-xorg-video-siliconmotion:
+    md5: d4ae24e84608fed6f60b6523b722032c
+    version: 1:1.7.3-1
+  xserver-xorg-video-sis:
+    md5: 14f68e4959108316ac03ce8c09e653ad
+    version: 1:0.10.2-2
+  xserver-xorg-video-sisusb:
+    md5: ba5ad358f4ee2da8b49f453c379c32d8
+    version: 1:0.9.3-1
+  xserver-xorg-video-tdfx:
+    md5: fb6ab62e1d76c37297c7f5dbf80409b5
+    version: 1:1.4.3-1
+  xserver-xorg-video-trident:
+    md5: 87bb7f0fb2f145aa281b11a7844c9f89
+    version: 1:1.3.3-1
+  xserver-xorg-video-tseng:
+    md5: 016b1a2fa91a9ddfb73320fc6f0771ee
+    version: 1:1.2.3-1
+  xserver-xorg-video-v4l:
+    md5: 0fde33ddfb97dc09f4c51b7b2492acc5
+    version: 1:0.2.0-4
+  xserver-xorg-video-vesa:
+    md5: 5538c962f6fc5ce1212923584819af4c
+    version: 1:2.3.0-1ubuntu1
+  xserver-xorg-video-vmware:
+    md5: bdb41409101359ace7ae864d45e9aaa1
+    version: 1:10.16.9-1
+  xserver-xorg-video-voodoo:
+    md5: 43178e3d77be8ac22e8d5becb7d7c3c0
+    version: 1:1.2.3-1
+  xsltproc:
+    md5: c0f88648c84b995c58a7f5e7cdf27559
+    version: 1.1.26-1ubuntu1
+  xterm:
+    md5: c8c78fcd2e7c4f22a5c2caf788f7f9c8
+    version: 256-1ubuntu1
+  xtrans-dev:
+    md5: 16964e2a4a428994c19d2658bde901ff
+    version: 1.2.5-1
+  xulrunner-1.9:
+    md5: 61a945a0b5f5a263b6cbb3d1ac2b8545
+    version: 1.9.2.28+build1+nobinonly-0ubuntu0.10.04.1
+  xulrunner-1.9.2:
+    md5: f0c81e6f8d9a87e3ab3f8d82e35f0249
+    version: 1.9.2.28+build1+nobinonly-0ubuntu0.10.04.1
+  xulrunner-1.9.2-dev:
+    md5: addb381e8df31b2c949d4b8b6bb0d1bc
+    version: 1.9.2.28+build1+nobinonly-0ubuntu0.10.04.1
+  xulrunner-dev:
+    md5: ae00cfa0d5fc4b256107b157e143bac2
+    version: 1.9.2.28+build1+nobinonly-0ubuntu0.10.04.1
+  xz-utils:
+    md5: 0f64e1ec58718e06e76d5c9f6633995d
+    version: 4.999.9beta+20091116-1
+  yaml-cpp0.2.6-dev:
+    md5: 6e8b9bcf41224ed249a4c60e672ec502
+    version: 0.2.6-4~lucid
+  yelp:
+    md5: a3452c11f3ed40e4e025c27efadf69aa
+    version: 2.30.0-0ubuntu2
+  zenity:
+    md5: ed3131f261cdb98aeb075ef69359bbc1
+    version: 2.30.0-0ubuntu1
+  zlib1g:
+    md5: 9740b47b7014b26c56d8f4b1719963f0
+    version: 1:1.2.3.3.dfsg-15ubuntu1
+  zlib1g-dev:
+    md5: 806f7b7d26ffefbf2873783e536926a6
+    version: 1:1.2.3.3.dfsg-15ubuntu1
+  zlib1g-udeb:
+    md5: 996c73107af2bef1dacc5f4117d9090b
+    version: 1:1.2.3.3.dfsg-15ubuntu1
+  zsh:
+    md5: ba1c2a6832e13cee567ada772db2a432
+    version: 4.3.10-5ubuntu3
+version: 0.5.8

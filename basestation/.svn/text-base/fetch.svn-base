@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#(cd install_dev1/install; [ -e initrd.gz ] || wget http://archive.ubuntu.com/ubuntu/dists/lucid-updates/main/installer-amd64/current/images/hd-media/initrd.gz)
+#(cd install_dev1/install; [ -e vmlinuz ] || wget http://archive.ubuntu.com/ubuntu/dists/lucid-updates/main/installer-amd64/current/images/hd-media/vmlinuz)
+#(cd install_dev1; [ -e ubuntu-10.04.1-alternate-amd64.iso ] || wget http://mirrors.us.kernel.org/ubuntu-releases/10.04.1/ubuntu-10.04.1-alternate-amd64.iso)
+(cd install_dev1; [ -e ubuntu-10.04.1-alternate-amd64.iso ] || wget http://pr.willowgarage.com/downloads/ubuntu-10.04.1-alternate-amd64.iso)
+(cd install_dev1/pr2-packages; reprepro -V --noskipold update lucid)
